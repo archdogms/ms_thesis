@@ -1,0 +1,85 @@
+<!doctype html><html><head><meta charset='utf-8'><style>
+@page{size:A4;margin:14mm 14mm;}
+body{font-family:"Microsoft YaHei","PingFang SC",sans-serif;line-height:1.55;padding:0;margin:0;color:#222;font-size:12.5px;}
+h1{font-size:18px;margin:0 0 10px;text-align:center;}
+h2{font-size:15px;margin:10px 0 4px;page-break-after:avoid;}
+h3{font-size:13px;margin:8px 0 4px;page-break-after:avoid;}
+p{margin:4px 0;}
+ul,ol{margin:4px 0 6px;padding-left:20px;}
+li{margin:1px 0;}
+img{max-width:100%;height:auto;page-break-inside:avoid;margin:4px 0;display:block;}
+figure{margin:0;}
+figcaption{text-align:center;font-size:11px;color:#555;margin-top:2px;}
+.row{display:flex;gap:8px;align-items:flex-start;page-break-inside:avoid;}
+.row>figure{flex:1;min-width:0;}
+.row>figure>img{width:100%;max-height:none;}
+table{border-collapse:collapse;width:auto;font-size:11.5px;margin:4px 0;page-break-inside:avoid;}
+th,td{border:1px solid #999;padding:3px 9px;vertical-align:top;}
+pre,code{font-family:Consolas,monospace;white-space:pre-wrap;word-break:break-word;}
+h2+p,h2+ul,h2+ol,h3+p,h3+ul,h3+ol{margin-top:0;}
+</style></head><body><h1 id="2026-04-21">2026-04-21</h1>
+<h2 id="_1">一、桥梁设定</h2>
+<p>以具备明确空间载体的物质性文化载体为主桥梁，以能落实到具体地点的非遗项目为补充桥接层。</p>
+<ul>
+<li>主桥梁：不可移动文物 80、文化景观 19、历史文化名村与传统村落 12、圩市街区 18，均分布于西樵、九江、丹灶；桂城、大沥、里水、狮山在原始数据源中无对应物质载体录入。</li>
+<li>补充桥梁：区级以上非遗 91 项全量纳入。</li>
+<li>软连接层：无稳定空间载体的非遗与典籍知识，仅进入文本与关系图层，不参与空间匹配。</li>
+</ul>
+<h2 id="_2">二、口径</h2>
+<ul>
+<li>0 跳 C：POI → anchor → entity 的种子实体集合。</li>
+<li>1 跳 C：种子 + 关系图上扩 1 步的邻居实体。</li>
+<li>旅游热度 T：POI 密度 + 平均评分 + 评论量，来源独立于文化侧。</li>
+<li>错位 M = T − C。</li>
+<li>分类规则：C ≥ 50 且 T ≥ 50 → 核心耦合；C ≥ 50 → 沉睡潜力；T ≥ 50 → 空心景点；C、T 均 &lt; 25 → 双低空白；其余 → 一般地带。</li>
+</ul>
+<h2 id="_3">三、图</h2>
+<h3 id="1-0-1">图 1 全区错位（0 跳 / 1 跳）</h3>
+<div class="row">
+<figure><img src="file:///C:/Users/ms/Desktop/mid/knowledge_graph/output/figures/fig1_mismatch_0hop.png" alt="0 跳"/><figcaption>0 跳：POI 直接触达的种子实体</figcaption></figure>
+<figure><img src="file:///C:/Users/ms/Desktop/mid/knowledge_graph/output/figures/fig1_mismatch_1hop.png" alt="1 跳"/><figcaption>1 跳：种子 + 关系图扩 1 步邻居</figcaption></figure>
+</div>
+
+<table>
+<thead>
+<tr>
+<th>口径</th>
+<th style="text-align: right;">双低空白</th>
+<th style="text-align: right;">一般地带</th>
+<th style="text-align: right;">沉睡潜力</th>
+<th style="text-align: right;">空心景点</th>
+<th style="text-align: right;">核心耦合</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0 跳</td>
+<td style="text-align: right;">3,870</td>
+<td style="text-align: right;">651</td>
+<td style="text-align: right;">99</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">6</td>
+</tr>
+<tr>
+<td>1 跳</td>
+<td style="text-align: right;">3,841</td>
+<td style="text-align: right;">609</td>
+<td style="text-align: right;">170</td>
+<td style="text-align: right;">34</td>
+<td style="text-align: right;">8</td>
+</tr>
+</tbody>
+</table>
+<p>两张图把"文化—旅游错位值 M"画在 500 m 网格上，红色为旅游远高于文化（空心景点），蓝色为文化远高于旅游（沉睡潜力）。扩到 1 跳后，西樵—九江—丹灶一线由关系图带出的文化格明显增多，沉睡潜力由 99 升到 170，核心耦合由 6 升到 8。</p>
+<h3 id="2">图 2 网格文化 × 旅游分布</h3>
+<p><img alt="散点" src="file:///C:/Users/ms/Desktop/mid/knowledge_graph/output/figures/fig2_category_scatter.png" /></p>
+<p>每个点是一个网格，横轴文化、纵轴旅游，虚线为 50 分位线。四象限分布清晰：左上红色是桂城、大沥的空心景点；右下蓝色是西樵、九江、丹灶的沉睡潜力；右上绿色即核心耦合，数量少，说明文化与旅游的高值区在空间上重合有限。</p>
+<h3 id="3">图 3 文化 × 旅游双核密度</h3>
+<p><img alt="双核密度" src="file:///C:/Users/ms/Desktop/mid/knowledge_graph/output/figures/fig4_density_overlay.png" /></p>
+<p>左图文化核密度，集中在西樵山—九江沿江—丹灶仙岗一带；右图旅游核密度，集中在桂城—大沥—里水组团。两张高值区不重合，是"文化偏西南、旅游偏东北"错位格局的空间证据。</p>
+<h2 id="_4">四、结论</h2>
+<ol>
+<li>文化厚度高值区集中在西樵、九江、丹灶沿线，旅游高值区集中在桂城、大沥、里水组团，空间上呈错位。</li>
+<li>0 跳 → 1 跳后，沉睡潜力 99 → 170，核心耦合 6 → 8（西樵 6、九江 1、大沥 1）。</li>
+<li>桂城无物质桥梁、非遗数量有限，高旅游格远多于文化格，整体呈<strong>空心景点为主 + 7 格沉睡潜力</strong>的结构；该结构是原始数据中桂城物质载体缺失的直接反映，非处理遗漏。</li>
+</ol></body></html>
