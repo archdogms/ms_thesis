@@ -1,0 +1,4598 @@
+[
+  {
+    "poi_id": "B02F5076F0",
+    "poi_name": "西樵山风景名胜区",
+    "poi_lng": 112.976074,
+    "poi_lat": 22.908475,
+    "poi_town": "西樵镇",
+    "review_count": 106,
+    "avg_rating": 4.7,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程",
+      "马蜂窝",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0K229G3RK",
+    "poi_name": "龙母庙",
+    "poi_lng": 112.990348,
+    "poi_lat": 22.823562,
+    "poi_town": "丹灶镇",
+    "review_count": 20,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0GR6O2TKA",
+    "poi_name": "顺联公园里季华东店(3号门)",
+    "poi_lng": 113.160022,
+    "poi_lat": 23.016228,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFG0DY2E",
+    "poi_name": "万达广场佛山南海店(6号门)",
+    "poi_lng": 113.152249,
+    "poi_lat": 23.066464,
+    "poi_town": "桂城街道",
+    "review_count": 8,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFG2CLW7",
+    "poi_name": "一线天",
+    "poi_lng": 112.959465,
+    "poi_lat": 22.935093,
+    "poi_town": "西樵镇",
+    "review_count": 2,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFG0YUHE",
+    "poi_name": "南海观音寺",
+    "poi_lng": 113.108714,
+    "poi_lat": 23.175651,
+    "poi_town": "大沥镇",
+    "review_count": 32,
+    "avg_rating": 4.7,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F50WYZN",
+    "poi_name": "桥南村公园",
+    "poi_lng": 113.163716,
+    "poi_lat": 23.198192,
+    "poi_town": "里水镇",
+    "review_count": 2,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFKZDQA6",
+    "poi_name": "樵山文化中心",
+    "poi_lng": 112.95997,
+    "poi_lat": 22.934058,
+    "poi_town": "西樵镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFJEQYNF",
+    "poi_name": "贝儿健儿童成长主题乐园(源富广场店)",
+    "poi_lng": 113.096329,
+    "poi_lat": 23.141043,
+    "poi_town": "狮山镇",
+    "review_count": 2,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HR0MT89C",
+    "poi_name": "中央广播电视总台南海影视城(北3门)",
+    "poi_lng": 113.107153,
+    "poi_lat": 23.191514,
+    "poi_town": "狮山镇",
+    "review_count": 4,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HBR57B8T",
+    "poi_name": "博爱湖公园北区",
+    "poi_lng": 112.984615,
+    "poi_lat": 23.130036,
+    "poi_town": "狮山镇",
+    "review_count": 2,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F506TW0",
+    "poi_name": "桃园高尔夫会所",
+    "poi_lng": 113.096736,
+    "poi_lat": 23.187074,
+    "poi_town": "大沥镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFIKDTX5",
+    "poi_name": "天空之眼摩天轮(金沙洲万达广场)",
+    "poi_lng": 113.197274,
+    "poi_lat": 23.140697,
+    "poi_town": "里水镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFHF702W",
+    "poi_name": "梦里水乡百花园",
+    "poi_lng": 113.174503,
+    "poi_lat": 23.226727,
+    "poi_town": "里水镇",
+    "review_count": 15,
+    "avg_rating": 4.4,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0H0J7X2FW",
+    "poi_name": "南海区体育中心体育场",
+    "poi_lng": 113.007754,
+    "poi_lat": 23.115816,
+    "poi_town": "狮山镇",
+    "review_count": 7,
+    "avg_rating": 4.7,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F5077T5",
+    "poi_name": "白云洞风景区",
+    "poi_lng": 112.962325,
+    "poi_lat": 22.933011,
+    "poi_town": "西樵镇",
+    "review_count": 14,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F5079WX",
+    "poi_name": "桂城儿童公园",
+    "poi_lng": 113.209412,
+    "poi_lat": 23.037355,
+    "poi_town": "桂城街道",
+    "review_count": 27,
+    "avg_rating": 4.7,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0H06HFNWL",
+    "poi_name": "耕山小寨",
+    "poi_lng": 112.891372,
+    "poi_lat": 23.021509,
+    "poi_town": "丹灶镇",
+    "review_count": 17,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFJ29U41",
+    "poi_name": "咚咚欢乐世界(和信广场店)",
+    "poi_lng": 113.000758,
+    "poi_lat": 23.123628,
+    "poi_town": "狮山镇",
+    "review_count": 8,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFKJD696",
+    "poi_name": "西樵黄大仙祠",
+    "poi_lng": 112.97084,
+    "poi_lat": 22.910117,
+    "poi_town": "西樵镇",
+    "review_count": 34,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "马蜂窝"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFFAQ2KJ",
+    "poi_name": "汇丰银行(佛山分行)",
+    "poi_lng": 113.149473,
+    "poi_lat": 23.055847,
+    "poi_town": "桂城街道",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HGV5Q8L6",
+    "poi_name": "南海体育中心",
+    "poi_lng": 113.008733,
+    "poi_lat": 23.11687,
+    "poi_town": "狮山镇",
+    "review_count": 3,
+    "avg_rating": 4.8,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFKM9807",
+    "poi_name": "南海西樵香云纱博物馆",
+    "poi_lng": 112.92976,
+    "poi_lat": 22.97407,
+    "poi_town": "西樵镇",
+    "review_count": 11,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0H62CZH3V",
+    "poi_name": "天后宫",
+    "poi_lng": 112.938167,
+    "poi_lat": 22.981387,
+    "poi_town": "丹灶镇",
+    "review_count": 11,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFFEOUOF",
+    "poi_name": "财神庙",
+    "poi_lng": 113.126972,
+    "poi_lat": 23.09602,
+    "poi_town": "大沥镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0I2YDRIF8",
+    "poi_name": "文化艺术中心",
+    "poi_lng": 113.20033,
+    "poi_lat": 23.133643,
+    "poi_town": "里水镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFHS5G1Y",
+    "poi_name": "大夫祠",
+    "poi_lng": 113.083468,
+    "poi_lat": 23.066242,
+    "poi_town": "大沥镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFG1QYZE",
+    "poi_name": "西樵山观光索道上站售票处",
+    "poi_lng": 112.961043,
+    "poi_lat": 22.933017,
+    "poi_town": "西樵镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFI918H0",
+    "poi_name": "卡多多卡朋西餐(嘉洲广场)",
+    "poi_lng": 113.183762,
+    "poi_lat": 23.111019,
+    "poi_town": "大沥镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFFWH2CH",
+    "poi_name": "摩崖石刻",
+    "poi_lng": 112.975743,
+    "poi_lat": 22.932326,
+    "poi_town": "西樵镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFKV9JH8",
+    "poi_name": "深井烧鹅(兴业广场店)",
+    "poi_lng": 112.983125,
+    "poi_lat": 23.206637,
+    "poi_town": "狮山镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFIN9PEU",
+    "poi_name": "珠江钢琴(广百广场店)",
+    "poi_lng": 113.200716,
+    "poi_lat": 23.177677,
+    "poi_town": "里水镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HRCONHXW",
+    "poi_name": "大润发家电区(鸿大广场店)",
+    "poi_lng": 113.129113,
+    "poi_lat": 23.050898,
+    "poi_town": "桂城街道",
+    "review_count": 2,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFIJWP9Y",
+    "poi_name": "西樵平沙岛-廷俊李公祠",
+    "poi_lng": 112.883762,
+    "poi_lat": 22.931783,
+    "poi_town": "西樵镇",
+    "review_count": 51,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "马蜂窝"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50URGB",
+    "poi_name": "狮山镇文化站",
+    "poi_lng": 112.977584,
+    "poi_lat": 23.092932,
+    "poi_town": "狮山镇",
+    "review_count": 4,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFG250M9",
+    "poi_name": "石燕岩-休息亭",
+    "poi_lng": 112.97889,
+    "poi_lat": 22.920693,
+    "poi_town": "西樵镇",
+    "review_count": 5,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFJ8L54R",
+    "poi_name": "仙湖音乐喷泉广场",
+    "poi_lng": 112.890483,
+    "poi_lat": 23.052763,
+    "poi_town": "狮山镇",
+    "review_count": 4,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFG2F4GD",
+    "poi_name": "汤臣倍健(国昌广场)",
+    "poi_lng": 113.197,
+    "poi_lat": 23.143507,
+    "poi_town": "里水镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFH989SN",
+    "poi_name": "九江镇望海观音寺(不对外开放)",
+    "poi_lng": 113.006075,
+    "poi_lat": 22.822722,
+    "poi_town": "九江镇",
+    "review_count": 2,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HKPD8ON5",
+    "poi_name": "梦里水乡-荷花世界",
+    "poi_lng": 113.167693,
+    "poi_lat": 23.231023,
+    "poi_town": "里水镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HR9Z7IJO",
+    "poi_name": "佛山南海富力广场",
+    "poi_lng": 113.144661,
+    "poi_lat": 23.056359,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFG27S29",
+    "poi_name": "舍利塔",
+    "poi_lng": 112.973396,
+    "poi_lat": 22.933479,
+    "poi_town": "西樵镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFL0YCL2",
+    "poi_name": "天空之城城堡探险(永润广场里广新城店)",
+    "poi_lng": 113.189573,
+    "poi_lat": 23.186743,
+    "poi_town": "里水镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0LB1AYOYQ",
+    "poi_name": "孔溪天后三元古庙",
+    "poi_lng": 113.18722,
+    "poi_lat": 23.041628,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFG27VUO",
+    "poi_name": "西樵山风景名胜区-南海观音文化苑",
+    "poi_lng": 112.971937,
+    "poi_lat": 22.932516,
+    "poi_town": "西樵镇",
+    "review_count": 5,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "马蜂窝"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0G0M9NJBX",
+    "poi_name": "平洲玉器街景区游客中心",
+    "poi_lng": 113.200128,
+    "poi_lat": 23.03062,
+    "poi_town": "桂城街道",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFGA63MT",
+    "poi_name": "渔耕粤韵文化旅游园",
+    "poi_lng": 112.972714,
+    "poi_lat": 22.905599,
+    "poi_town": "西樵镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F507872",
+    "poi_name": "中心广场(玉器街)",
+    "poi_lng": 113.202311,
+    "poi_lat": 23.026472,
+    "poi_town": "桂城街道",
+    "review_count": 11,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HR0GRI5A",
+    "poi_name": "顺德菜(万达广场佛山南海店D座店)",
+    "poi_lng": 113.153123,
+    "poi_lat": 23.066107,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0G064KRPW",
+    "poi_name": "华莱士(罗村中心广场店)",
+    "poi_lng": 113.049459,
+    "poi_lat": 23.063933,
+    "poi_town": "狮山镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0LG0L6MZH",
+    "poi_name": "北山村罗氏宗祠",
+    "poi_lng": 113.005008,
+    "poi_lat": 23.16331,
+    "poi_town": "狮山镇",
+    "review_count": 6,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HBKXUTS0",
+    "poi_name": "滴水岩",
+    "poi_lng": 112.966649,
+    "poi_lat": 22.927681,
+    "poi_town": "西樵镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFHSYNVK",
+    "poi_name": "百果园(万达广场店)",
+    "poi_lng": 113.153661,
+    "poi_lat": 23.066243,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0J0GRAL8G",
+    "poi_name": "开心麻花·花花世界佛山",
+    "poi_lng": 113.145574,
+    "poi_lat": 23.047157,
+    "poi_town": "桂城街道",
+    "review_count": 2,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F503R4G",
+    "poi_name": "中央电视台南海影视城",
+    "poi_lng": 113.10825,
+    "poi_lat": 23.186927,
+    "poi_town": "狮山镇",
+    "review_count": 205,
+    "avg_rating": 4.6,
+    "positive_count": 4,
+    "neutral_count": 14,
+    "negative_count": 3,
+    "sources": [
+      "去哪儿",
+      "携程",
+      "马蜂窝",
+      "高德"
+    ],
+    "positive_rate": 19.0,
+    "negative_rate": 14.3
+  },
+  {
+    "poi_id": "B0FFFOVW3H",
+    "poi_name": "西樵山国艺影视城",
+    "poi_lng": 112.968458,
+    "poi_lat": 22.911054,
+    "poi_town": "西樵镇",
+    "review_count": 54,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程",
+      "马蜂窝"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFF3NK66",
+    "poi_name": "南海博物馆",
+    "poi_lng": 112.977738,
+    "poi_lat": 22.907559,
+    "poi_town": "西樵镇",
+    "review_count": 60,
+    "avg_rating": 4.4,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F50VD3U",
+    "poi_name": "南海万科广场",
+    "poi_lng": 113.148941,
+    "poi_lat": 23.039184,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFF0KPN3",
+    "poi_name": "和信广场",
+    "poi_lng": 113.000248,
+    "poi_lat": 23.123862,
+    "poi_town": "狮山镇",
+    "review_count": 2,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0IUD5JAZE",
+    "poi_name": "牛牛西厨(大沥永旺梦乐城店)",
+    "poi_lng": 113.143625,
+    "poi_lat": 23.114647,
+    "poi_town": "大沥镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFIJRORR",
+    "poi_name": "拉夏贝尔(鹏瑞利季华广场店)",
+    "poi_lng": 113.147875,
+    "poi_lat": 23.014119,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50WASN",
+    "poi_name": "友壹町寿司(嘉洲广场店)",
+    "poi_lng": 113.183553,
+    "poi_lat": 23.11135,
+    "poi_town": "里水镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFFA1KL7",
+    "poi_name": "冯不记米坊(南海金盛广场店)",
+    "poi_lng": 113.046332,
+    "poi_lat": 23.059966,
+    "poi_town": "狮山镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFFFA3KD",
+    "poi_name": "星巴克(佛山悦万广场分店)",
+    "poi_lng": 113.135462,
+    "poi_lat": 23.044762,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50WAWE",
+    "poi_name": "萨莉亚意式餐厅(鸿大广场店)",
+    "poi_lng": 113.128754,
+    "poi_lat": 23.050932,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFG4B8C9",
+    "poi_name": "南国桃园",
+    "poi_lng": 113.103899,
+    "poi_lat": 23.183076,
+    "poi_town": "大沥镇",
+    "review_count": 14,
+    "avg_rating": 4.7,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFHHJ5YR",
+    "poi_name": "枫林白塔",
+    "poi_lng": 112.958687,
+    "poi_lat": 22.936283,
+    "poi_town": "西樵镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFG24UH1",
+    "poi_name": "基督教盐步堂",
+    "poi_lng": 113.184026,
+    "poi_lat": 23.080738,
+    "poi_town": "大沥镇",
+    "review_count": 7,
+    "avg_rating": 4.3,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFF0FDHE",
+    "poi_name": "佛山植物园",
+    "poi_lng": 112.99295,
+    "poi_lat": 23.097592,
+    "poi_town": "狮山镇",
+    "review_count": 12,
+    "avg_rating": 4.6,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F50YH2H",
+    "poi_name": "南海湾森林生态园",
+    "poi_lng": 112.8746,
+    "poi_lat": 22.851696,
+    "poi_town": "西樵镇",
+    "review_count": 200,
+    "avg_rating": 4.5,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程",
+      "马蜂窝",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFJYGJTV",
+    "poi_name": "烟桥古村",
+    "poi_lng": 112.959574,
+    "poi_lat": 22.872088,
+    "poi_town": "九江镇",
+    "review_count": 10,
+    "avg_rating": 4.4,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFGI15WQ",
+    "poi_name": "文翰湖公园",
+    "poi_lng": 113.239334,
+    "poi_lat": 23.015086,
+    "poi_town": "桂城街道",
+    "review_count": 10,
+    "avg_rating": 4.6,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFHJ45NL",
+    "poi_name": "西樵山风景名胜区-天湖公园",
+    "poi_lng": 112.965024,
+    "poi_lat": 22.932507,
+    "poi_town": "西樵镇",
+    "review_count": 72,
+    "avg_rating": 4.2,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程",
+      "马蜂窝",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0HDDK8M6O",
+    "poi_name": "九龙岩",
+    "poi_lng": 112.97281,
+    "poi_lat": 22.920043,
+    "poi_town": "西樵镇",
+    "review_count": 5,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFGA58BQ",
+    "poi_name": "银坑村祠堂(乡约)",
+    "poi_lng": 112.883841,
+    "poi_lat": 22.858808,
+    "poi_town": "西樵镇",
+    "review_count": 2,
+    "avg_rating": 4.1,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F501SVF",
+    "poi_name": "黄飞鸿狮艺武术馆",
+    "poi_lng": 112.945135,
+    "poi_lat": 22.923938,
+    "poi_town": "西樵镇",
+    "review_count": 42,
+    "avg_rating": 4.5,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程",
+      "马蜂窝",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F5076XZ",
+    "poi_name": "康有为故居(东南门)",
+    "poi_lng": 112.899166,
+    "poi_lat": 23.023716,
+    "poi_town": "丹灶镇",
+    "review_count": 32,
+    "avg_rating": 4.82,
+    "positive_count": 1,
+    "neutral_count": 10,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "马蜂窝"
+    ],
+    "positive_rate": 9.1,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F503PVG",
+    "poi_name": "南海湿地主题公园",
+    "poi_lng": 112.96519,
+    "poi_lat": 23.08136,
+    "poi_town": "狮山镇",
+    "review_count": 21,
+    "avg_rating": 4.2,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "马蜂窝",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F506TYO",
+    "poi_name": "千灯湖公园",
+    "poi_lng": 113.146094,
+    "poi_lat": 23.05361,
+    "poi_town": "桂城街道",
+    "review_count": 86,
+    "avg_rating": 4.7,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "马蜂窝",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0J2B1UNZC",
+    "poi_name": "西樵山森吧飞越树上探险乐园",
+    "poi_lng": 112.973594,
+    "poi_lat": 22.929661,
+    "poi_town": "西樵镇",
+    "review_count": 11,
+    "avg_rating": 4.5,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0KR3U1J41",
+    "poi_name": "佛山千灯湖音乐秀场",
+    "poi_lng": 113.156366,
+    "poi_lat": 23.073309,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFLEX7DN",
+    "poi_name": "叠滘水乡",
+    "poi_lng": 113.129475,
+    "poi_lat": 23.059334,
+    "poi_town": "桂城街道",
+    "review_count": 3,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50UTH5",
+    "poi_name": "叶问宗师馆",
+    "poi_lng": 113.092699,
+    "poi_lat": 23.063952,
+    "poi_town": "狮山镇",
+    "review_count": 11,
+    "avg_rating": 4.3,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F501IFU",
+    "poi_name": "佛山市南海区文化馆",
+    "poi_lng": 113.14645,
+    "poi_lat": 23.022247,
+    "poi_town": "桂城街道",
+    "review_count": 14,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0LA2ULNM1",
+    "poi_name": "南海鹿尔花园",
+    "poi_lng": 113.106062,
+    "poi_lat": 23.112403,
+    "poi_town": "大沥镇",
+    "review_count": 10,
+    "avg_rating": 4.7,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0IRYUBYVX",
+    "poi_name": "多元宝贝世界(龙汇店)",
+    "poi_lng": 113.144766,
+    "poi_lat": 23.110977,
+    "poi_town": "大沥镇",
+    "review_count": 2,
+    "avg_rating": 4.5,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F50YSSQ",
+    "poi_name": "西樵山宝峰寺",
+    "poi_lng": 112.977185,
+    "poi_lat": 22.929907,
+    "poi_town": "西樵镇",
+    "review_count": 3,
+    "avg_rating": 4.4,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0J1F79OGZ",
+    "poi_name": "瞧溪谷西樵山亲水溪谷",
+    "poi_lng": 112.984316,
+    "poi_lat": 22.918195,
+    "poi_town": "西樵镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFG1YR84",
+    "poi_name": "黄飞鸿狮艺武术馆-表演台",
+    "poi_lng": 112.939961,
+    "poi_lat": 22.926852,
+    "poi_town": "西樵镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0G1DAE4LO",
+    "poi_name": "西樵山国家地质公园",
+    "poi_lng": 112.971355,
+    "poi_lat": 22.926396,
+    "poi_town": "西樵镇",
+    "review_count": 6,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFGM4O2F",
+    "poi_name": "仙湖度假区",
+    "poi_lng": 112.876556,
+    "poi_lat": 23.057729,
+    "poi_town": "狮山镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFG27DFD",
+    "poi_name": "蝴蝶谷",
+    "poi_lng": 112.968255,
+    "poi_lat": 22.921958,
+    "poi_town": "西樵镇",
+    "review_count": 11,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFG8XPXK",
+    "poi_name": "贤鲁岛",
+    "poi_lng": 113.164329,
+    "poi_lat": 23.262175,
+    "poi_town": "里水镇",
+    "review_count": 9,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFJ2UYP8",
+    "poi_name": "梦里水乡景区",
+    "poi_lng": 113.157412,
+    "poi_lat": 23.193834,
+    "poi_town": "里水镇",
+    "review_count": 2,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFH42HYC",
+    "poi_name": "南海神庙",
+    "poi_lng": 113.080252,
+    "poi_lat": 23.180045,
+    "poi_town": "狮山镇",
+    "review_count": 11,
+    "avg_rating": 4.0,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F503CYH",
+    "poi_name": "佛山高尔夫球会",
+    "poi_lng": 113.052089,
+    "poi_lat": 23.096359,
+    "poi_town": "狮山镇",
+    "review_count": 6,
+    "avg_rating": 4.6,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0L65SO443",
+    "poi_name": "九龙Park欢乐世界",
+    "poi_lng": 113.147258,
+    "poi_lat": 23.109479,
+    "poi_town": "大沥镇",
+    "review_count": 2,
+    "avg_rating": 4.6,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F50WYWN",
+    "poi_name": "海寿岛",
+    "poi_lng": 112.981474,
+    "poi_lat": 22.813056,
+    "poi_town": "九江镇",
+    "review_count": 3,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFIUK5ZQ",
+    "poi_name": "千灯湖公园北区",
+    "poi_lng": 113.147039,
+    "poi_lat": 23.069885,
+    "poi_town": "桂城街道",
+    "review_count": 11,
+    "avg_rating": 4.5,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFG4RUQU",
+    "poi_name": "吴家大院",
+    "poi_lng": 113.017758,
+    "poi_lat": 22.833102,
+    "poi_town": "九江镇",
+    "review_count": 21,
+    "avg_rating": 4.3,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFIR4D6W",
+    "poi_name": "大观博物馆",
+    "poi_lng": 113.140513,
+    "poi_lat": 23.052291,
+    "poi_town": "桂城街道",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50YS3U",
+    "poi_name": "三山森林公园",
+    "poi_lng": 113.227994,
+    "poi_lat": 23.031471,
+    "poi_town": "桂城街道",
+    "review_count": 129,
+    "avg_rating": 4.6,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F505476",
+    "poi_name": "礌岗公园(北门)",
+    "poi_lng": 113.140528,
+    "poi_lat": 23.04872,
+    "poi_town": "桂城街道",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F5076NF",
+    "poi_name": "庆云洞",
+    "poi_lng": 112.872731,
+    "poi_lat": 22.857182,
+    "poi_town": "西樵镇",
+    "review_count": 9,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HKCS5YZI",
+    "poi_name": "桂花岛",
+    "poi_lng": 113.141839,
+    "poi_lat": 23.046792,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFG2ERMT",
+    "poi_name": "九龙公园",
+    "poi_lng": 113.147827,
+    "poi_lat": 23.109498,
+    "poi_town": "里水镇",
+    "review_count": 24,
+    "avg_rating": 4.6,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0HRVR1I92",
+    "poi_name": "千灯湖公园-南区",
+    "poi_lng": 113.140758,
+    "poi_lat": 23.055269,
+    "poi_town": "桂城街道",
+    "review_count": 2,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0KRMZRLQY",
+    "poi_name": "佛山活体昆虫博物馆",
+    "poi_lng": 112.957381,
+    "poi_lat": 22.942898,
+    "poi_town": "西樵镇",
+    "review_count": 9,
+    "avg_rating": 4.3,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFGB50JA",
+    "poi_name": "盐步老龙",
+    "poi_lng": 113.163582,
+    "poi_lat": 23.092553,
+    "poi_town": "大沥镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFI30V9U",
+    "poi_name": "翰林湖农业公园",
+    "poi_lng": 112.932082,
+    "poi_lat": 23.051207,
+    "poi_town": "狮山镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFKUREHD",
+    "poi_name": "展旗峰生态公园",
+    "poi_lng": 113.149032,
+    "poi_lat": 23.151143,
+    "poi_town": "里水镇",
+    "review_count": 11,
+    "avg_rating": 4.6,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F5076GC",
+    "poi_name": "南海体育馆",
+    "poi_lng": 113.141117,
+    "poi_lat": 23.047486,
+    "poi_town": "桂城街道",
+    "review_count": 6,
+    "avg_rating": 4.7,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0JGYHX5I0",
+    "poi_name": "佛山市岭南金融博物馆(新馆)",
+    "poi_lng": 113.148703,
+    "poi_lat": 23.064166,
+    "poi_town": "桂城街道",
+    "review_count": 16,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFGLP8I8",
+    "poi_name": "假日广场",
+    "poi_lng": 113.181442,
+    "poi_lat": 23.15507,
+    "poi_town": "里水镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F508KA7",
+    "poi_name": "九江双蒸博物馆",
+    "poi_lng": 113.026582,
+    "poi_lat": 22.812498,
+    "poi_town": "九江镇",
+    "review_count": 11,
+    "avg_rating": 4.4,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFF4FNIM",
+    "poi_name": "孝德湖公园",
+    "poi_lng": 113.059408,
+    "poi_lat": 23.069717,
+    "poi_town": "狮山镇",
+    "review_count": 7,
+    "avg_rating": 4.6,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0JRKMVGXF",
+    "poi_name": "广东省非物质文化遗产佛山咏春拳东二义咏堂",
+    "poi_lng": 113.160155,
+    "poi_lat": 23.022605,
+    "poi_town": "桂城街道",
+    "review_count": 2,
+    "avg_rating": 3.1,
+    "positive_count": 0,
+    "neutral_count": 1,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 0.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0G3HL6JFL",
+    "poi_name": "展旗楼",
+    "poi_lng": 113.14225,
+    "poi_lat": 23.153776,
+    "poi_town": "里水镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0H0J7XPQC",
+    "poi_name": "夏漖粮园·喜文化创意基地",
+    "poi_lng": 113.174149,
+    "poi_lat": 23.046413,
+    "poi_town": "桂城街道",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0JRRYOSNV",
+    "poi_name": "星沐森林·昆虫自然博物馆",
+    "poi_lng": 113.159053,
+    "poi_lat": 23.016404,
+    "poi_town": "桂城街道",
+    "review_count": 3,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0LKBMSFQ7",
+    "poi_name": "佛山市南海区图书馆",
+    "poi_lng": 113.143379,
+    "poi_lat": 23.053251,
+    "poi_town": "桂城街道",
+    "review_count": 34,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFIJSJRK",
+    "poi_name": "欢乐沙滩",
+    "poi_lng": 112.877046,
+    "poi_lat": 23.057401,
+    "poi_town": "丹灶镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50YCH3",
+    "poi_name": "罗村中心广场",
+    "poi_lng": 113.053367,
+    "poi_lat": 23.060848,
+    "poi_town": "狮山镇",
+    "review_count": 5,
+    "avg_rating": 4.5,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFG279L5",
+    "poi_name": "坐看云起",
+    "poi_lng": 112.959616,
+    "poi_lat": 22.935719,
+    "poi_town": "西樵镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFH3XXY4",
+    "poi_name": "陈氏大宗祠",
+    "poi_lng": 113.196227,
+    "poi_lat": 23.190165,
+    "poi_town": "里水镇",
+    "review_count": 2,
+    "avg_rating": 4.0,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFFOTG30",
+    "poi_name": "彩虹桥",
+    "poi_lng": 113.156667,
+    "poi_lat": 23.034414,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50WJ53",
+    "poi_name": "西华寺",
+    "poi_lng": 113.201118,
+    "poi_lat": 23.201747,
+    "poi_town": "里水镇",
+    "review_count": 2,
+    "avg_rating": 4.3,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFG2AME7",
+    "poi_name": "西樵山风景名胜区-观音庙",
+    "poi_lng": 112.964449,
+    "poi_lat": 22.933622,
+    "poi_town": "西樵镇",
+    "review_count": 2,
+    "avg_rating": 4.2,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFLQE8AB",
+    "poi_name": "高铁公园",
+    "poi_lng": 113.243563,
+    "poi_lat": 23.021445,
+    "poi_town": "桂城街道",
+    "review_count": 2,
+    "avg_rating": 4.3,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFH4AQI7",
+    "poi_name": "陈氏宗祠",
+    "poi_lng": 113.146747,
+    "poi_lat": 23.131128,
+    "poi_town": "里水镇",
+    "review_count": 8,
+    "avg_rating": 3.12,
+    "positive_count": 0,
+    "neutral_count": 2,
+    "negative_count": 2,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 0.0,
+    "negative_rate": 50.0
+  },
+  {
+    "poi_id": "B02F508PZ5",
+    "poi_name": "怡海公园",
+    "poi_lng": 113.163804,
+    "poi_lat": 23.018378,
+    "poi_town": "桂城街道",
+    "review_count": 14,
+    "avg_rating": 4.2,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0JKBCNVVK",
+    "poi_name": "大板牙主题乐园",
+    "poi_lng": 113.127016,
+    "poi_lat": 23.068857,
+    "poi_town": "桂城街道",
+    "review_count": 2,
+    "avg_rating": 4.4,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFIVH0A1",
+    "poi_name": "康有为博物馆",
+    "poi_lng": 112.902309,
+    "poi_lat": 23.021688,
+    "poi_town": "丹灶镇",
+    "review_count": 2,
+    "avg_rating": 4.1,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0LGTX12VB",
+    "poi_name": "梁氏大宗祠",
+    "poi_lng": 113.131515,
+    "poi_lat": 23.153857,
+    "poi_town": "里水镇",
+    "review_count": 3,
+    "avg_rating": 3.45,
+    "positive_count": 0,
+    "neutral_count": 2,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 0.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFG63FJW",
+    "poi_name": "广东南海金沙岛国家湿地公园",
+    "poi_lng": 112.9608,
+    "poi_lat": 23.076499,
+    "poi_town": "丹灶镇",
+    "review_count": 4,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HUVZ2GKT",
+    "poi_name": "樵山文化中心C区",
+    "poi_lng": 112.960698,
+    "poi_lat": 22.934372,
+    "poi_town": "西樵镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50WJ4R",
+    "poi_name": "映月湖公园",
+    "poi_lng": 113.196447,
+    "poi_lat": 23.039077,
+    "poi_town": "桂城街道",
+    "review_count": 11,
+    "avg_rating": 4.4,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F5076NL",
+    "poi_name": "璜矶鹭鸟天堂",
+    "poi_lng": 112.970525,
+    "poi_lat": 22.866984,
+    "poi_town": "九江镇",
+    "review_count": 4,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFFH2PSL",
+    "poi_name": "黄岐公园",
+    "poi_lng": 113.192686,
+    "poi_lat": 23.12078,
+    "poi_town": "大沥镇",
+    "review_count": 22,
+    "avg_rating": 4.4,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFFV3BG0",
+    "poi_name": "听音广场",
+    "poi_lng": 112.957817,
+    "poi_lat": 22.936726,
+    "poi_town": "西樵镇",
+    "review_count": 11,
+    "avg_rating": 4.3,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFF365DR",
+    "poi_name": "碧玉洞",
+    "poi_lng": 112.979454,
+    "poi_lat": 22.938499,
+    "poi_town": "西樵镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFFAMBP4",
+    "poi_name": "东王府",
+    "poi_lng": 113.102843,
+    "poi_lat": 23.188455,
+    "poi_town": "大沥镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0LAP7F790",
+    "poi_name": "霍氏宗祠",
+    "poi_lng": 112.930983,
+    "poi_lat": 22.991846,
+    "poi_town": "丹灶镇",
+    "review_count": 2,
+    "avg_rating": 2.8,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 1,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 0.0,
+    "negative_rate": 100.0
+  },
+  {
+    "poi_id": "B02F50UENU",
+    "poi_name": "沙溪公园",
+    "poi_lng": 113.199386,
+    "poi_lat": 23.125777,
+    "poi_town": "里水镇",
+    "review_count": 18,
+    "avg_rating": 4.2,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0H1KD15OJ",
+    "poi_name": "碰碰车",
+    "poi_lng": 112.961845,
+    "poi_lat": 23.08438,
+    "poi_town": "丹灶镇",
+    "review_count": 5,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFIWPSPF",
+    "poi_name": "桃花湖",
+    "poi_lng": 113.099865,
+    "poi_lat": 23.189166,
+    "poi_town": "大沥镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HUVZ29A5",
+    "poi_name": "樵山文化中心A区",
+    "poi_lng": 112.953945,
+    "poi_lat": 22.93661,
+    "poi_town": "西樵镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFH22EBA",
+    "poi_name": "南海花卉博览园",
+    "poi_lng": 113.172379,
+    "poi_lat": 23.178939,
+    "poi_town": "里水镇",
+    "review_count": 2,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0K2XZ9QGF",
+    "poi_name": "少林寺",
+    "poi_lng": 112.971329,
+    "poi_lat": 22.907987,
+    "poi_town": "西樵镇",
+    "review_count": 2,
+    "avg_rating": 4.0,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F50WIZD",
+    "poi_name": "同庆坊",
+    "poi_lng": 113.168893,
+    "poi_lat": 22.997967,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFIFHDRB",
+    "poi_name": "三山花海乐田",
+    "poi_lng": 113.234888,
+    "poi_lat": 23.007979,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFH3XV4E",
+    "poi_name": "周氏大宗祠",
+    "poi_lng": 113.108977,
+    "poi_lat": 23.150114,
+    "poi_town": "大沥镇",
+    "review_count": 2,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F507JSS",
+    "poi_name": "大沥公园",
+    "poi_lng": 113.12273,
+    "poi_lat": 23.111971,
+    "poi_town": "大沥镇",
+    "review_count": 8,
+    "avg_rating": 4.3,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0HG2U0KTA",
+    "poi_name": "铁军公园",
+    "poi_lng": 112.907543,
+    "poi_lat": 22.988147,
+    "poi_town": "西樵镇",
+    "review_count": 2,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HKO5IJHF",
+    "poi_name": "阳光沙滩",
+    "poi_lng": 113.233225,
+    "poi_lat": 23.019568,
+    "poi_town": "桂城街道",
+    "review_count": 2,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0LD3SFR5N",
+    "poi_name": "敦根水上龙舟乐园",
+    "poi_lng": 113.000148,
+    "poi_lat": 22.869621,
+    "poi_town": "丹灶镇",
+    "review_count": 2,
+    "avg_rating": 3.3,
+    "positive_count": 0,
+    "neutral_count": 1,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 0.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFMB0M81",
+    "poi_name": "陈氏祠堂",
+    "poi_lng": 113.064585,
+    "poi_lat": 23.224563,
+    "poi_town": "狮山镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F5076HS",
+    "poi_name": "南海科学馆",
+    "poi_lng": 113.140106,
+    "poi_lat": 23.030084,
+    "poi_town": "桂城街道",
+    "review_count": 2,
+    "avg_rating": 4.3,
+    "positive_count": 1,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFG3QKJB",
+    "poi_name": "黄氏大宗祠",
+    "poi_lng": 113.021404,
+    "poi_lat": 23.062956,
+    "poi_town": "狮山镇",
+    "review_count": 11,
+    "avg_rating": 3.6,
+    "positive_count": 0,
+    "neutral_count": 1,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 0.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0G23ABBRG",
+    "poi_name": "摩天轮",
+    "poi_lng": 112.983544,
+    "poi_lat": 22.838289,
+    "poi_town": "丹灶镇",
+    "review_count": 11,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFHRPUYH",
+    "poi_name": "观音庙",
+    "poi_lng": 113.191867,
+    "poi_lat": 23.026327,
+    "poi_town": "桂城街道",
+    "review_count": 4,
+    "avg_rating": 3.87,
+    "positive_count": 1,
+    "neutral_count": 2,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 33.3,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B0FFH49S2C",
+    "poi_name": "玉虚宫",
+    "poi_lng": 113.194021,
+    "poi_lat": 23.186435,
+    "poi_town": "里水镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0J0PU50KO",
+    "poi_name": "南海区工人文化宫",
+    "poi_lng": 112.995354,
+    "poi_lat": 22.8425,
+    "poi_town": "九江镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50XHK7",
+    "poi_name": "市民广场",
+    "poi_lng": 113.002752,
+    "poi_lat": 23.119338,
+    "poi_town": "狮山镇",
+    "review_count": 3,
+    "avg_rating": 4.2,
+    "positive_count": 2,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程",
+      "高德"
+    ],
+    "positive_rate": 100.0,
+    "negative_rate": 0.0
+  },
+  {
+    "poi_id": "B02F50UZCU",
+    "poi_name": "华南师范大学(佛山校区南海校园)图书馆",
+    "poi_lng": 113.026773,
+    "poi_lat": 23.146194,
+    "poi_town": "狮山镇",
+    "review_count": 3,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0JBS5S8NS",
+    "poi_name": "从一蓝莓采摘园(南海白塔店)",
+    "poi_lng": 113.197534,
+    "poi_lat": 23.187539,
+    "poi_town": "里水镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFL92KWP",
+    "poi_name": "水月宫",
+    "poi_lng": 113.169373,
+    "poi_lat": 23.113815,
+    "poi_town": "里水镇",
+    "review_count": 3,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFM9MAH2",
+    "poi_name": "南海国际会议中心",
+    "poi_lng": 113.144657,
+    "poi_lat": 23.109703,
+    "poi_town": "里水镇",
+    "review_count": 12,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0JU576YWA",
+    "poi_name": "映·美术馆",
+    "poi_lng": 113.187381,
+    "poi_lat": 23.033381,
+    "poi_town": "桂城街道",
+    "review_count": 19,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0I1G70ATO",
+    "poi_name": "古董老爷车博物馆",
+    "poi_lng": 113.128685,
+    "poi_lat": 23.069166,
+    "poi_town": "桂城街道",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFFEOV26",
+    "poi_name": "九龙山森林公园",
+    "poi_lng": 113.114213,
+    "poi_lat": 23.282853,
+    "poi_town": "大沥镇",
+    "review_count": 8,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0JROAU7JW",
+    "poi_name": "如轩·海鲜砂锅粥·潮汕菜(黄岐嘉州广场店)",
+    "poi_lng": 113.181953,
+    "poi_lat": 23.11027,
+    "poi_town": "大沥镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F507PK8",
+    "poi_name": "大沥文化中心",
+    "poi_lng": 113.117097,
+    "poi_lat": 23.114685,
+    "poi_town": "大沥镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFHHHO38",
+    "poi_name": "观光车北门站",
+    "poi_lng": 112.980879,
+    "poi_lat": 22.93878,
+    "poi_town": "西樵镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFKTPRMN",
+    "poi_name": "E.LAND(广百广场店)",
+    "poi_lng": 113.20041,
+    "poi_lat": 23.178178,
+    "poi_town": "里水镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F5076X1",
+    "poi_name": "和桂文化广场",
+    "poi_lng": 113.097516,
+    "poi_lat": 23.266155,
+    "poi_town": "里水镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "BV10609010",
+    "poi_name": "浔峰山公园(公交站)",
+    "poi_lng": 113.201299,
+    "poi_lat": 23.177353,
+    "poi_town": "里水镇",
+    "review_count": 23,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F501Q4Z",
+    "poi_name": "南海文化公园",
+    "poi_lng": 113.145818,
+    "poi_lat": 23.022913,
+    "poi_town": "桂城街道",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F5077H5",
+    "poi_name": "百花时代广场(桂澜中路)",
+    "poi_lng": 113.148213,
+    "poi_lat": 23.035364,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFIWP83J",
+    "poi_name": "星湖公园",
+    "poi_lng": 113.095731,
+    "poi_lat": 23.216114,
+    "poi_town": "里水镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HR0KLCFF",
+    "poi_name": "湿地公园",
+    "poi_lng": 113.149029,
+    "poi_lat": 23.048981,
+    "poi_town": "桂城街道",
+    "review_count": 74,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0L36Z9RTE",
+    "poi_name": "爆笑虫子城市主题乐园",
+    "poi_lng": 113.154201,
+    "poi_lat": 23.069148,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0K0HZDEYH",
+    "poi_name": "佛山钲道咏春拳馆",
+    "poi_lng": 113.12736,
+    "poi_lat": 23.064402,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFKRLPY7",
+    "poi_name": "考拉(福通联沙商业广场店)",
+    "poi_lng": 112.919831,
+    "poi_lat": 23.118402,
+    "poi_town": "丹灶镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFFFGQMF",
+    "poi_name": "樱花(南海广场店)",
+    "poi_lng": 113.133995,
+    "poi_lat": 23.045955,
+    "poi_town": "桂城街道",
+    "review_count": 3,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0IDAD15CG",
+    "poi_name": "糖水博物馆",
+    "poi_lng": 113.184227,
+    "poi_lat": 23.11062,
+    "poi_town": "里水镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFIB8RO6",
+    "poi_name": "黄洞径水库",
+    "poi_lng": 113.015796,
+    "poi_lat": 23.143285,
+    "poi_town": "狮山镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFMD6Z0S",
+    "poi_name": "熊熊儿童乐园(佳盛购物广场店)",
+    "poi_lng": 112.941724,
+    "poi_lat": 23.063852,
+    "poi_town": "丹灶镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0KUBRUDMZ",
+    "poi_name": "南海塔",
+    "poi_lng": 113.171923,
+    "poi_lat": 23.069101,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFGR7SES",
+    "poi_name": "南新美术馆",
+    "poi_lng": 113.145798,
+    "poi_lat": 23.025604,
+    "poi_town": "桂城街道",
+    "review_count": 4,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HR4SXR8R",
+    "poi_name": "勒东图书馆",
+    "poi_lng": 113.139431,
+    "poi_lat": 23.082175,
+    "poi_town": "大沥镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFH2DI8F",
+    "poi_name": "南园",
+    "poi_lng": 113.142098,
+    "poi_lat": 23.03776,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFKFVAG9",
+    "poi_name": "观心美术馆",
+    "poi_lng": 112.9574,
+    "poi_lat": 22.941651,
+    "poi_town": "西樵镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "BV11350549",
+    "poi_name": "体育公园(公交站)",
+    "poi_lng": 113.141459,
+    "poi_lat": 23.070258,
+    "poi_town": "桂城街道",
+    "review_count": 11,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0GKU5HILM",
+    "poi_name": "无界艺术馆",
+    "poi_lng": 113.156725,
+    "poi_lat": 23.043275,
+    "poi_town": "桂城街道",
+    "review_count": 6,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFKCIQYL",
+    "poi_name": "沙水古村落",
+    "poi_lng": 112.929997,
+    "poi_lat": 23.049581,
+    "poi_town": "丹灶镇",
+    "review_count": 2,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFMA2EBD",
+    "poi_name": "图南文化艺术中心",
+    "poi_lng": 113.181287,
+    "poi_lat": 23.114047,
+    "poi_town": "里水镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFJCCB1L",
+    "poi_name": "嘉乐奇儿童乐园(万达广场金沙洲店)",
+    "poi_lng": 113.191851,
+    "poi_lat": 23.142615,
+    "poi_town": "里水镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "BV10255864",
+    "poi_name": "三山郊野公园(公交站)",
+    "poi_lng": 113.218029,
+    "poi_lat": 23.035108,
+    "poi_town": "桂城街道",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFHQSORI",
+    "poi_name": "杏记甜品(万福城商业广场店)",
+    "poi_lng": 113.129768,
+    "poi_lat": 23.251772,
+    "poi_town": "里水镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50WIZY",
+    "poi_name": "文明公园",
+    "poi_lng": 112.970179,
+    "poi_lat": 22.945366,
+    "poi_town": "西樵镇",
+    "review_count": 11,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F5076F6",
+    "poi_name": "石啃公园",
+    "poi_lng": 113.150072,
+    "poi_lat": 23.011155,
+    "poi_town": "桂城街道",
+    "review_count": 11,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50UND7",
+    "poi_name": "平南公园",
+    "poi_lng": 113.200189,
+    "poi_lat": 23.013721,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F5076IN",
+    "poi_name": "华光公园",
+    "poi_lng": 113.022858,
+    "poi_lat": 22.919068,
+    "poi_town": "丹灶镇",
+    "review_count": 22,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿",
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HKVN69YX",
+    "poi_name": "柏美酒店(佛山九江科技园信基广场店)",
+    "poi_lng": 113.005548,
+    "poi_lat": 22.848963,
+    "poi_town": "九江镇",
+    "review_count": 7,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFI7SIX5",
+    "poi_name": "佛山大学(仙溪校区北区)",
+    "poi_lng": 113.053899,
+    "poi_lat": 23.140435,
+    "poi_town": "狮山镇",
+    "review_count": 20,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F508GP5",
+    "poi_name": "新城广场(樵金公路)",
+    "poi_lng": 112.978399,
+    "poi_lat": 22.951444,
+    "poi_town": "西樵镇",
+    "review_count": 20,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F5016ZY",
+    "poi_name": "南海广场",
+    "poi_lng": 113.133749,
+    "poi_lat": 23.045666,
+    "poi_town": "桂城街道",
+    "review_count": 11,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFFEOXGO",
+    "poi_name": "拱北公园",
+    "poi_lng": 113.122488,
+    "poi_lat": 23.115259,
+    "poi_town": "里水镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F507706",
+    "poi_name": "朝山公园",
+    "poi_lng": 112.980287,
+    "poi_lat": 22.88386,
+    "poi_town": "丹灶镇",
+    "review_count": 71,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F503CBT",
+    "poi_name": "凤东公园",
+    "poi_lng": 113.116327,
+    "poi_lat": 23.11227,
+    "poi_town": "大沥镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50WH85",
+    "poi_name": "河滨公园",
+    "poi_lng": 112.98903,
+    "poi_lat": 22.946354,
+    "poi_town": "西樵镇",
+    "review_count": 25,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFGQ1NQM",
+    "poi_name": "水上游船",
+    "poi_lng": 113.101089,
+    "poi_lat": 23.190305,
+    "poi_town": "大沥镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "BV10394309",
+    "poi_name": "心溪牌坊(公交站)",
+    "poi_lng": 112.886999,
+    "poi_lat": 23.106019,
+    "poi_town": "狮山镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F508NQH",
+    "poi_name": "沿江公园",
+    "poi_lng": 113.166044,
+    "poi_lat": 23.194936,
+    "poi_town": "里水镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HRXAP2A1",
+    "poi_name": "蓝山小镇(国昌广场店)",
+    "poi_lng": 113.19694,
+    "poi_lat": 23.143019,
+    "poi_town": "大沥镇",
+    "review_count": 7,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F504ZUG",
+    "poi_name": "沥城公园",
+    "poi_lng": 113.125757,
+    "poi_lat": 23.114148,
+    "poi_town": "里水镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFKVTCM4",
+    "poi_name": "民强公园",
+    "poi_lng": 112.969425,
+    "poi_lat": 22.951259,
+    "poi_town": "西樵镇",
+    "review_count": 20,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F508S6H",
+    "poi_name": "河村公园",
+    "poi_lng": 113.161808,
+    "poi_lat": 23.180423,
+    "poi_town": "里水镇",
+    "review_count": 4,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "BV11540171",
+    "poi_name": "荷花广场(公交站)",
+    "poi_lng": 113.176837,
+    "poi_lat": 23.055906,
+    "poi_town": "桂城街道",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFGVNGR6",
+    "poi_name": "东门公园",
+    "poi_lng": 113.164822,
+    "poi_lat": 23.114716,
+    "poi_town": "大沥镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50UZ0J",
+    "poi_name": "芦溪公园",
+    "poi_lng": 113.04637,
+    "poi_lat": 23.068734,
+    "poi_town": "狮山镇",
+    "review_count": 7,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F5076I1",
+    "poi_name": "河岸公园",
+    "poi_lng": 113.144014,
+    "poi_lat": 23.0226,
+    "poi_town": "桂城街道",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFIXTC81",
+    "poi_name": "升平广场",
+    "poi_lng": 112.981263,
+    "poi_lat": 23.090689,
+    "poi_town": "狮山镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50WJ2A",
+    "poi_name": "大谷公园",
+    "poi_lng": 113.037977,
+    "poi_lat": 22.830689,
+    "poi_town": "丹灶镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F507O3B",
+    "poi_name": "南浦大桥",
+    "poi_lng": 113.05352,
+    "poi_lat": 23.232225,
+    "poi_town": "狮山镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFFYPLAV",
+    "poi_name": "珑门广场",
+    "poi_lng": 113.141134,
+    "poi_lat": 23.117425,
+    "poi_town": "里水镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F507C6D",
+    "poi_name": "邓西公园",
+    "poi_lng": 113.11783,
+    "poi_lat": 23.120049,
+    "poi_town": "大沥镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0I6CUNDAX",
+    "poi_name": "人和村公园",
+    "poi_lng": 113.076624,
+    "poi_lat": 23.136116,
+    "poi_town": "大沥镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50UEOH",
+    "poi_name": "信峰公园",
+    "poi_lng": 113.166471,
+    "poi_lat": 23.201059,
+    "poi_town": "里水镇",
+    "review_count": 20,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFF4DRLA",
+    "poi_name": "华亚广场",
+    "poi_lng": 113.136965,
+    "poi_lat": 23.096488,
+    "poi_town": "里水镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFFEOU36",
+    "poi_name": "长盈广场",
+    "poi_lng": 113.042057,
+    "poi_lat": 23.076109,
+    "poi_town": "狮山镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50X8WM",
+    "poi_name": "小塘公园",
+    "poi_lng": 112.982834,
+    "poi_lat": 23.090166,
+    "poi_town": "狮山镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFHW9FTS",
+    "poi_name": "荔庄公园",
+    "poi_lng": 113.130876,
+    "poi_lat": 23.111794,
+    "poi_town": "里水镇",
+    "review_count": 7,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HR4SYSLR",
+    "poi_name": "云泉仙馆(暂停营业)",
+    "poi_lng": 112.96052,
+    "poi_lat": 22.935791,
+    "poi_town": "西樵镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0H1HUSCW7",
+    "poi_name": "创客公园",
+    "poi_lng": 113.1528,
+    "poi_lat": 23.047808,
+    "poi_town": "桂城街道",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFG3CTQM",
+    "poi_name": "甘蕉公园",
+    "poi_lng": 113.142719,
+    "poi_lat": 23.172335,
+    "poi_town": "里水镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFG2740J",
+    "poi_name": "丰泰广场",
+    "poi_lng": 113.187454,
+    "poi_lat": 23.145324,
+    "poi_town": "大沥镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50WIYO",
+    "poi_name": "水口公园",
+    "poi_lng": 113.179534,
+    "poi_lat": 23.172752,
+    "poi_town": "里水镇",
+    "review_count": 6,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F507OCG",
+    "poi_name": "桂江大桥",
+    "poi_lng": 113.135006,
+    "poi_lat": 23.075531,
+    "poi_town": "桂城街道",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0JBOHMTUC",
+    "poi_name": "观音公园",
+    "poi_lng": 113.178345,
+    "poi_lat": 23.1238,
+    "poi_town": "大沥镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F507H3D",
+    "poi_name": "沙涌公园",
+    "poi_lng": 113.166353,
+    "poi_lat": 23.144604,
+    "poi_town": "里水镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "BV10255484",
+    "poi_name": "海怡大桥(公交站)",
+    "poi_lng": 113.242024,
+    "poi_lat": 23.003347,
+    "poi_town": "桂城街道",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFH42L7V",
+    "poi_name": "铁村牌坊",
+    "poi_lng": 113.11042,
+    "poi_lat": 23.102386,
+    "poi_town": "大沥镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0I2RHQIP1",
+    "poi_name": "游乐园(金沙广场店)",
+    "poi_lng": 112.959415,
+    "poi_lat": 23.064405,
+    "poi_town": "狮山镇",
+    "review_count": 2,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0IAU5Z8GI",
+    "poi_name": "天音科技(鸿大广场店)",
+    "poi_lng": 113.129213,
+    "poi_lat": 23.051482,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFMAKG02",
+    "poi_name": "爱情公园",
+    "poi_lng": 113.145114,
+    "poi_lat": 23.27042,
+    "poi_town": "里水镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F506168",
+    "poi_name": "新桂公园",
+    "poi_lng": 113.163942,
+    "poi_lat": 23.081394,
+    "poi_town": "大沥镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HDGHN847",
+    "poi_name": "渔耕码头(暂停营业)",
+    "poi_lng": 112.968474,
+    "poi_lat": 22.908336,
+    "poi_town": "西樵镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFHU71SQ",
+    "poi_name": "老爷车(新天地广场)",
+    "poi_lng": 113.151948,
+    "poi_lat": 23.199882,
+    "poi_town": "里水镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0J2OAKEHW",
+    "poi_name": "臻云书院",
+    "poi_lng": 113.173975,
+    "poi_lat": 23.159825,
+    "poi_town": "里水镇",
+    "review_count": 5,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F507CO9",
+    "poi_name": "和顺公园",
+    "poi_lng": 113.128989,
+    "poi_lat": 23.251181,
+    "poi_town": "里水镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFFEH3MR",
+    "poi_name": "东菊日本料理(南海万科广场)",
+    "poi_lng": 113.14866,
+    "poi_lat": 23.039152,
+    "poi_town": "桂城街道",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "去哪儿"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0HBG7DUXD",
+    "poi_name": "岭南田园印象",
+    "poi_lng": 113.098472,
+    "poi_lat": 23.187238,
+    "poi_town": "大沥镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F511AS8",
+    "poi_name": "文化广场",
+    "poi_lng": 112.915032,
+    "poi_lat": 23.043338,
+    "poi_town": "丹灶镇",
+    "review_count": 8,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0H3J785A0",
+    "poi_name": "山顶广场",
+    "poi_lng": 113.141417,
+    "poi_lat": 23.069187,
+    "poi_town": "桂城街道",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50777S",
+    "poi_name": "邓氏纪念馆",
+    "poi_lng": 112.974921,
+    "poi_lat": 23.173483,
+    "poi_town": "狮山镇",
+    "review_count": 1,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFHOG7YC",
+    "poi_name": "新石村公园",
+    "poi_lng": 113.208135,
+    "poi_lat": 23.028847,
+    "poi_town": "桂城街道",
+    "review_count": 4,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F5078UY",
+    "poi_name": "狮山图书馆",
+    "poi_lng": 112.982602,
+    "poi_lat": 23.089445,
+    "poi_town": "狮山镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0K14AWT1B",
+    "poi_name": "西樵山美术馆(有为馆)",
+    "poi_lng": 112.956807,
+    "poi_lat": 22.936696,
+    "poi_town": "西樵镇",
+    "review_count": 5,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F503NA9",
+    "poi_name": "沥北中心公园",
+    "poi_lng": 113.117303,
+    "poi_lat": 23.133995,
+    "poi_town": "大沥镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F50XHJX",
+    "poi_name": "广东轻工职业技术学院(南海校区北区)图书馆",
+    "poi_lng": 113.033048,
+    "poi_lat": 23.161598,
+    "poi_town": "狮山镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B02F5076FP",
+    "poi_name": "大地公园",
+    "poi_lng": 112.918763,
+    "poi_lat": 22.958048,
+    "poi_town": "西樵镇",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0H3DCT29A",
+    "poi_name": "东门广场",
+    "poi_lng": 113.148603,
+    "poi_lat": 23.049565,
+    "poi_town": "桂城街道",
+    "review_count": 10,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  },
+  {
+    "poi_id": "B0FFGA0GMH",
+    "poi_name": "大雄宝殿",
+    "poi_lng": 113.168936,
+    "poi_lat": 22.998059,
+    "poi_town": "桂城街道",
+    "review_count": 3,
+    "avg_rating": 0,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "sources": [
+      "携程"
+    ],
+    "positive_rate": 0,
+    "negative_rate": 0
+  }
+]

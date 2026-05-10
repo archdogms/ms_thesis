@@ -1,0 +1,536 @@
+{
+  "total": 53,
+  "prepared_at": "2026-03-15 16:51",
+  "files": [
+    {
+      "corpus_id": "C001",
+      "filename": "001_南海县志_OCR连续文本.md",
+      "title": "南海县志_OCR连续文本",
+      "source": "南海县志OCR",
+      "category": "county_chronicle",
+      "char_count": 368609,
+      "original_path": "典籍文本\\南海县志_OCR连续文本.txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C002",
+      "filename": "002_中国旅行_广州佛山.md",
+      "title": "中国旅行_广州佛山",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 16224,
+      "original_path": "典籍文本\\开题阶段典籍\\中国旅行_广州佛山.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C003",
+      "filename": "003_中枢与象征_佛山祖庙.md",
+      "title": "中枢与象征_佛山祖庙",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 347956,
+      "original_path": "典籍文本\\开题阶段典籍\\中枢与象征_佛山祖庙.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C004",
+      "filename": "004_佛山历史人物录.md",
+      "title": "佛山历史人物录",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 410323,
+      "original_path": "典籍文本\\开题阶段典籍\\佛山历史人物录.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C005",
+      "filename": "005_佛山市博物馆藏绘画.md",
+      "title": "佛山市博物馆藏绘画",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 157225,
+      "original_path": "典籍文本\\开题阶段典籍\\佛山市博物馆藏绘画.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C006",
+      "filename": "006_佛山市志_上.md",
+      "title": "佛山市志_上",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 1279085,
+      "original_path": "典籍文本\\开题阶段典籍\\佛山市志_上.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C007",
+      "filename": "007_佛山市志_下.md",
+      "title": "佛山市志_下",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 1195003,
+      "original_path": "典籍文本\\开题阶段典籍\\佛山市志_下.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C008",
+      "filename": "008_佛山文史资料.md",
+      "title": "佛山文史资料",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 92686,
+      "original_path": "典籍文本\\开题阶段典籍\\佛山文史资料.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C009",
+      "filename": "009_佛山祖庙.md",
+      "title": "佛山祖庙",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 70059,
+      "original_path": "典籍文本\\开题阶段典籍\\佛山祖庙.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C010",
+      "filename": "010_南海市文化艺术志.md",
+      "title": "南海市文化艺术志",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 524532,
+      "original_path": "典籍文本\\开题阶段典籍\\南海市文化艺术志.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C011",
+      "filename": "011_南海市西樵山旅游度假区志.md",
+      "title": "南海市西樵山旅游度假区志",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 1063583,
+      "original_path": "典籍文本\\开题阶段典籍\\南海市西樵山旅游度假区志.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C012",
+      "filename": "012_南海文史资料_邹伯奇.md",
+      "title": "南海文史资料_邹伯奇",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 184846,
+      "original_path": "典籍文本\\开题阶段典籍\\南海文史资料_邹伯奇.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C013",
+      "filename": "013_南海美食_南海传说篇.md",
+      "title": "南海美食_南海传说篇",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 147237,
+      "original_path": "典籍文本\\开题阶段典籍\\南海美食_南海传说篇.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C014",
+      "filename": "014_南海美食_南海特产篇.md",
+      "title": "南海美食_南海特产篇",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 92655,
+      "original_path": "典籍文本\\开题阶段典籍\\南海美食_南海特产篇.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C015",
+      "filename": "015_南海美食_南海美食篇.md",
+      "title": "南海美食_南海美食篇",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 85849,
+      "original_path": "典籍文本\\开题阶段典籍\\南海美食_南海美食篇.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C016",
+      "filename": "016_南海美食南海特产南海传说_合辑.md",
+      "title": "南海美食南海特产南海传说_合辑",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 147237,
+      "original_path": "典籍文本\\开题阶段典籍\\南海美食南海特产南海传说_合辑.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C017",
+      "filename": "017_南海非遗_南海书画篇.md",
+      "title": "南海非遗_南海书画篇",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 132782,
+      "original_path": "典籍文本\\开题阶段典籍\\南海非遗_南海书画篇.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C018",
+      "filename": "018_南海龙狮南海衣冠南海古村_南海古村篇.md",
+      "title": "南海龙狮南海衣冠南海古村_南海古村篇",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 134564,
+      "original_path": "典籍文本\\开题阶段典籍\\南海龙狮南海衣冠南海古村_南海古村篇.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C019",
+      "filename": "019_南海龙狮南海衣冠南海古村_南海衣冠篇.md",
+      "title": "南海龙狮南海衣冠南海古村_南海衣冠篇",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 163043,
+      "original_path": "典籍文本\\开题阶段典籍\\南海龙狮南海衣冠南海古村_南海衣冠篇.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C020",
+      "filename": "020_南海龙狮南海衣冠南海古村_南海龙狮篇.md",
+      "title": "南海龙狮南海衣冠南海古村_南海龙狮篇",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 134564,
+      "original_path": "典籍文本\\开题阶段典籍\\南海龙狮南海衣冠南海古村_南海龙狮篇.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C021",
+      "filename": "021_大德南海志_维基文库.md",
+      "title": "大德南海志_维基文库",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 61308,
+      "original_path": "典籍文本\\开题阶段典籍\\大德南海志_维基文库.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C022",
+      "filename": "022_岭南文化知识书系_佛山祖庙.md",
+      "title": "岭南文化知识书系_佛山祖庙",
+      "source": "开题阶段典籍",
+      "category": "classical_texts",
+      "char_count": 70059,
+      "original_path": "典籍文本\\开题阶段典籍\\岭南文化知识书系_佛山祖庙.md",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C023",
+      "filename": "023_南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑.md",
+      "title": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 69755,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑.txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C024",
+      "filename": "024_南海文史资料_第11辑_(南海县政协文史资料研究委员会编).md",
+      "title": "南海文史资料_第11辑_(南海县政协文史资料研究委员会编)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 53785,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第11辑_(南海县政协文史资料研究委员会编).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C025",
+      "filename": "025_南海文史资料_第12辑_纪念康有为诞辰一百三十周年、戊戌维新运动九十周年专辑.md",
+      "title": "南海文史资料_第12辑_纪念康有为诞辰一百三十周年、戊戌维新运动九十周年专辑",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 109026,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第12辑_纪念康有为诞辰一百三十周年、戊戌维新运动九十周年专辑.txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C026",
+      "filename": "026_南海文史资料_第13辑_(南海县政协文史资料研究委员会编).md",
+      "title": "南海文史资料_第13辑_(南海县政协文史资料研究委员会编)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 59643,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第13辑_(南海县政协文史资料研究委员会编).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C027",
+      "filename": "027_南海文史资料_第14辑_(南海县政协文史资料委员会编).md",
+      "title": "南海文史资料_第14辑_(南海县政协文史资料委员会编)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 44123,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第14辑_(南海县政协文史资料委员会编).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C028",
+      "filename": "028_南海文史资料_第15辑_(南海县政协文史资料委员会编).md",
+      "title": "南海文史资料_第15辑_(南海县政协文史资料委员会编)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 52956,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第15辑_(南海县政协文史资料委员会编).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C029",
+      "filename": "029_南海文史资料_第16辑_(南海县政协文史资料研究委员会).md",
+      "title": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 26421,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第16辑_(南海县政协文史资料研究委员会).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C030",
+      "filename": "030_南海文史资料_第17辑_(南海县政协文史资料研究委员会).md",
+      "title": "南海文史资料_第17辑_(南海县政协文史资料研究委员会)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 62824,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第17辑_(南海县政协文史资料研究委员会).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C031",
+      "filename": "031_南海文史资料_第18辑_(南海县政协文史资料委员会编).md",
+      "title": "南海文史资料_第18辑_(南海县政协文史资料委员会编)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 60745,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第18辑_(南海县政协文史资料委员会编).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C032",
+      "filename": "032_南海文史资料_第19辑_(南海县政协文史资料委员会编).md",
+      "title": "南海文史资料_第19辑_(南海县政协文史资料委员会编)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 49320,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第19辑_(南海县政协文史资料委员会编).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C033",
+      "filename": "033_南海文史资料_第1辑_(政协南海县委员会文史组).md",
+      "title": "南海文史资料_第1辑_(政协南海县委员会文史组)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 40409,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第1辑_(政协南海县委员会文史组).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C034",
+      "filename": "034_南海文史资料_第20辑_(广东省南海县政协文史资料委员会编).md",
+      "title": "南海文史资料_第20辑_(广东省南海县政协文史资料委员会编)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 59154,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第20辑_(广东省南海县政协文史资料委员会编).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C035",
+      "filename": "035_南海文史资料_第21辑_(广东省南海市政协文史资料委员会编).md",
+      "title": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 51908,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第21辑_(广东省南海市政协文史资料委员会编).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C036",
+      "filename": "036_南海文史资料_第22辑_(广东省南海市政协文史资料委员会编).md",
+      "title": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 65320,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第22辑_(广东省南海市政协文史资料委员会编).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C037",
+      "filename": "037_南海文史资料_第23辑_石景宜先生传.md",
+      "title": "南海文史资料_第23辑_石景宜先生传",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 83991,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第23辑_石景宜先生传.txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C038",
+      "filename": "038_南海文史资料_第24辑_蚕桑谱专辑.md",
+      "title": "南海文史资料_第24辑_蚕桑谱专辑",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 42847,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第24辑_蚕桑谱专辑.txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C039",
+      "filename": "039_南海文史资料_第25辑_(广东省南海市政协文史资料委员会编).md",
+      "title": "南海文史资料_第25辑_(广东省南海市政协文史资料委员会编)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 54092,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第25辑_(广东省南海市政协文史资料委员会编).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C040",
+      "filename": "040_南海文史资料_第26辑_黄少强画传.md",
+      "title": "南海文史资料_第26辑_黄少强画传",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 24973,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第26辑_黄少强画传.txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C041",
+      "filename": "041_南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编).md",
+      "title": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 78761,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C042",
+      "filename": "042_南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑.md",
+      "title": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 58613,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑.txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C043",
+      "filename": "043_南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编).md",
+      "title": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 59557,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C044",
+      "filename": "044_南海文史资料_第2辑_(政协南海县委员会文史组).md",
+      "title": "南海文史资料_第2辑_(政协南海县委员会文史组)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 54579,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第2辑_(政协南海县委员会文史组).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C045",
+      "filename": "045_南海文史资料_第30辑_近代改革的先驱者康有为.md",
+      "title": "南海文史资料_第30辑_近代改革的先驱者康有为",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 170840,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第30辑_近代改革的先驱者康有为.txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C046",
+      "filename": "046_南海文史资料_第31辑_南海黄飞鸿传.md",
+      "title": "南海文史资料_第31辑_南海黄飞鸿传",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 120026,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第31辑_南海黄飞鸿传.txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C047",
+      "filename": "047_南海文史资料_第34辑_(广东省南海市政协文史和学习委员会).md",
+      "title": "南海文史资料_第34辑_(广东省南海市政协文史和学习委员会)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 69220,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第34辑_(广东省南海市政协文史和学习委员会).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C048",
+      "filename": "048_南海文史资料_第36辑_纪念戴鸿慈诞辰一百五十周年特辑.md",
+      "title": "南海文史资料_第36辑_纪念戴鸿慈诞辰一百五十周年特辑",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 133320,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第36辑_纪念戴鸿慈诞辰一百五十周年特辑.txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C049",
+      "filename": "049_南海文史资料_第37辑_后门中学七十年 1932年-2002年.md",
+      "title": "南海文史资料_第37辑_后门中学七十年 1932年-2002年",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 176049,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第37辑_后门中学七十年 1932年-2002年.txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C050",
+      "filename": "050_南海文史资料_第3辑_西樵山专辑.md",
+      "title": "南海文史资料_第3辑_西樵山专辑",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 52049,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第3辑_西樵山专辑.txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C051",
+      "filename": "051_南海文史资料_第5辑_(政协南海县委员会文史组编).md",
+      "title": "南海文史资料_第5辑_(政协南海县委员会文史组编)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 37455,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第5辑_(政协南海县委员会文史组编).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C052",
+      "filename": "052_南海文史资料_第6辑_(政协南海县委员会文史组编).md",
+      "title": "南海文史资料_第6辑_(政协南海县委员会文史组编)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 50085,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第6辑_(政协南海县委员会文史组编).txt",
+      "status": "ready"
+    },
+    {
+      "corpus_id": "C053",
+      "filename": "053_南海文史资料_第8辑_(政协南海县委员会文史组).md",
+      "title": "南海文史资料_第8辑_(政协南海县委员会文史组)",
+      "source": "南海文史资料",
+      "category": "historical_materials",
+      "char_count": 39823,
+      "original_path": "典籍文本\\南海文史资料\\南海文史资料_第8辑_(政协南海县委员会文史组).txt",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,705 @@
+{
+  "name": "南海区文化谱系",
+  "children": [
+    {
+      "name": "武术文化",
+      "value": "南海武术传统，包括醒狮、各派拳术",
+      "children": [
+        {
+          "name": "醒狮龙舞",
+          "value": "时期:清代至今",
+          "children": [
+            {
+              "name": "广东醒狮",
+              "value": 1
+            },
+            {
+              "name": "大头佛",
+              "value": 1
+            },
+            {
+              "name": "醒狮采青",
+              "value": 1
+            },
+            {
+              "name": "麦边舞龙",
+              "value": 1
+            },
+            {
+              "name": "代表人物",
+              "children": [
+                {
+                  "name": "黄飞鸿",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "传统拳术",
+          "value": "时期:清代至今",
+          "children": [
+            {
+              "name": "咏春拳",
+              "value": 1
+            },
+            {
+              "name": "洪拳",
+              "value": 1
+            },
+            {
+              "name": "白眉拳",
+              "value": 1
+            },
+            {
+              "name": "鹰爪拳",
+              "value": 1
+            },
+            {
+              "name": "蔡李佛拳",
+              "value": 1
+            },
+            {
+              "name": "周家拳",
+              "value": 1
+            },
+            {
+              "name": "华岳心意六合八法拳",
+              "value": 1
+            },
+            {
+              "name": "五郎八卦棍",
+              "value": 1
+            },
+            {
+              "name": "代表人物",
+              "children": [
+                {
+                  "name": "叶问",
+                  "value": 1
+                },
+                {
+                  "name": "黄飞鸿",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "龙舟竞渡",
+          "value": "时期:宋代至今",
+          "children": [
+            {
+              "name": "九江传统龙舟",
+              "value": 1
+            },
+            {
+              "name": "叠滘弯道赛龙船",
+              "value": 1
+            },
+            {
+              "name": "盐步老龙礼俗",
+              "value": 1
+            },
+            {
+              "name": "丹灶扒龙舟",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "饮食文化",
+      "value": "南海传统饮食与酿造技艺",
+      "children": [
+        {
+          "name": "酿造技艺",
+          "value": "时期:清代至今",
+          "children": [
+            {
+              "name": "九江双蒸酒酿制技艺",
+              "value": 1
+            },
+            {
+              "name": "九江酱油酿造技艺",
+              "value": 1
+            },
+            {
+              "name": "广式旺阁酱油",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "传统食品",
+          "value": "时期:明代至今",
+          "children": [
+            {
+              "name": "九江煎堆",
+              "value": 1
+            },
+            {
+              "name": "水菱角",
+              "value": 1
+            },
+            {
+              "name": "蛋散",
+              "value": 1
+            },
+            {
+              "name": "广式烧腊",
+              "value": 1
+            },
+            {
+              "name": "广式月饼",
+              "value": 1
+            },
+            {
+              "name": "酿鲮鱼",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "水产养殖",
+          "value": "时期:明代至今",
+          "children": [
+            {
+              "name": "九江鱼花生产习俗",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "建筑文化",
+      "value": "南海传统建筑与村落",
+      "children": [
+        {
+          "name": "古村落",
+          "value": "时期:宋代至今",
+          "children": [
+            {
+              "name": "松塘古村",
+              "value": 1
+            },
+            {
+              "name": "烟桥古村",
+              "value": 1
+            },
+            {
+              "name": "仙岗古村",
+              "value": 1
+            },
+            {
+              "name": "孔村",
+              "value": 1
+            },
+            {
+              "name": "西城村",
+              "value": 1
+            },
+            {
+              "name": "银坑村",
+              "value": 1
+            },
+            {
+              "name": "茶基村",
+              "value": 1
+            },
+            {
+              "name": "显纲村",
+              "value": 1
+            },
+            {
+              "name": "代表人物",
+              "children": [
+                {
+                  "name": "区世来",
+                  "value": 1
+                },
+                {
+                  "name": "孔公通",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "祠堂建筑",
+          "value": "时期:明代至今",
+          "children": [
+            {
+              "name": "传氏宗祠",
+              "value": 1
+            },
+            {
+              "name": "梁氏宗祠",
+              "value": 1
+            },
+            {
+              "name": "马氏宗祠",
+              "value": 1
+            },
+            {
+              "name": "至圣家庙",
+              "value": 1
+            },
+            {
+              "name": "明德堂",
+              "value": 1
+            },
+            {
+              "name": "敦伦堂",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "书院文化",
+          "value": "时期:明代",
+          "children": [
+            {
+              "name": "云谷书院",
+              "value": 1
+            },
+            {
+              "name": "大科书院",
+              "value": 1
+            },
+            {
+              "name": "石泉书院",
+              "value": 1
+            },
+            {
+              "name": "四峰书院",
+              "value": 1
+            },
+            {
+              "name": "孔林书院",
+              "value": 1
+            },
+            {
+              "name": "代表人物",
+              "children": [
+                {
+                  "name": "湛若水",
+                  "value": 1
+                },
+                {
+                  "name": "方献夫",
+                  "value": 1
+                },
+                {
+                  "name": "霍韬",
+                  "value": 1
+                },
+                {
+                  "name": "陈献章",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "宗教建筑",
+          "value": "时期:宋代至今",
+          "children": [
+            {
+              "name": "佛山祖庙",
+              "value": 1
+            },
+            {
+              "name": "宝峰寺",
+              "value": 1
+            },
+            {
+              "name": "南海观音寺",
+              "value": 1
+            },
+            {
+              "name": "天后宫",
+              "value": 1
+            },
+            {
+              "name": "简村北帝庙",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "民俗文化",
+      "value": "南海传统民俗与节庆",
+      "children": [
+        {
+          "name": "节庆活动",
+          "value": "时期:清代至今",
+          "children": [
+            {
+              "name": "官窑生菜会",
+              "value": 1
+            },
+            {
+              "name": "乐安花灯会",
+              "value": 1
+            },
+            {
+              "name": "大仙诞庙会",
+              "value": 1
+            },
+            {
+              "name": "烧番塔",
+              "value": 1
+            },
+            {
+              "name": "松塘出色巡游",
+              "value": 1
+            },
+            {
+              "name": "黄岐龙母诞",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "祭祀礼俗",
+          "value": "时期:明代至今",
+          "children": [
+            {
+              "name": "平地黄氏冬祭",
+              "value": 1
+            },
+            {
+              "name": "孔子诞",
+              "value": 1
+            },
+            {
+              "name": "松塘村孔子诞",
+              "value": 1
+            },
+            {
+              "name": "苏村拜斗",
+              "value": 1
+            },
+            {
+              "name": "百西村头村六祖诞",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "工艺文化",
+      "value": "南海传统手工艺与制造技艺",
+      "children": [
+        {
+          "name": "编织技艺",
+          "value": "时期:清代至今",
+          "children": [
+            {
+              "name": "藤编（大沥）",
+              "value": 1
+            },
+            {
+              "name": "藤编（里水）",
+              "value": 1
+            },
+            {
+              "name": "南海竹编",
+              "value": 1
+            },
+            {
+              "name": "九江鱼筛编织",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "金属工艺",
+          "value": "时期:清代至今",
+          "children": [
+            {
+              "name": "金箔锻造技艺",
+              "value": 1
+            },
+            {
+              "name": "九江刀制作技艺",
+              "value": 1
+            },
+            {
+              "name": "唢呐制作技艺",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "纺织工艺",
+          "value": "时期:明代至今",
+          "children": [
+            {
+              "name": "西樵传统缫丝技艺",
+              "value": 1
+            },
+            {
+              "name": "香云纱坯纱织造",
+              "value": 1
+            },
+            {
+              "name": "里水毛巾织造",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "装饰工艺",
+          "value": "时期:清代至今",
+          "children": [
+            {
+              "name": "南海灰塑",
+              "value": 1
+            },
+            {
+              "name": "南海剪纸",
+              "value": 1
+            },
+            {
+              "name": "广绣",
+              "value": 1
+            },
+            {
+              "name": "佛鹤狮头制作",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "其他技艺",
+          "value": "时期:明代至今",
+          "children": [
+            {
+              "name": "广式家具制作技艺",
+              "value": 1
+            },
+            {
+              "name": "平洲玉器制作技艺",
+              "value": 1
+            },
+            {
+              "name": "木作工具制作",
+              "value": 1
+            },
+            {
+              "name": "南海牛皮鼓制作",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "音乐戏曲",
+      "value": "南海传统音乐与戏曲文化",
+      "children": [
+        {
+          "name": "传统音乐",
+          "value": "时期:明代至今",
+          "children": [
+            {
+              "name": "佛山十番",
+              "value": 1
+            },
+            {
+              "name": "龙舟说唱",
+              "value": 1
+            },
+            {
+              "name": "南海鼓乐",
+              "value": 1
+            },
+            {
+              "name": "三山咸水歌",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "戏曲文化",
+          "value": "时期:清代至今",
+          "children": [
+            {
+              "name": "粤曲",
+              "value": 1
+            },
+            {
+              "name": "粤剧",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "学术文化",
+      "value": "南海的理学传统与科举文化",
+      "children": [
+        {
+          "name": "岭南理学",
+          "value": "时期:明代",
+          "children": [
+            {
+              "name": "白沙学派",
+              "value": 1
+            },
+            {
+              "name": "阳明学派",
+              "value": 1
+            },
+            {
+              "name": "甘泉学派",
+              "value": 1
+            },
+            {
+              "name": "代表人物",
+              "children": [
+                {
+                  "name": "湛若水",
+                  "value": 1
+                },
+                {
+                  "name": "方献夫",
+                  "value": 1
+                },
+                {
+                  "name": "陈献章",
+                  "value": 1
+                },
+                {
+                  "name": "霍韬",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "科举传统",
+          "value": "时期:明清",
+          "children": [
+            {
+              "name": "松塘翰林文化",
+              "value": 1
+            },
+            {
+              "name": "南海衣冠",
+              "value": 1
+            },
+            {
+              "name": "代表人物",
+              "children": [
+                {
+                  "name": "区大原",
+                  "value": 1
+                },
+                {
+                  "name": "区大典",
+                  "value": 1
+                },
+                {
+                  "name": "区谓良",
+                  "value": 1
+                },
+                {
+                  "name": "区次颜",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "近代教育",
+          "value": "时期:清末民国",
+          "children": [
+            {
+              "name": "近代科技先驱邹伯奇",
+              "value": 1
+            },
+            {
+              "name": "维新变法思想",
+              "value": 1
+            },
+            {
+              "name": "代表人物",
+              "children": [
+                {
+                  "name": "邹伯奇",
+                  "value": 1
+                },
+                {
+                  "name": "康有为",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "中医药文化",
+      "value": "南海传统医药文化",
+      "children": [
+        {
+          "name": "道教医药",
+          "value": "时期:东晋",
+          "children": [
+            {
+              "name": "葛洪炼丹传说",
+              "value": 1
+            },
+            {
+              "name": "丹灶地名由来",
+              "value": 1
+            },
+            {
+              "name": "代表人物",
+              "children": [
+                {
+                  "name": "葛洪",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "传统中医",
+          "value": "时期:清代至今",
+          "children": [
+            {
+              "name": "冯了性传统膏方",
+              "value": 1
+            },
+            {
+              "name": "保愈堂传统中医",
+              "value": 1
+            },
+            {
+              "name": "洪拳功夫推拿",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

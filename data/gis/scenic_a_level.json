@@ -1,0 +1,23 @@
+{
+  "_note": "南海区 A 级旅游景区名单，依据公开政府/媒体资料整理，仅用于本研究的副产品分析参考。数据可能存在滞后或名称差异，论文中以代理变量（POI 平台综合评分）为主，本表作为小样本校准使用。",
+  "_version": "2026-04-19",
+  "_source": "佛山市南海区文化广电旅游体育局公开资料 + 中国旅游景区官方名录",
+  "items": [
+    { "name": "西樵山风景名胜区",        "town": "西樵镇",   "level": "5A", "score": 100 },
+    { "name": "听音湖",                  "town": "西樵镇",   "level": "4A", "score": 80  },
+    { "name": "南国桃园",                "town": "里水镇",   "level": "4A", "score": 80  },
+    { "name": "佛山中央电视台南海影视城","town": "西樵镇",   "level": "4A", "score": 80  },
+    { "name": "南海影视城",              "town": "西樵镇",   "level": "4A", "score": 80  },
+    { "name": "千灯湖",                  "town": "桂城街道", "level": "4A", "score": 80  },
+    { "name": "平洲玉器街",              "town": "桂城街道", "level": "3A", "score": 60  },
+    { "name": "松塘村",                  "town": "西樵镇",   "level": "3A", "score": 60  },
+    { "name": "烟桥古村",                "town": "九江镇",   "level": "3A", "score": 60  },
+    { "name": "康有为故居",              "town": "丹灶镇",   "level": "3A", "score": 60  },
+    { "name": "康有为故居纪念馆",        "town": "丹灶镇",   "level": "3A", "score": 60  },
+    { "name": "九江双蒸博物馆",          "town": "九江镇",   "level": "3A", "score": 60  },
+    { "name": "翰林湖农业公园",          "town": "九江镇",   "level": "3A", "score": 60  },
+    { "name": "仙湖旅游度假区",          "town": "丹灶镇",   "level": "3A", "score": 60  },
+    { "name": "仙岗村",                  "town": "丹灶镇",   "level": "2A", "score": 40  },
+    { "name": "吴家大院",                "town": "九江镇",   "level": "2A", "score": 40  }
+  ]
+}

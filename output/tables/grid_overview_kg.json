@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-04-21 22:31:46",
+  "grid_size_m": 500,
+  "n_cells_total": 4662,
+  "n_cells_with_0hop_seed": 241,
+  "n_cells_with_1hop_entity": 241,
+  "weights": {
+    "culture": {
+      "mentions_log1p": 0.6,
+      "official_log1p": 0.4
+    },
+    "tourism": {
+      "poi_count_log1p": 0.45,
+      "avg_rating": 0.2,
+      "review_total_log1p": 0.35
+    }
+  },
+  "anchor_to_entity_hits": 166,
+  "quantiles": {
+    "culture_0hop": {
+      "p0": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p100": 100.0
+    },
+    "culture_1hop": {
+      "p0": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p100": 100.0
+    },
+    "tourism": {
+      "p0": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 10.33,
+      "p100": 68.25
+    },
+    "mismatch_0hop": {
+      "p0": -81.59,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 8.18,
+      "p100": 68.25
+    },
+    "mismatch_1hop": {
+      "p0": -96.44,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 8.18,
+      "p100": 68.25
+    }
+  },
+  "category_counts_0hop": {
+    "双低空白": 3870,
+    "一般地带": 651,
+    "空心景点": 36,
+    "沉睡潜力": 99,
+    "核心耦合": 6
+  },
+  "category_counts_1hop": {
+    "双低空白": 3841,
+    "一般地带": 609,
+    "空心景点": 34,
+    "沉睡潜力": 170,
+    "核心耦合": 8
+  }
+}

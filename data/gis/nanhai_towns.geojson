@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西樵镇",
+        "adcode": "440605",
+        "center": "112.882597,22.848703",
+        "level": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.882597,
+          22.848703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "九江镇",
+        "adcode": "440605",
+        "center": "113.036216,22.837017",
+        "level": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.036216,
+          22.837017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "狮山镇",
+        "adcode": "440605",
+        "center": "113.083309,23.247643",
+        "level": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.083309,
+          23.247643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "桂城街道",
+        "adcode": "440605",
+        "center": "113.135334,23.038301",
+        "level": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.135334,
+          23.038301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "丹灶镇",
+        "adcode": "440605",
+        "center": "112.943391,23.117924",
+        "level": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.943391,
+          23.117924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "里水镇",
+        "adcode": "440605",
+        "center": "113.198323,23.169806",
+        "level": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.198323,
+          23.169806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大沥镇",
+        "adcode": "440605",
+        "center": "113.117399,23.137794",
+        "level": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.117399,
+          23.137794
+        ]
+      }
+    }
+  ]
+}

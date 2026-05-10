@@ -1,0 +1,201 @@
+{
+  "rule": "降序条数: 5红 + 5蓝 + 5橙 + 5紫 + 5青 + 3绿(最低频)；强对比色 + freq_rank/viz_diameter",
+  "by_frequency_rank": [
+    {
+      "rank": 1,
+      "ai_type": "C1 历史文化人物",
+      "count": 1859,
+      "color": "#5D0014",
+      "viz_diameter_px": 52
+    },
+    {
+      "rank": 2,
+      "ai_type": "F1 朝代年号类",
+      "count": 710,
+      "color": "#E53935",
+      "viz_diameter_px": 51
+    },
+    {
+      "rank": 3,
+      "ai_type": "E4 文集著述类",
+      "count": 491,
+      "color": "#FF7043",
+      "viz_diameter_px": 50
+    },
+    {
+      "rank": 4,
+      "ai_type": "C2 非遗传承人及技艺人物",
+      "count": 479,
+      "color": "#B71C1C",
+      "viz_diameter_px": 49
+    },
+    {
+      "rank": 5,
+      "ai_type": "B1 古建筑类",
+      "count": 428,
+      "color": "#880E4F",
+      "viz_diameter_px": 48
+    },
+    {
+      "rank": 6,
+      "ai_type": "D4 传承场所与活动场地",
+      "count": 359,
+      "color": "#0A1647",
+      "viz_diameter_px": 46
+    },
+    {
+      "rank": 7,
+      "ai_type": "B6 古村落与聚落遗产类",
+      "count": 313,
+      "color": "#1565C0",
+      "viz_diameter_px": 45
+    },
+    {
+      "rank": 8,
+      "ai_type": "D2 镇街圩市空间",
+      "count": 292,
+      "color": "#0277BD",
+      "viz_diameter_px": 44
+    },
+    {
+      "rank": 9,
+      "ai_type": "A5 传统体育游艺类非遗",
+      "count": 288,
+      "color": "#283593",
+      "viz_diameter_px": 43
+    },
+    {
+      "rank": 10,
+      "ai_type": "A1 表演艺术类非遗",
+      "count": 278,
+      "color": "#006064",
+      "viz_diameter_px": 42
+    },
+    {
+      "rank": 11,
+      "ai_type": "D1 山川水系空间",
+      "count": 242,
+      "color": "#E65100",
+      "viz_diameter_px": 41
+    },
+    {
+      "rank": 12,
+      "ai_type": "A2 传统技艺类非遗",
+      "count": 237,
+      "color": "#F9A825",
+      "viz_diameter_px": 40
+    },
+    {
+      "rank": 13,
+      "ai_type": "B4 古遗址与生产遗存类",
+      "count": 236,
+      "color": "#BF360C",
+      "viz_diameter_px": 39
+    },
+    {
+      "rank": 14,
+      "ai_type": "F2 历史事件类",
+      "count": 201,
+      "color": "#4E342E",
+      "viz_diameter_px": 38
+    },
+    {
+      "rank": 15,
+      "ai_type": "A4 信俗礼仪类非遗",
+      "count": 194,
+      "color": "#FF3D00",
+      "viz_diameter_px": 36
+    },
+    {
+      "rank": 16,
+      "ai_type": "C3 文物营建与守护人物",
+      "count": 190,
+      "color": "#311B92",
+      "viz_diameter_px": 35
+    },
+    {
+      "rank": 17,
+      "ai_type": "B2 宗教建筑类",
+      "count": 183,
+      "color": "#C2185B",
+      "viz_diameter_px": 34
+    },
+    {
+      "rank": 18,
+      "ai_type": "C4 宗族姓氏与地方社群",
+      "count": 180,
+      "color": "#6A1B9A",
+      "viz_diameter_px": 33
+    },
+    {
+      "rank": 19,
+      "ai_type": "A6 饮食酿造类非遗及文化物产",
+      "count": 156,
+      "color": "#7C4DFF",
+      "viz_diameter_px": 32
+    },
+    {
+      "rank": 20,
+      "ai_type": "A3 民俗节庆类非遗",
+      "count": 153,
+      "color": "#4A148C",
+      "viz_diameter_px": 31
+    },
+    {
+      "rank": 21,
+      "ai_type": "D3 历史街区与传统片区",
+      "count": 134,
+      "color": "#004D40",
+      "viz_diameter_px": 30
+    },
+    {
+      "rank": 22,
+      "ai_type": "B3 纪念性建筑与名人故居类",
+      "count": 127,
+      "color": "#00ACC1",
+      "viz_diameter_px": 29
+    },
+    {
+      "rank": 23,
+      "ai_type": "E1 地方志类",
+      "count": 103,
+      "color": "#00838F",
+      "viz_diameter_px": 28
+    },
+    {
+      "rank": 24,
+      "ai_type": "B5 石刻碑记类",
+      "count": 81,
+      "color": "#455A64",
+      "viz_diameter_px": 26
+    },
+    {
+      "rank": 25,
+      "ai_type": "E3 碑记题咏类",
+      "count": 54,
+      "color": "#0097A7",
+      "viz_diameter_px": 25
+    },
+    {
+      "rank": 26,
+      "ai_type": "E5 口述史与地方记忆材料",
+      "count": 38,
+      "color": "#00C853",
+      "viz_diameter_px": 24
+    },
+    {
+      "rank": 27,
+      "ai_type": "F3 发展阶段类",
+      "count": 22,
+      "color": "#1B5E20",
+      "viz_diameter_px": 23
+    },
+    {
+      "rank": 28,
+      "ai_type": "E2 族谱家乘类",
+      "count": 20,
+      "color": "#33691E",
+      "viz_diameter_px": 22
+    }
+  ]
+}

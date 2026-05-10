@@ -1,0 +1,473 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "狮舞（广东醒狮）",
+        "level": "国家级",
+        "town": "西樵镇",
+        "category": "传统舞蹈",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区西樵镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.987172,
+          22.938068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "十番音乐（佛山十番）",
+        "level": "国家级",
+        "town": "桂城街道",
+        "category": "传统音乐",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区桂城街道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.161502,
+          23.037979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "官窑生菜会",
+        "level": "省级",
+        "town": "狮山镇",
+        "category": "民俗",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区官窑"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.079708,
+          23.222817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "灯会（乐安花灯会）",
+        "level": "省级",
+        "town": "桂城街道",
+        "category": "民俗",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区乐安桂城街道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.161502,
+          23.037979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "九江双蒸酒酿制技艺",
+        "level": "省级",
+        "town": "九江镇",
+        "category": "传统技艺",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区九江九江镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.993386,
+          22.831323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赛龙舟（九江传统龙舟）",
+        "level": "省级",
+        "town": "九江镇",
+        "category": "传统体育",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区九江九江镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.993386,
+          22.831323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "端午节（盐步老龙礼俗）",
+        "level": "省级",
+        "town": "大沥镇",
+        "category": "民俗",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区盐步老龙大沥镇盐步"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.15967,
+          23.084058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "咏春拳（叶问宗支）",
+        "level": "省级",
+        "town": "桂城街道",
+        "category": "传统体育",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区桂城街道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.161502,
+          23.037979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "藤编（大沥）",
+        "level": "省级",
+        "town": "大沥镇",
+        "category": "传统技艺",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区大沥镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.149319,
+          23.106918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "藤编（里水）",
+        "level": "省级",
+        "town": "里水镇",
+        "category": "传统技艺",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区里水镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.164507,
+          23.198906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "金箔锻造技艺",
+        "level": "省级",
+        "town": "大沥镇",
+        "category": "传统技艺",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区大沥镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.149319,
+          23.106918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "庙会（大仙诞庙会）",
+        "level": "省级",
+        "town": "西樵镇",
+        "category": "民俗",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区西樵镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.987172,
+          22.938068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "粤曲",
+        "level": "省级",
+        "town": "桂城街道",
+        "category": "传统音乐",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区桂城街道佛山市南海区文化馆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.14645,
+          23.022247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "糕点制作技艺（九江煎堆）",
+        "level": "省级",
+        "town": "九江镇",
+        "category": "传统技艺",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区九江九江镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.993386,
+          22.831323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "九江鱼花生产习俗",
+        "level": "省级",
+        "town": "九江镇",
+        "category": "民俗",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区九江九江镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.993386,
+          22.831323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "广式家具制作技艺",
+        "level": "省级",
+        "town": "九江镇",
+        "category": "传统技艺",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区九江镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.010807,
+          22.863346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "洪拳（南海洪拳）",
+        "level": "省级",
+        "town": "西樵镇",
+        "category": "传统体育",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区西樵镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.987172,
+          22.938068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "龙舟说唱",
+        "level": "市级",
+        "town": "桂城街道",
+        "category": "传统音乐",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区桂城街道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.161502,
+          23.037979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "白眉拳",
+        "level": "市级",
+        "town": "里水镇",
+        "category": "传统体育",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区里水镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.164507,
+          23.198906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大头佛",
+        "level": "市级",
+        "town": "西樵镇",
+        "category": "传统舞蹈",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区西樵镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.987172,
+          22.938068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南海灰塑",
+        "level": "市级",
+        "town": "狮山镇",
+        "category": "传统美术",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区南海镇狮山镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.034903,
+          23.099202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "叠滘弯道赛龙船",
+        "level": "市级",
+        "town": "桂城街道",
+        "category": "传统体育",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区叠滘桂城街道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.161502,
+          23.037979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "平洲传统玉器制作技艺",
+        "level": "市级",
+        "town": "桂城街道",
+        "category": "传统技艺",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区平洲玉器街道桂城街道平洲"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.201638,
+          23.029502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "丹灶葛洪炼丹传说",
+        "level": "市级",
+        "town": "丹灶镇",
+        "category": "民间文学",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区丹灶丹灶镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.919229,
+          23.051148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "华岳心意六合八法拳",
+        "level": "市级",
+        "town": "大沥镇",
+        "category": "传统体育",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区大沥镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.149319,
+          23.106918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西樵传统缫丝技艺",
+        "level": "市级",
+        "town": "西樵镇",
+        "category": "传统技艺",
+        "geocode_source": "高德地理编码API",
+        "geocode_address": "广东省佛山市南海区西樵西樵镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.987172,
+          22.938068
+        ]
+      }
+    }
+  ]
+}

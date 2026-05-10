@@ -1,0 +1,18 @@
+{
+  "poi_in_bbox": 13215,
+  "poi_with_anchor_tag": 1074,
+  "poi_with_seed_entity": 742,
+  "anchor_total": 165,
+  "anchor_matched_to_entity": 124,
+  "anchor_entity_mappings": 235,
+  "entities_total": 8048,
+  "relations_total": 19382,
+  "entity_graph_nodes": 7337,
+  "coverage": {
+    "unique_entities_0hop": 114,
+    "unique_entities_within_1hop": 1240,
+    "unique_entities_within_2hop": 4806
+  },
+  "grid_count_with_poi": 2097,
+  "town_count": 8
+}

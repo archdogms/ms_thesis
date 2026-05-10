@@ -1,0 +1,277 @@
+{
+  "generated_at": "2026-04-21 22:31:45",
+  "grid_size_m": 500,
+  "n_cells_total": 4662,
+  "n_cells_with_anchor": 160,
+  "n_cells_with_poi": 2156,
+  "weights": {
+    "culture": {
+      "mentions_log1p": 0.6,
+      "oai_log1p": 0.4
+    },
+    "tourism": {
+      "poi_count_log1p": 0.45,
+      "avg_rating": 0.2,
+      "review_total_log1p": 0.35
+    }
+  },
+  "thresholds": {
+    "core_coupling": "culture>=50 AND tourism>=50 AND |M|<=15",
+    "dormant_potential": "culture>=50 AND M<-15",
+    "hollow_attraction": "tourism>=50 AND M>15",
+    "double_low_blank": "culture<25 AND tourism<25",
+    "general": "其余情形"
+  },
+  "culture_quantiles": {
+    "p0": 0.0,
+    "p25": 0.0,
+    "p50": 0.0,
+    "p75": 0.0,
+    "p100": 88.92
+  },
+  "tourism_quantiles": {
+    "p0": 0.0,
+    "p25": 0.0,
+    "p50": 0.0,
+    "p75": 10.33,
+    "p100": 68.25
+  },
+  "mismatch_quantiles": {
+    "p0": -81.15,
+    "p25": 0.0,
+    "p50": 0.0,
+    "p75": 10.33,
+    "p100": 68.25
+  },
+  "category_counts": {
+    "双低空白": 3912,
+    "一般地带": 669,
+    "空心景点": 40,
+    "沉睡潜力": 39,
+    "核心耦合": 2
+  },
+  "dormant_top10": [
+    {
+      "ix": 31,
+      "iy": 30,
+      "town": "西樵镇",
+      "anchor_count": 2,
+      "poi_count": 0,
+      "culture": 81.15,
+      "tourism": 0.0,
+      "mismatch": -81.15,
+      "anchor_names": "西樵山百步云梯|西樵山抗日阵亡将士暨死难同胞纪念碑"
+    },
+    {
+      "ix": 35,
+      "iy": 12,
+      "town": "九江镇",
+      "anchor_count": 3,
+      "poi_count": 0,
+      "culture": 75.8,
+      "tourism": 0.0,
+      "mismatch": -75.8,
+      "anchor_names": "赛龙舟（九江传统龙舟）|九江鱼筛编织技艺|九江鹤装狮头制作技艺"
+    },
+    {
+      "ix": 28,
+      "iy": 17,
+      "town": "西樵镇",
+      "anchor_count": 2,
+      "poi_count": 1,
+      "culture": 80.61,
+      "tourism": 5.16,
+      "mismatch": -75.45,
+      "anchor_names": "九江镇烟桥烟南村|九江镇烟桥村"
+    },
+    {
+      "ix": 32,
+      "iy": 27,
+      "town": "西樵镇",
+      "anchor_count": 1,
+      "poi_count": 0,
+      "culture": 75.23,
+      "tourism": 0.0,
+      "mismatch": -75.23,
+      "anchor_names": "西樵山采石场遗址"
+    },
+    {
+      "ix": 35,
+      "iy": 13,
+      "town": "九江镇",
+      "anchor_count": 6,
+      "poi_count": 6,
+      "culture": 88.92,
+      "tourism": 14.5,
+      "mismatch": -74.42,
+      "anchor_names": "九江双蒸酒酿制技艺|糕点制作技艺（九江煎堆制作技艺）|九江鱼花生产习俗|九江灯谜|九江刀制作技艺|酱油酿造技艺（九江酱油酿造技艺）"
+    },
+    {
+      "ix": 17,
+      "iy": 43,
+      "town": "丹灶镇",
+      "anchor_count": 2,
+      "poi_count": 0,
+      "culture": 71.95,
+      "tourism": 0.0,
+      "mismatch": -71.95,
+      "anchor_names": "松塘月池及古祠堂群|西樵镇松塘村"
+    },
+    {
+      "ix": 23,
+      "iy": 32,
+      "town": "西樵镇",
+      "anchor_count": 1,
+      "poi_count": 0,
+      "culture": 63.2,
+      "tourism": 0.0,
+      "mismatch": -63.2,
+      "anchor_names": "西樵山传说"
+    },
+    {
+      "ix": 30,
+      "iy": 26,
+      "town": "西樵镇",
+      "anchor_count": 3,
+      "poi_count": 1,
+      "culture": 83.58,
+      "tourism": 22.14,
+      "mismatch": -61.44,
+      "anchor_names": "四峰书院遗址|霍韬夫人墓|西樵山紫姑井"
+    },
+    {
+      "ix": 9,
+      "iy": 56,
+      "town": "丹灶镇",
+      "anchor_count": 1,
+      "poi_count": 0,
+      "culture": 61.21,
+      "tourism": 0.0,
+      "mismatch": -61.21,
+      "anchor_names": "丹灶镇仙岗社区"
+    },
+    {
+      "ix": 89,
+      "iy": 42,
+      "town": "桂城街道",
+      "anchor_count": 1,
+      "poi_count": 0,
+      "culture": 60.91,
+      "tourism": 0.0,
+      "mismatch": -60.91,
+      "anchor_names": "十番音乐（佛山十番）"
+    }
+  ],
+  "hollow_top10": [
+    {
+      "ix": 69,
+      "iy": 53,
+      "town": "桂城街道",
+      "anchor_count": 0,
+      "poi_count": 419,
+      "culture": 0.0,
+      "tourism": 68.25,
+      "mismatch": 68.25,
+      "anchor_names": ""
+    },
+    {
+      "ix": 68,
+      "iy": 53,
+      "town": "桂城街道",
+      "anchor_count": 0,
+      "poi_count": 148,
+      "culture": 0.0,
+      "tourism": 62.31,
+      "mismatch": 62.31,
+      "anchor_names": ""
+    },
+    {
+      "ix": 68,
+      "iy": 56,
+      "town": "桂城街道",
+      "anchor_count": 0,
+      "poi_count": 8,
+      "culture": 0.0,
+      "tourism": 61.44,
+      "mismatch": 61.44,
+      "anchor_names": ""
+    },
+    {
+      "ix": 30,
+      "iy": 24,
+      "town": "西樵镇",
+      "anchor_count": 0,
+      "poi_count": 7,
+      "culture": 0.0,
+      "tourism": 61.07,
+      "mismatch": 61.07,
+      "anchor_names": ""
+    },
+    {
+      "ix": 67,
+      "iy": 55,
+      "town": "桂城街道",
+      "anchor_count": 0,
+      "poi_count": 26,
+      "culture": 0.0,
+      "tourism": 60.25,
+      "mismatch": 60.25,
+      "anchor_names": ""
+    },
+    {
+      "ix": 29,
+      "iy": 24,
+      "town": "西樵镇",
+      "anchor_count": 0,
+      "poi_count": 32,
+      "culture": 0.0,
+      "tourism": 58.98,
+      "mismatch": 58.98,
+      "anchor_names": ""
+    },
+    {
+      "ix": 79,
+      "iy": 76,
+      "town": "大沥镇",
+      "anchor_count": 0,
+      "poi_count": 94,
+      "culture": 0.0,
+      "tourism": 58.98,
+      "mismatch": 58.98,
+      "anchor_names": ""
+    },
+    {
+      "ix": 26,
+      "iy": 30,
+      "town": "西樵镇",
+      "anchor_count": 0,
+      "poi_count": 23,
+      "culture": 0.0,
+      "tourism": 58.77,
+      "mismatch": 58.77,
+      "anchor_names": ""
+    },
+    {
+      "ix": 8,
+      "iy": 11,
+      "town": "未标注",
+      "anchor_count": 0,
+      "poi_count": 1,
+      "culture": 0.0,
+      "tourism": 58.16,
+      "mismatch": 58.16,
+      "anchor_names": ""
+    },
+    {
+      "ix": 30,
+      "iy": 29,
+      "town": "西樵镇",
+      "anchor_count": 0,
+      "poi_count": 18,
+      "culture": 0.0,
+      "tourism": 57.61,
+      "mismatch": 57.61,
+      "anchor_names": ""
+    }
+  ]
+}
