@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meng Academic Writing"
+  short_description: "Write source-grounded undergraduate thesis prose in Meng Shuai's style."
+  default_prompt: "Use $meng-academic-writing to draft or revise this undergraduate thesis section in my prior writing style, grounded in the provided references, data, and thesis requirements."

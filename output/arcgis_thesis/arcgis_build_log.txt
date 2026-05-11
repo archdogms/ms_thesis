@@ -1,0 +1,25 @@
+gdb: C:\Users\ms\Desktop\ms_thesis\output\arcgis_thesis\thesis_maps.gdb
+polygon: nanhai_boundary (1 features)
+  layer: C:\Users\ms\Desktop\ms_thesis\output\arcgis_thesis\layers\nanhai_boundary.lyr
+polygon: nanhai_towns (7 features)
+  layer: C:\Users\ms\Desktop\ms_thesis\output\arcgis_thesis\layers\nanhai_towns.lyr
+points: culture_anchors_points (164 features; source rows 165) [check invalid or out-of-range XY values]
+  layer: C:\Users\ms\Desktop\ms_thesis\output\arcgis_thesis\layers\culture_anchors_points.lyr
+points: poi_points (13512 features; source rows 13512)
+  layer: C:\Users\ms\Desktop\ms_thesis\output\arcgis_thesis\layers\poi_points.lyr
+points: grid_indices_points (4662 features; source rows 4662)
+  layer: C:\Users\ms\Desktop\ms_thesis\output\arcgis_thesis\layers\grid_indices_points.lyr
+points: official_resources_points (593 features; source rows 593)
+  layer: C:\Users\ms\Desktop\ms_thesis\output\arcgis_thesis\layers\official_resources_points.lyr
+points: official_grid_points (4662 features; source rows 4662)
+  layer: C:\Users\ms\Desktop\ms_thesis\output\arcgis_thesis\layers\official_grid_points.lyr
+points: diagnostic_grid_points (4662 features; source rows 4662)
+  layer: C:\Users\ms\Desktop\ms_thesis\output\arcgis_thesis\layers\diagnostic_grid_points.lyr
+mxd: C:\Users\ms\Desktop\ms_thesis\output\arcgis_thesis\arcgis_culture_tourism_preview.mxd
+preview: C:\Users\ms\Desktop\ms_thesis\output\arcgis_thesis\arcgis_culture_tourism_preview.png
+mxd: C:\Users\ms\Desktop\ms_thesis\output\arcgis_thesis\arcgis_grid_preview.mxd
+preview: C:\Users\ms\Desktop\ms_thesis\output\arcgis_thesis\arcgis_grid_preview.png
+mxd: C:\Users\ms\Desktop\ms_thesis\output\arcgis_thesis\arcgis_official_preview.mxd
+preview: C:\Users\ms\Desktop\ms_thesis\output\arcgis_thesis\arcgis_official_preview.png
+cleanup: removed output/tables/schema.ini
+done
