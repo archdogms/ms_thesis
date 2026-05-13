@@ -28,10 +28,10 @@
 |------|----------------|----------------------|
 | **文化侧** | 53 份地方典籍（约 899 万字，以 `data/corpus/corpus_index.json` 为准）；OCR 与校对后，用大模型抽取实体与关系，合并为约 **8,048** 实体、**19,382** 条关系的图谱 | `data/corpus/`、`data/entities_relations/`、`output/neo4j/`、`output/figures/knowledge_graph/` |
 | **旅游侧** | 高德、百度、公开 Shapefile **三源融合**后的 **13,512** 条 POI；携程、高德、去哪儿、马蜂窝等合计 **16,391** 条平台评论及与 POI 的匹配 | `data/poi/`、`data/reviews/`、`output/tables/poi_*.csv`、`review_poi_*.csv` 等 |
-| **空间衔接** | 「耦合桥梁」：以官方认定的物质文化载体等为主桥梁（正文口径 **165** 条载体层分析），91 项非遗等为补充层；镇街与 **500 m 网格**（约 4,662 格）下沉分析 | `data/anchors/`、`data/gis/`、`output/tables/grid_*.csv`、`grid_overview*.json`、`output/figures/grid_culture_tourism/`、`maps/` |
+| **空间衔接** | 「耦合桥梁」：以官方认定的物质文化载体等为主桥梁（正文口径 **165** 条载体层分析），90 项非遗等为补充层；镇街与 **500 m 网格**（约 4,662 格）下沉分析 | `data/anchors/`、`data/gis/`、`output/tables/grid_*.csv`、`grid_overview*.json`、`output/figures/grid_culture_tourism/`、`maps/` |
 | **指数与统计** | 文化记忆指数（CMI）、官方认证指数（OAI）、旅游热度指数（THI）、错位指数（MI）及载体四象限分类；镇街相关矩阵、A 级景区子样本等 | `output/tables/indices_*.csv`、`potential_*.csv`、`a_level_correlation.csv` 等 |
 
-更细的**文件级口径、版本对照、哪些表以谁为准**，必须以 **`docs/ms_thesis_迁移执行说明.md`** 为准（尤其是 POI 条数、非遗 91 项全量、网格 0 跳/1 跳知识图谱口径等）。
+更细的**文件级口径、版本对照、哪些表以谁为准**，必须以 **`docs/ms_thesis_迁移执行说明.md`** 为准（尤其是 POI 条数、非遗 90 项全量、网格 0 跳/1 跳知识图谱口径等）。
 
 ---
 

@@ -81,15 +81,15 @@
 
 | 文件 | 观测 | 结论 |
 |------|------|------|
-| `output/tables/nonheritage.csv` | 约 **26** 行数据 + 表头；列含经纬度、`geocode_*`；时间 **2026-03-18** | **早期精简 / 子集**，与「91 项」全量口径不一致。 |
-| `output/tables/nonheritage_full90.csv` | **91** 行数据 + 表头；列主要为 name/level/category/town；时间 **2026-03-01** | **论文耦合、指数、GIS 全量非遗均以 91 项为准**；与 `data/gis/nanhai_nonheritage_full90.json` 顶层 `total`: **91** 一致。 |
+| `output/tables/nonheritage.csv` | 约 **26** 行数据 + 表头；列含经纬度、`geocode_*`；时间 **2026-03-18** | **早期精简 / 子集**，与「90 项」全量口径不一致。 |
+| `output/tables/nonheritage_full90.csv` | **90** 行数据 + 表头；列主要为 name/level/category/town；时间 **2026-05-13** | **论文耦合、指数、GIS 全量非遗均以 90 项为准**；与 `data/gis/nanhai_nonheritage_full90.json` 顶层 `total`: **90** 一致。省级项目“藤编”按项目去重为 1 项，但镇街归属同时记录大沥镇和里水镇。 |
 
 #### 2.4.2 与 `docs/tasks/4.22` 阶段成果对齐（**迁移时整夹复制**，见第 4 节）
 
 `docs/tasks/4.22/` 当前含：`4.22.md`（讨论纪要）、`20260421.md` / `20260421.pdf`（**2026-04-21** 桥梁与网格口径说明）、`不可移动文物Excel.xls`、`附件：历史文化资源名录.xls`、`南海区11家博物馆基本信息2025.6.xlsx` 等。其中 **`20260421.md` 已写明的桥梁与网格数字**与论文叙述应对齐：
 
 - **主桥梁（物质性文化载体）**：不可移动文物 **80**、文化景观 **19**、历史文化名村与传统村落 **12**、圩市街区 **18**；空间上集中于西樵、九江、丹灶；并说明桂城、大沥、里水、狮山在**原始数据源中无对应物质载体录入**（非处理遗漏）。
-- **补充桥梁**：区级以上非遗 **91 项全量**（与 `nonheritage_full90` / `indices_overview` 的 `n_nonheritage` 一致）。
+- **补充桥梁**：区级以上非遗 **90 项全量**（与 `nonheritage_full90` / `indices_overview` 的 `n_nonheritage` 一致）。
 - **软连接**：无稳定空间载体的非遗与典籍知识 → 文本与关系图层，**不参与**空间匹配。
 - **网格错位表（500 m）**：0 跳 vs 1 跳五类格数（如沉睡潜力 **99 → 170**、核心耦合 **6 → 8** 等）见该文档 §「图 1」表格；与 `output/tables/grid_overview_kg.json` 中 `category_counts_0hop` / `1hop` **一致**。
 

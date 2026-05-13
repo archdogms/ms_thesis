@@ -20,6 +20,7 @@ from __future__ import annotations
 import csv
 import json
 import math
+import re
 from collections import defaultdict
 from pathlib import Path
 
@@ -43,6 +44,12 @@ def to_float(x, default=0.0):
         return float(x)
     except Exception:
         return default
+
+
+def split_towns(value: str) -> list[str]:
+    """Split multi-town nonheritage records such as '大沥镇;里水镇'."""
+    towns = [t.strip() for t in re.split(r"[;；、,，/]", value or "") if t.strip()]
+    return towns or [""]
 
 
 def pearson(x, y):
@@ -149,8 +156,9 @@ def main():
     nh_count_by_town = defaultdict(int)
     for nh in nh_items:
         tt = nh.get("town") or nh.get("镇街") or ""
-        if tt:
-            nh_count_by_town[tt] += 1
+        for town in split_towns(tt):
+            if town:
+                nh_count_by_town[town] += 1
 
     # 仅保留 7 个主要镇街进入相关分析（过滤 nan / 未标注 / 村社）
     main_towns = ["桂城街道", "里水镇", "狮山镇", "大沥镇", "丹灶镇", "西樵镇", "九江镇"]

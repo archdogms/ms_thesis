@@ -35,8 +35,7 @@ FULL_90_ITEMS = [
     {"name": "赛龙舟（九江传统龙舟）", "level": "省级", "category": "传统体育"},
     {"name": "端午节（盐步老龙礼俗）", "level": "省级", "category": "民俗"},
     {"name": "咏春拳（叶问宗支）", "level": "省级", "category": "传统体育"},
-    {"name": "藤编（大沥）", "level": "省级", "category": "传统技艺"},
-    {"name": "藤编（里水）", "level": "省级", "category": "传统技艺"},
+    {"name": "藤编", "level": "省级", "category": "传统技艺"},
     {"name": "金箔锻造技艺", "level": "省级", "category": "传统技艺"},
     {"name": "庙会（大仙诞庙会）", "level": "省级", "category": "民俗"},
     {"name": "粤曲", "level": "省级", "category": "曲艺"},
@@ -123,8 +122,8 @@ FULL_90_ITEMS = [
 TOWN_MAP = {
     "狮舞": "西樵镇", "十番音乐": "桂城街道", "官窑生菜会": "狮山镇",
     "乐安花灯会": "桂城街道", "九江双蒸": "九江镇", "九江传统龙舟": "九江镇",
-    "盐步老龙": "大沥镇", "咏春拳": "桂城街道", "藤编（大沥）": "大沥镇",
-    "藤编（里水）": "里水镇", "金箔锻造": "大沥镇", "大仙诞": "西樵镇",
+    "盐步老龙": "大沥镇", "咏春拳": "桂城街道", "藤编": "大沥镇;里水镇",
+    "金箔锻造": "大沥镇", "大仙诞": "西樵镇",
     "粤曲": "桂城街道", "九江煎堆": "九江镇", "鱼花": "九江镇",
     "广式家具": "九江镇", "洪拳": "西樵镇", "龙舟说唱": "桂城街道",
     "白眉拳": "里水镇", "大头佛": "西樵镇", "灰塑": "狮山镇",
@@ -173,7 +172,12 @@ def main():
     from collections import Counter
     level_counts = Counter(i["level"] for i in FULL_90_ITEMS)
     cat_counts = Counter(i["category"] for i in FULL_90_ITEMS)
-    town_counts = Counter(i["town"] for i in FULL_90_ITEMS)
+    town_counts = Counter(
+        town
+        for i in FULL_90_ITEMS
+        for town in re.split(r"[;；、,，/]", i["town"])
+        if town
+    )
 
     print(f"\n总计: {len(FULL_90_ITEMS)} 项")
     print(f"级别: {dict(level_counts)}")
@@ -185,6 +189,7 @@ def main():
     with open(path, "w", encoding="utf-8") as f:
         json.dump({
             "source": "南海博物馆官网 nhmuseum.org + 开题阶段工作计划",
+            "counting_note": "按项目去重后共90项；省级项目“藤编”同时对应大沥镇和里水镇两个传承/分布地点，镇街统计按地点归属可重复计入。",
             "total": len(FULL_90_ITEMS),
             "level_stats": dict(level_counts),
             "category_stats": dict(cat_counts),
