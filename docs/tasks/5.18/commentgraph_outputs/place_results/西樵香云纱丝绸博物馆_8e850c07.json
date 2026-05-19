@@ -1,0 +1,22 @@
+{
+  "place_id": "place:e6f071d16f6e",
+  "poi_id": "",
+  "place_name": "西樵香云纱丝绸博物馆",
+  "town": "西樵镇",
+  "category": "文化场馆",
+  "lng": "112.941246",
+  "lat": "22.977414",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01096",
+      "platform": "携程",
+      "text": "西樵香云纱丝绸博物馆"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅复述地点名称，未包含任何具体的文化实体描述、体验过程或情感评价，无法体现文旅融合状态。",
+  "entities": [],
+  "llm_error": ""
+}

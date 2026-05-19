@@ -1,0 +1,27 @@
+{
+  "place_id": "place:B0HKO5IJHF",
+  "poi_id": "B0HKO5IJHF",
+  "place_name": "阳光沙滩",
+  "town": "桂城街道",
+  "category": "自然景观",
+  "lng": "113.233225",
+  "lat": "23.019568",
+  "review_count": 2,
+  "selected_review_count": 2,
+  "reviews": [
+    {
+      "review_id": "R01198",
+      "platform": "携程",
+      "text": "阳光沙滩"
+    },
+    {
+      "review_id": "R01215",
+      "platform": "携程",
+      "text": "阳光沙滩"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅重复地点名称，完全缺失对人物、非遗、空间、历史或岭南地方性等文化实体的识别与体验描述。",
+  "entities": [],
+  "llm_error": ""
+}

@@ -1,0 +1,89 @@
+{
+  "place_id": "place:B0FFLEX7DN",
+  "poi_id": "B0FFLEX7DN",
+  "place_name": "叠滘水乡",
+  "town": "桂城街道",
+  "category": "人文古迹",
+  "lng": "113.129475",
+  "lat": "23.059334",
+  "review_count": 3,
+  "selected_review_count": 3,
+  "reviews": [
+    {
+      "review_id": "R00763",
+      "platform": "携程",
+      "text": "这不就是佛山版“有风的地方”吗？ 闹中带静，除了鼎鼎大名的龙舟比赛外 这里很有江南水乡的感觉✨满满的质朴风情， 惬意又充满烟火气息🌅，打卡拍照好出片📷 漫步在小巷，🈶市集、小摊、特色美食、文创···· 还有画展，每个转角都能邂逅惊喜❗"
+    },
+    {
+      "review_id": "R00765",
+      "platform": "携程",
+      "text": "龙舟漂移赛绝对有看头，就是挤爆了，必须提前4小时入场。"
+    },
+    {
+      "review_id": "R00764",
+      "platform": "携程",
+      "text": "尋根龍船漂移，發現還有很多有意思的河道和小店，河道兩旁的三角梅很出片發現了一家中國郵政的龍船文創店挺有意思"
+    }
+  ],
+  "place_cultural_recognition": "中识别",
+  "integration_judgement": "评论高度聚焦于龙舟漂移这一核心非遗民俗，并延伸至文创产品与河道空间体验，但部分描述偏向通用景观与商业氛围，地方深层历史记忆与人物谱系提及较少。",
+  "entities": [
+    {
+      "name": "龙舟",
+      "entity_type": "非遗民俗谱系",
+      "comment_role": "核心识别",
+      "evidence": "除了鼎鼎大名的龙舟比赛外",
+      "sentiment": "正向",
+      "confidence": 0.98
+    },
+    {
+      "name": "水乡",
+      "entity_type": "岭南地方性谱系",
+      "comment_role": "伴随识别",
+      "evidence": "这里很有江南水乡的感觉",
+      "sentiment": "正向",
+      "confidence": 0.85
+    },
+    {
+      "name": "龙船漂移",
+      "entity_type": "非遗民俗谱系",
+      "comment_role": "核心识别",
+      "evidence": "尋根龍船漂移",
+      "sentiment": "正向",
+      "confidence": 0.96
+    },
+    {
+      "name": "河道",
+      "entity_type": "文化空间谱系",
+      "comment_role": "伴随识别",
+      "evidence": "發現還有很多有意思的河道",
+      "sentiment": "正向",
+      "confidence": 0.82
+    },
+    {
+      "name": "龙船文创",
+      "entity_type": "非遗民俗谱系",
+      "comment_role": "体验主题",
+      "evidence": "中國郵政的龍船文創店",
+      "sentiment": "正向",
+      "confidence": 0.88
+    },
+    {
+      "name": "摄影打卡",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "打卡拍照好出片",
+      "sentiment": "正向",
+      "confidence": 0.9
+    },
+    {
+      "name": "画展",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "还有画展",
+      "sentiment": "正向",
+      "confidence": 0.85
+    }
+  ],
+  "llm_error": ""
+}

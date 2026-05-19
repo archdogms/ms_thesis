@@ -1,0 +1,54 @@
+{
+  "place_id": "place:B02F5076NL",
+  "poi_id": "B02F5076NL",
+  "place_name": "璜矶鹭鸟天堂",
+  "town": "九江镇",
+  "category": "自然景观",
+  "lng": "112.970525",
+  "lat": "22.866984",
+  "review_count": 4,
+  "selected_review_count": 4,
+  "reviews": [
+    {
+      "review_id": "R01130",
+      "platform": "携程",
+      "text": "很隐蔽的地方！要从一个小池塘边走过去才能进去竹林！进去后听到很多鸟叫声。不要惊到它们，不然都往竹林深处飞走了。孩子们说第一次见到那么多鸟。鸟有白色和灰色的！"
+    },
+    {
+      "review_id": "R01132",
+      "platform": "携程",
+      "text": "璜矶松皮棚美食农庄，来这里游玩，值得推介你们去附近这家农家菜！"
+    },
+    {
+      "review_id": "R01131",
+      "platform": "携程",
+      "text": "这里空气各方面环境都好.鸟话花香.是个值得去的地方"
+    },
+    {
+      "review_id": "R01133",
+      "platform": "携程",
+      "text": "很多鸟的乐园，鸟的天堂，很美的风景"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅聚焦于自然生态景观与餐饮配套，完全缺失对九江镇水乡文化、鹭鸟保护历史或地方民俗的识别，文旅融合尚未在游客认知层面发生。",
+  "entities": [
+    {
+      "name": "空间景观",
+      "entity_type": "体验主题",
+      "comment_role": "核心识别",
+      "evidence": "很隐蔽的地方！要从一个小池塘边走过去才能进去竹林",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "商业消费",
+      "entity_type": "体验主题",
+      "comment_role": "伴随识别",
+      "evidence": "璜矶松皮棚美食农庄，来这里游玩，值得推介你们去附近这家农家菜",
+      "sentiment": "正向",
+      "confidence": 0.92
+    }
+  ],
+  "llm_error": ""
+}

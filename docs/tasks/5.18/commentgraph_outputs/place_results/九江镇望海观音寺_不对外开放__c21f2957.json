@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0FFH989SN",
+  "poi_id": "B0FFH989SN",
+  "place_name": "九江镇望海观音寺(不对外开放)",
+  "town": "九江镇",
+  "category": "宗教场所",
+  "lng": "113.006075",
+  "lat": "22.822722",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01129",
+      "platform": "携程",
+      "text": "九江镇望海观音寺"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅复述地点名称，未包含任何文化实体描述或游客体验内容，无法体现文旅融合状态。",
+  "entities": [],
+  "llm_error": ""
+}

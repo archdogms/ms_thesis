@@ -1,0 +1,156 @@
+{
+  "place_id": "place:B0FFG4RUQU",
+  "poi_id": "B0FFG4RUQU",
+  "place_name": "吴家大院",
+  "town": "九江镇",
+  "category": "人文古迹",
+  "lng": "113.017758",
+  "lat": "22.833102",
+  "review_count": 10,
+  "selected_review_count": 10,
+  "reviews": [
+    {
+      "review_id": "R00920",
+      "platform": "携程",
+      "text": "参团某旅游公司99元一人吴家大院一天游，第二站， 吴家大院。从路口望去，一群高层洋楼建筑物，这就 是始建于清末光绪年间的吴家大院。进入大门后，可 以看到一个花园、亭台.….中西合壁的大宅，还有一处 展览厅，里面展示老式闹钟、烫斗、瓷器枕头等收藏 品。"
+    },
+    {
+      "review_id": "R00921",
+      "platform": "携程",
+      "text": "位于广东省佛山市南海区九江镇。九江是侨乡，吴家大院建筑群是吴氏族人从海外淘金归来后所建，历经几代，不断扩展。现在是南海区侨乡博物馆。"
+    },
+    {
+      "review_id": "R00919",
+      "platform": "携程",
+      "text": "吴家大院原处广东佛山南海区九江镇十三湾中的第二湾，现在人民路40号，占地有7000平方米左右，是由越南华侨吴庚南及畅如兄弟始建于清末光绪年间（1887年），吴庚南，祖籍九江镇梅圳村。早年远离家乡，到越南从事经商贸易，进口大米、药材贩卖，清末光绪年间，经营数年、拥有一定家财的吴庚南衣锦还乡，购买田地，从越南等地运来的建筑材料精心修建而成吴家大院。命名为“吴庚南府第”，后改为“吴慎德堂”。"
+    },
+    {
+      "review_id": "R00926",
+      "platform": "携程",
+      "text": "服务极差评，好不容易来一趟九江，到了大院门口，工作人员说粤康码也不通行，全部人都要身份证，3岁小孩也要，我想问你家小孩有身份证吗，头残吗？还是你想下班？？"
+    },
+    {
+      "review_id": "R00922",
+      "platform": "携程",
+      "text": "首先这里有保存比较完整的双耳屋，展示九江镇吴姓家族的故事。其族中的部分伟人对国家或者是对我们这一代人的影响。颐养生命的好地方"
+    },
+    {
+      "review_id": "R00925",
+      "platform": "携程",
+      "text": "大院阴凉，坐在石凳上看着里面的风景，很是舒服，心很静！大院里还有很多之前遗留下来的物品，值得一看"
+    },
+    {
+      "review_id": "R00923",
+      "platform": "携程",
+      "text": "这里重新装修过后，多了很多游客过来参观，环境不错，喜欢古色古香的朋友可以来看看"
+    },
+    {
+      "review_id": "R00927",
+      "platform": "携程",
+      "text": "离家近，时不时地带孩子们去逛逛，去想象当年所发生的一切。"
+    },
+    {
+      "review_id": "R00924",
+      "platform": "携程",
+      "text": "吴家大院建筑群保存完好，里面陈设了九江历史文化展映"
+    },
+    {
+      "review_id": "R00928",
+      "platform": "携程",
+      "text": "不好玩没啥意思。。。。。。。。"
+    }
+  ],
+  "place_cultural_recognition": "高识别",
+  "integration_judgement": "评论高度聚焦于清末华侨建筑、家族记忆及博物馆展陈，游客能清晰识别侨乡文化内核与历史空间价值，但部分评论仍停留在服务吐槽或泛泛而谈的景观层面。",
+  "entities": [
+    {
+      "name": "清末光绪年间",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "核心识别",
+      "evidence": "始建于清末光绪年间的吴家大院",
+      "sentiment": "中性",
+      "confidence": 0.95
+    },
+    {
+      "name": "中西合壁的大宅",
+      "entity_type": "文化空间谱系",
+      "comment_role": "核心识别",
+      "evidence": "中西合壁的大宅",
+      "sentiment": "正向",
+      "confidence": 0.92
+    },
+    {
+      "name": "南海区侨乡博物馆",
+      "entity_type": "文化空间谱系",
+      "comment_role": "核心识别",
+      "evidence": "现在是南海区侨乡博物馆",
+      "sentiment": "中性",
+      "confidence": 0.98
+    },
+    {
+      "name": "侨乡",
+      "entity_type": "岭南地方性谱系",
+      "comment_role": "核心识别",
+      "evidence": "九江是侨乡",
+      "sentiment": "中性",
+      "confidence": 0.94
+    },
+    {
+      "name": "吴氏族人",
+      "entity_type": "人物谱系",
+      "comment_role": "伴随识别",
+      "evidence": "吴氏族人从海外淘金归来后所建",
+      "sentiment": "中性",
+      "confidence": 0.88
+    },
+    {
+      "name": "吴庚南",
+      "entity_type": "人物谱系",
+      "comment_role": "核心识别",
+      "evidence": "由越南华侨吴庚南及畅如兄弟始建于清末光绪年间",
+      "sentiment": "中性",
+      "confidence": 0.96
+    },
+    {
+      "name": "吴慎德堂",
+      "entity_type": "文化空间谱系",
+      "comment_role": "背景提及",
+      "evidence": "后改为“吴慎德堂”",
+      "sentiment": "中性",
+      "confidence": 0.9
+    },
+    {
+      "name": "双耳屋",
+      "entity_type": "文化空间谱系",
+      "comment_role": "核心识别",
+      "evidence": "保存比较完整的双耳屋",
+      "sentiment": "正向",
+      "confidence": 0.93
+    },
+    {
+      "name": "家族记忆",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "核心识别",
+      "evidence": "展示九江镇吴姓家族的故事",
+      "sentiment": "正向",
+      "confidence": 0.91
+    },
+    {
+      "name": "古色古香",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "喜欢古色古香的朋友可以来看看",
+      "sentiment": "正向",
+      "confidence": 0.85
+    },
+    {
+      "name": "九江历史文化展映",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "里面陈设了九江历史文化展映",
+      "sentiment": "中性",
+      "confidence": 0.89
+    }
+  ],
+  "llm_error": ""
+}

@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0JBS5S8NS",
+  "poi_id": "B0JBS5S8NS",
+  "place_name": "从一蓝莓采摘园(南海白塔店)",
+  "town": "里水镇",
+  "category": "休闲娱乐",
+  "lng": "113.197534",
+  "lat": "23.187539",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01240",
+      "platform": "携程",
+      "text": "从一蓝莓采摘园(长洲岛店)"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅包含地点名称复述，未涉及任何人物、非遗、空间、历史或岭南地方性文化内容，无法体现文旅融合。",
+  "entities": [],
+  "llm_error": ""
+}

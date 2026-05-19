@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0FFG279L5",
+  "poi_id": "B0FFG279L5",
+  "place_name": "坐看云起",
+  "town": "西樵镇",
+  "category": "自然景观",
+  "lng": "112.959616",
+  "lat": "22.935719",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01076",
+      "platform": "携程",
+      "text": "坐看云起"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅包含地点名称，缺乏对人物、非遗、空间、历史或地方性文化的具体描述与体验反馈，无法体现文旅融合内容。",
+  "entities": [],
+  "llm_error": ""
+}

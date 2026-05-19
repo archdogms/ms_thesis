@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0FFFAMBP4",
+  "poi_id": "B0FFFAMBP4",
+  "place_name": "东王府",
+  "town": "大沥镇",
+  "category": "人文古迹",
+  "lng": "113.102843",
+  "lat": "23.188455",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01155",
+      "platform": "携程",
+      "text": "东王府"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅包含地点名称，缺乏对人物、非遗、空间细节、历史记忆或岭南地方性的任何实质性描述，无法体现文旅融合内容。",
+  "entities": [],
+  "llm_error": ""
+}

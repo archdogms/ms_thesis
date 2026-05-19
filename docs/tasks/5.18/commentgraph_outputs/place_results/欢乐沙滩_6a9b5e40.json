@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0FFIJSJRK",
+  "poi_id": "B0FFIJSJRK",
+  "place_name": "欢乐沙滩",
+  "town": "丹灶镇",
+  "category": "自然景观",
+  "lng": "112.877046",
+  "lat": "23.057401",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01050",
+      "platform": "携程",
+      "text": "欢乐沙滩"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅包含地点名称，缺乏任何文化实体描述或体验细节，无法体现文旅融合特征。",
+  "entities": [],
+  "llm_error": ""
+}

@@ -1,0 +1,44 @@
+{
+  "place_id": "place:B0FFH22EBA",
+  "poi_id": "B0FFH22EBA",
+  "place_name": "南海花卉博览园",
+  "town": "里水镇",
+  "category": "公园绿地",
+  "lng": "113.172379",
+  "lat": "23.178939",
+  "review_count": 2,
+  "selected_review_count": 2,
+  "reviews": [
+    {
+      "review_id": "R01174",
+      "platform": "携程",
+      "text": "兰花是富贵之花，是花中的娇子，博览园里种植基地种着各种品种的兰花，以蝴蝶兰为主，顾名思义就是长得像各式各样各种色彩搭配的蝴蝶🦋"
+    },
+    {
+      "review_id": "R01175",
+      "platform": "携程",
+      "text": "这个已经种草了很久，今天终于有时间来，完全没有踩雷呀，整个过程非常过瘾"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅聚焦于植物品种观赏与个人游玩体验，未识别到任何地方文化实体或岭南文化特征。",
+  "entities": [
+    {
+      "name": "摄影打卡",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "长得像各式各样各种色彩搭配的蝴蝶",
+      "sentiment": "正向",
+      "confidence": 0.85
+    },
+    {
+      "name": "空间景观",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "整个过程非常过瘾",
+      "sentiment": "正向",
+      "confidence": 0.88
+    }
+  ],
+  "llm_error": ""
+}

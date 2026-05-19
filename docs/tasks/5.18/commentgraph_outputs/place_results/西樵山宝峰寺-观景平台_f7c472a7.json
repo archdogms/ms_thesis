@@ -1,0 +1,22 @@
+{
+  "place_id": "place:a2aade71686b",
+  "poi_id": "",
+  "place_name": "西樵山宝峰寺-观景平台",
+  "town": "西樵镇",
+  "category": "宗教场所",
+  "lng": "112.983678",
+  "lat": "22.940558",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01176",
+      "platform": "携程",
+      "text": "西樵山宝峰寺-观景平台"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅包含地点名称，缺乏任何关于文化实体、体验活动或地方性内容的描述，无法体现文旅融合状态。",
+  "entities": [],
+  "llm_error": ""
+}

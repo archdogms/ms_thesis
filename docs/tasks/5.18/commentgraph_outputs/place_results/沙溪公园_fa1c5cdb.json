@@ -1,0 +1,39 @@
+{
+  "place_id": "place:B02F50UENU",
+  "poi_id": "B02F50UENU",
+  "place_name": "沙溪公园",
+  "town": "里水镇",
+  "category": "公园绿地",
+  "lng": "113.199386",
+  "lat": "23.125777",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01157",
+      "platform": "携程",
+      "text": "沙溪公园太宝藏了！一入园就被大片葱郁绿植包围，空气清新得仿佛天然氧吧。塑胶跑道平整干净，散步、慢跑都超舒适，沿途还能看到池塘锦鲤游弋，充满生机。儿童游乐区设施崭新，滑梯、秋千等设计贴心，孩子玩得不愿走。傍晚时分，夕阳洒在凉亭与蜿蜒小径上，氛围感拉满，无论是遛娃、健身还是散心，都是绝佳去处！"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅聚焦于自然生态景观与休闲健身功能，未识别到任何地方文化实体或非遗民俗内容，属于纯公共绿地休闲体验。",
+  "entities": [
+    {
+      "name": "空间景观",
+      "entity_type": "体验主题",
+      "comment_role": "核心识别",
+      "evidence": "大片葱郁绿植包围，空气清新得仿佛天然氧吧",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "摄影打卡",
+      "entity_type": "体验主题",
+      "comment_role": "伴随识别",
+      "evidence": "夕阳洒在凉亭与蜿蜒小径上，氛围感拉满",
+      "sentiment": "正向",
+      "confidence": 0.88
+    }
+  ],
+  "llm_error": ""
+}

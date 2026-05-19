@@ -1,0 +1,54 @@
+{
+  "place_id": "place:B02F50YCH3",
+  "poi_id": "B02F50YCH3",
+  "place_name": "罗村中心广场",
+  "town": "狮山镇",
+  "category": "公园绿地",
+  "lng": "113.053367",
+  "lat": "23.060848",
+  "review_count": 4,
+  "selected_review_count": 4,
+  "reviews": [
+    {
+      "review_id": "R01061",
+      "platform": "携程",
+      "text": "罗村中心广场景色不错，阳光明媚，空气清新，出来晒晒太阳，趣味性强，性价比超高的，不错的选择，拍拍照，惬意、舒适，感觉挺好的。"
+    },
+    {
+      "review_id": "R01062",
+      "platform": "携程",
+      "text": "吃完饭走走还是可以的，晚上好多人跳舞打球"
+    },
+    {
+      "review_id": "R01063",
+      "platform": "携程",
+      "text": "环境优雅，周边衣食住行都有，适合跳舞"
+    },
+    {
+      "review_id": "R01064",
+      "platform": "携程",
+      "text": "好好好好好好好好好好好好好好好好好"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅体现普通市民休闲健身与景观打卡功能，完全缺失对地方文化实体（如人物、非遗、历史空间等）的识别与体验。",
+  "entities": [
+    {
+      "name": "拍拍照",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "拍拍照，惬意、舒适",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "跳舞打球",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "晚上好多人跳舞打球",
+      "sentiment": "中性",
+      "confidence": 0.92
+    }
+  ],
+  "llm_error": ""
+}

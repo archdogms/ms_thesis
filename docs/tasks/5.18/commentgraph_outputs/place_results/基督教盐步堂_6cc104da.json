@@ -1,0 +1,72 @@
+{
+  "place_id": "place:B0FFG24UH1",
+  "poi_id": "B0FFG24UH1",
+  "place_name": "基督教盐步堂",
+  "town": "大沥镇",
+  "category": "宗教场所",
+  "lng": "113.184026",
+  "lat": "23.080738",
+  "review_count": 6,
+  "selected_review_count": 6,
+  "reviews": [
+    {
+      "review_id": "R00011",
+      "platform": "去哪儿",
+      "text": "不仅是中国，也是世界最大的小提琴音乐教堂，值得向往，值得观光——不虚此行 鹤立鸡群——世界独一小提琴教堂 夜色下的小提琴教堂——中国最美教堂之一 洁白如画 天高云淡——天然的琴弓，律动的五线谱 盐步地标——广东最奇特景点之一 圣诞美景——将来愿望——盐步人的骄傲 敢于小提琴比高矮——先睹为快 广佛骑行100公里——不虚此行"
+    },
+    {
+      "review_id": "R01124",
+      "platform": "携程",
+      "text": "这是我第三次来了，每次都有不一样的感悟，永生之道，复活在望。"
+    },
+    {
+      "review_id": "R01127",
+      "platform": "携程",
+      "text": "很不错哦，之前去过一次，体验特别棒，后面也会带朋友过来"
+    },
+    {
+      "review_id": "R01126",
+      "platform": "携程",
+      "text": "非常值得去的一个地方，拍照好美。 【景色】"
+    },
+    {
+      "review_id": "R01128",
+      "platform": "携程",
+      "text": "景色优美，空气清新，交通便利，旅游的好地方"
+    },
+    {
+      "review_id": "R01125",
+      "platform": "携程",
+      "text": "喜欢拍照的朋友去吧，皮卡丘☺☺"
+    }
+  ],
+  "place_cultural_recognition": "弱识别",
+  "integration_judgement": "评论主要聚焦于建筑外观的独特性（小提琴造型）和摄影打卡功能，缺乏对宗教文化内涵、历史记忆或地方民俗的深度认知与体验。",
+  "entities": [
+    {
+      "name": "摄影打卡",
+      "entity_type": "体验主题",
+      "comment_role": "核心识别",
+      "evidence": "喜欢拍照的朋友去吧",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "空间景观",
+      "entity_type": "体验主题",
+      "comment_role": "核心识别",
+      "evidence": "洁白如画 天高云淡",
+      "sentiment": "正向",
+      "confidence": 0.92
+    },
+    {
+      "name": "文化认知",
+      "entity_type": "体验主题",
+      "comment_role": "伴随识别",
+      "evidence": "每次都有不一样的感悟，永生之道，复活在望",
+      "sentiment": "正向",
+      "confidence": 0.85
+    }
+  ],
+  "llm_error": ""
+}

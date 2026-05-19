@@ -1,0 +1,27 @@
+{
+  "place_id": "place:B0FFH3XV4E",
+  "poi_id": "B0FFH3XV4E",
+  "place_name": "周氏大宗祠",
+  "town": "大沥镇",
+  "category": "人文古迹",
+  "lng": "113.108977",
+  "lat": "23.150114",
+  "review_count": 2,
+  "selected_review_count": 2,
+  "reviews": [
+    {
+      "review_id": "R01181",
+      "platform": "携程",
+      "text": "周氏大宗祠"
+    },
+    {
+      "review_id": "R01216",
+      "platform": "携程",
+      "text": "周氏大宗祠"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅重复地点名称，缺乏对宗祠建筑、家族历史或民俗活动的具体描述，未体现任何实质性的文化识别与文旅融合内容。",
+  "entities": [],
+  "llm_error": ""
+}

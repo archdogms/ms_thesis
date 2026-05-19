@@ -1,0 +1,132 @@
+{
+  "place_id": "place:B02F508KA7",
+  "poi_id": "B02F508KA7",
+  "place_name": "九江双蒸博物馆",
+  "town": "九江镇",
+  "category": "文化场馆",
+  "lng": "113.026582",
+  "lat": "22.812498",
+  "review_count": 10,
+  "selected_review_count": 10,
+  "reviews": [
+    {
+      "review_id": "R01014",
+      "platform": "携程",
+      "text": "海寿岛游玩，附近有这个博物馆，里面有一些小朋友的游乐。一个企业能做成博物馆，有3，4层楼，还是不错的。附近还有其他一些景区，可以一起游玩。"
+    },
+    {
+      "review_id": "R01015",
+      "platform": "携程",
+      "text": "很不错的活动，不用受天气的影响，讲解员姐姐很友爱，根据小朋友的情况生动讲解，比去游乐场有意思多了"
+    },
+    {
+      "review_id": "R01013",
+      "platform": "携程",
+      "text": "九江双蒸博物馆对了解双蒸解和米酒文化有很好的了解，使我们了解九江双蒸米酒的百年的历史过程的经历和历年的荣誉，这旅程非常满意 【景色】 【景色】 【性价比】 【趣味】。"
+    },
+    {
+      "review_id": "R01018",
+      "platform": "携程",
+      "text": "一个有关酒文化的主题博物馆，有得食，有得玩。"
+    },
+    {
+      "review_id": "R01012",
+      "platform": "携程",
+      "text": "做為免費參觀的博物館，同時又能採購平價青梅酒以及品嚐美味酒釀入菜佳餚的一個小眾景點，真的已經讓人大大驚豔滿足。廣州來佛山旅遊值得納入的景點，知性兼具感性且知識點滿滿的遛娃好地！推薦。 【趣味】醉酒小屋很有意思，值得體驗。 【性价比】免費停車，免門票還有什麼理由不來玩！？專來吃一餐酒宴料理都不吃虧。 【景色】離南海西樵山很近。"
+    },
+    {
+      "review_id": "R01016",
+      "platform": "携程",
+      "text": "这是免费进入的一个地方，可以感受一下广东的米酒原来是这么有名气的，九江双也是其中比较好的一个品牌，在这里可以品尝一下新出炉的白酒。"
+    },
+    {
+      "review_id": "R01021",
+      "platform": "携程",
+      "text": "九江酒有历史的味道，酒水出品不错，值得品尝！"
+    },
+    {
+      "review_id": "R01019",
+      "platform": "携程",
+      "text": "一个广东特产米酒的博扬馆，还有吃的呢！"
+    },
+    {
+      "review_id": "R01017",
+      "platform": "携程",
+      "text": "有特色的地方，可以教你如何配酒。"
+    },
+    {
+      "review_id": "R01020",
+      "platform": "携程",
+      "text": "美味可口的菜肴，还有全酒宴的呢！"
+    }
+  ],
+  "place_cultural_recognition": "中识别",
+  "integration_judgement": "游客对米酒历史文化和酿造工艺有明确认知，但体验重心偏向亲子游乐、美食品尝和商业消费，文化深度挖掘与沉浸式非遗体验尚显不足。",
+  "entities": [
+    {
+      "name": "米酒文化",
+      "entity_type": "岭南地方性谱系",
+      "comment_role": "核心识别",
+      "evidence": "九江双蒸博物馆对了解双蒸解和米酒文化有很好的了解",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "九江双蒸",
+      "entity_type": "岭南地方性谱系",
+      "comment_role": "核心识别",
+      "evidence": "使我们了解九江双蒸米酒的百年的历史过程",
+      "sentiment": "正向",
+      "confidence": 0.93
+    },
+    {
+      "name": "酒文化",
+      "entity_type": "岭南地方性谱系",
+      "comment_role": "核心识别",
+      "evidence": "一个有关酒文化的主题博物馆",
+      "sentiment": "正向",
+      "confidence": 0.9
+    },
+    {
+      "name": "青梅酒",
+      "entity_type": "岭南地方性谱系",
+      "comment_role": "伴随识别",
+      "evidence": "采购平价青梅酒",
+      "sentiment": "正向",
+      "confidence": 0.88
+    },
+    {
+      "name": "酒酿入菜",
+      "entity_type": "岭南地方性谱系",
+      "comment_role": "伴随识别",
+      "evidence": "品尝美味酒酿入菜佳餚",
+      "sentiment": "正向",
+      "confidence": 0.87
+    },
+    {
+      "name": "醉酒小屋",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "醉酒小屋很有意思，值得体验",
+      "sentiment": "正向",
+      "confidence": 0.92
+    },
+    {
+      "name": "展陈讲解",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "讲解员姐姐很友爱，根据小朋友的情况生动讲解",
+      "sentiment": "正向",
+      "confidence": 0.94
+    },
+    {
+      "name": "全酒宴",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "还有全酒宴的呢",
+      "sentiment": "正向",
+      "confidence": 0.89
+    }
+  ],
+  "llm_error": ""
+}

@@ -1,0 +1,55 @@
+{
+  "place_id": "place:B0LGTX12VB",
+  "poi_id": "B0LGTX12VB",
+  "place_name": "梁氏大宗祠",
+  "town": "里水镇",
+  "category": "人文古迹",
+  "lng": "113.131515",
+  "lat": "23.153857",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01103",
+      "platform": "携程",
+      "text": "顺德大都村有一半的村民姓梁，村里的四座梁姓祠堂中，梁氏大宗祠为最大，这座祠堂初建于六百年前，二十年前经过一次重修，很漂亮。"
+    }
+  ],
+  "place_cultural_recognition": "高识别",
+  "integration_judgement": "游客明确识别了宗族姓氏文化、古建筑历史年代及修缮历程，体现了对地方家族记忆与文化空间的深度认知。",
+  "entities": [
+    {
+      "name": "梁姓",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "核心识别",
+      "evidence": "顺德大都村有一半的村民姓梁",
+      "sentiment": "中性",
+      "confidence": 0.95
+    },
+    {
+      "name": "祠堂",
+      "entity_type": "文化空间谱系",
+      "comment_role": "核心识别",
+      "evidence": "村里的四座梁姓祠堂中，梁氏大宗祠为最大",
+      "sentiment": "正向",
+      "confidence": 0.98
+    },
+    {
+      "name": "六百年前",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "背景提及",
+      "evidence": "这座祠堂初建于六百年前",
+      "sentiment": "中性",
+      "confidence": 0.92
+    },
+    {
+      "name": "重修",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "背景提及",
+      "evidence": "二十年前经过一次重修",
+      "sentiment": "正向",
+      "confidence": 0.88
+    }
+  ],
+  "llm_error": ""
+}

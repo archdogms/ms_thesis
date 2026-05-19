@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0FFIVH0A1",
+  "poi_id": "B0FFIVH0A1",
+  "place_name": "康有为博物馆",
+  "town": "丹灶镇",
+  "category": "文化场馆",
+  "lng": "112.902309",
+  "lat": "23.021688",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01102",
+      "platform": "携程",
+      "text": "康有为博物馆"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅提及地点名称，缺乏对人物、历史或文化内容的具体描述，无法体现文旅融合状态。",
+  "entities": [],
+  "llm_error": ""
+}

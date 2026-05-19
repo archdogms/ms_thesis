@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0KRMZRLQY",
+  "poi_id": "B0KRMZRLQY",
+  "place_name": "佛山活体昆虫博物馆",
+  "town": "西樵镇",
+  "category": "文化场馆",
+  "lng": "112.957381",
+  "lat": "22.942898",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R00972",
+      "platform": "携程",
+      "text": "佛山活体昆虫博物馆"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅提及地点名称，未包含任何人物、非遗、历史记忆或岭南地方性文化内容，无法体现文旅融合特征。",
+  "entities": [],
+  "llm_error": ""
+}

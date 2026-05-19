@@ -1,0 +1,31 @@
+{
+  "place_id": "place:B0HUVZ29A5",
+  "poi_id": "B0HUVZ29A5",
+  "place_name": "樵山文化中心A区",
+  "town": "西樵镇",
+  "category": "文化场馆",
+  "lng": "112.953945",
+  "lat": "22.93661",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01173",
+      "platform": "携程",
+      "text": "我自己去樵山文化中心A区烟花爆竹"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅提及具体活动行为，未涉及任何地方文化实体、历史背景或岭南特色，无法体现文旅融合内容。",
+  "entities": [
+    {
+      "name": "烟花爆竹",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "我自己去樵山文化中心 A 区烟花爆竹",
+      "sentiment": "中性",
+      "confidence": 0.95
+    }
+  ],
+  "llm_error": ""
+}

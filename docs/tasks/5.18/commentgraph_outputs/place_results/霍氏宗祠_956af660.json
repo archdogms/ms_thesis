@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0LAP7F790",
+  "poi_id": "B0LAP7F790",
+  "place_name": "霍氏宗祠",
+  "town": "丹灶镇",
+  "category": "人文古迹",
+  "lng": "112.930983",
+  "lat": "22.991846",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01156",
+      "platform": "携程",
+      "text": "霍氏宗祠"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅包含地点名称，缺乏对人物、历史、建筑细节或文化体验的任何描述，无法体现文旅融合状态。",
+  "entities": [],
+  "llm_error": ""
+}

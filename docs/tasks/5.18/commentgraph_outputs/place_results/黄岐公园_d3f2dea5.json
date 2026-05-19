@@ -1,0 +1,39 @@
+{
+  "place_id": "place:B0FFFH2PSL",
+  "poi_id": "B0FFFH2PSL",
+  "place_name": "黄岐公园",
+  "town": "大沥镇",
+  "category": "公园绿地",
+  "lng": "113.192686",
+  "lat": "23.12078",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01134",
+      "platform": "携程",
+      "text": "散步逛黄岐公园，体验感超棒！公园有2公里有氧绿道和滨水跑步道，跑步时江风拂面，超惬意。还有超大篮球场、五人足球场，运动氛围超浓。彩虹色系的儿童游乐区，摇摇马、跷跷板等设施齐全 ，带娃不愁没地儿去。历史超160年的龙母庙也在园内，香火很旺。傍晚在江边看日落，美到失语，真的很适合全家出游！"
+    }
+  ],
+  "place_cultural_recognition": "中识别",
+  "integration_judgement": "评论主要聚焦于现代休闲运动与亲子设施，仅将龙母庙作为园内景观提及，缺乏对信俗文化或历史内涵的深度体验描述。",
+  "entities": [
+    {
+      "name": "龙母庙",
+      "entity_type": "文化空间谱系",
+      "comment_role": "背景提及",
+      "evidence": "历史超 160 年的龙母庙也在园内，香火很旺",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "空间景观",
+      "entity_type": "体验主题",
+      "comment_role": "核心识别",
+      "evidence": "傍晚在江边看日落，美到失语",
+      "sentiment": "正向",
+      "confidence": 0.98
+    }
+  ],
+  "llm_error": ""
+}

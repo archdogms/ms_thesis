@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0FFLQE8AB",
+  "poi_id": "B0FFLQE8AB",
+  "place_name": "高铁公园",
+  "town": "桂城街道",
+  "category": "公园绿地",
+  "lng": "113.243563",
+  "lat": "23.021445",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01090",
+      "platform": "携程",
+      "text": "高铁公园"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅提及地点名称，缺乏任何文化实体描述或深度体验内容，无法体现文旅融合特征。",
+  "entities": [],
+  "llm_error": ""
+}

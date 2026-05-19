@@ -1,0 +1,64 @@
+{
+  "place_id": "place:B0G1DAE4LO",
+  "poi_id": "B0G1DAE4LO",
+  "place_name": "西樵山国家地质公园",
+  "town": "西樵镇",
+  "category": "自然景观",
+  "lng": "112.971355",
+  "lat": "22.926396",
+  "review_count": 6,
+  "selected_review_count": 6,
+  "reviews": [
+    {
+      "review_id": "R00846",
+      "platform": "携程",
+      "text": "免费的5A级景区，爬山的景色一般，上山一个半小时，也可以坐观光车，来回40块钱，观光车也到不了山顶，还要再爬山半小时到山顶观音像那里，山顶很震撼，值得去，推荐"
+    },
+    {
+      "review_id": "R00844",
+      "platform": "携程",
+      "text": "特别大的一个景点，要步行一天，感觉才差不多走完吧，去的时候比较少人，有西门，南门，北门，西北门限制车辆上行，现场买票实惠点，有导游证免票~"
+    },
+    {
+      "review_id": "R00842",
+      "platform": "携程",
+      "text": "对于佛山的初印象便是西樵山，西樵山很大，纯天然的风景美不胜收，令人流连忘返、心旷神怡。山中泉水清澈，可以说大自然的杰作惟妙惟肖。"
+    },
+    {
+      "review_id": "R00843",
+      "platform": "携程",
+      "text": "走进西樵山森林公园，游历特色导赏路线，与您和孩子一起探寻百年古树的秘密，揭开身边植物的神秘面纱，让孩子学会与自然和谐共生。"
+    },
+    {
+      "review_id": "R00845",
+      "platform": "携程",
+      "text": "这地方我们只能说逛过，但纯属散步似的，也没有在这拍照"
+    },
+    {
+      "review_id": "R00847",
+      "platform": "携程",
+      "text": "西樵山国家地质公园是一个值得去游览的地方。"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论主要聚焦于自然景观、登山体力消耗及交通票价等基础旅游要素，完全缺失对西樵山特有的理学文化、宗教文化或历史人物等地方文化内容的识别。",
+  "entities": [
+    {
+      "name": "空间景观",
+      "entity_type": "体验主题",
+      "comment_role": "核心识别",
+      "evidence": "爬山的景色一般",
+      "sentiment": "中性",
+      "confidence": 0.95
+    },
+    {
+      "name": "文化认知",
+      "entity_type": "体验主题",
+      "comment_role": "伴随识别",
+      "evidence": "探寻百年古树的秘密",
+      "sentiment": "正向",
+      "confidence": 0.88
+    }
+  ],
+  "llm_error": ""
+}

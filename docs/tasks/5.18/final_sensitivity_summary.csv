@@ -1,0 +1,6 @@
+﻿scenario,setting,core,general,dormant,hollow,same_as_baseline,same_ratio,mi_median
+基准口径,CMI/OAI=0.5/0.5；THI=POI0.4+评分0.2+评论0.4,5,57,54,49,165,100.0,-3.59
+文化侧加权,CMI/OAI=0.7/0.3,5,45,59,56,148,89.7,0.91
+官方侧加权,CMI/OAI=0.3/0.7,5,70,49,41,150,90.9,-2.72
+POI导向THI,THI=POI0.5+评分0.2+评论0.3,4,59,53,49,160,97.0,-3.1
+评论导向THI,THI=POI0.3+评分0.2+评论0.5,5,59,53,48,163,98.8,-3.64

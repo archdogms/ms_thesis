@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0G23ABBRG",
+  "poi_id": "B0G23ABBRG",
+  "place_name": "摩天轮",
+  "town": "丹灶镇",
+  "category": "休闲娱乐",
+  "lng": "112.983544",
+  "lat": "22.838289",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01214",
+      "platform": "携程",
+      "text": "摩天轮"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅提及设施名称，未包含任何人物、非遗、空间、历史或地方性文化内容，无法体现文旅融合。",
+  "entities": [],
+  "llm_error": ""
+}

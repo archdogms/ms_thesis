@@ -1,0 +1,78 @@
+{
+  "place_id": "place:B0FFH4AQI7",
+  "poi_id": "B0FFH4AQI7",
+  "place_name": "陈氏宗祠",
+  "town": "里水镇",
+  "category": "人文古迹",
+  "lng": "113.146747",
+  "lat": "23.131128",
+  "review_count": 4,
+  "selected_review_count": 4,
+  "reviews": [
+    {
+      "review_id": "R01091",
+      "platform": "携程",
+      "text": "这边姓陈的很多，广州最有名的是陈家祠，在番禺大岗村也有一个陈氏宗祠，如果来番禺石基游玩的话，可以先导航到大岭村，大岭村里面有很多古建筑，感受岭南风情，据说这里产生过很多的学霸，风水肯定也不错"
+    },
+    {
+      "review_id": "R01180",
+      "platform": "携程",
+      "text": "陈氏宗祠"
+    },
+    {
+      "review_id": "R01213",
+      "platform": "携程",
+      "text": "就在番禺大岭村里面，在巷里面可以顺便看一下这里进不去，但是外面保留了以前的建筑，在往外走一点就是河边，广东这边姓陈的很多进不去，周末可以来这边赏景"
+    },
+    {
+      "review_id": "R01092",
+      "platform": "携程",
+      "text": "好好好好好好好好好好好好好好好好好好好好好好好好"
+    }
+  ],
+  "place_cultural_recognition": "弱识别",
+  "integration_judgement": "游客虽提及宗祠建筑与岭南风情，但多受地理位置混淆干扰且无法进入核心空间，文化体验停留在外部景观浏览，未形成深度的文旅融合互动。",
+  "entities": [
+    {
+      "name": "古建筑",
+      "entity_type": "文化空间谱系",
+      "comment_role": "伴随识别",
+      "evidence": "大岭村里面有很多古建筑",
+      "sentiment": "正向",
+      "confidence": 0.88
+    },
+    {
+      "name": "岭南风情",
+      "entity_type": "岭南地方性谱系",
+      "comment_role": "文化认知",
+      "evidence": "感受岭南风情",
+      "sentiment": "正向",
+      "confidence": 0.92
+    },
+    {
+      "name": "学霸",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "背景提及",
+      "evidence": "据说这里产生过很多的学霸",
+      "sentiment": "正向",
+      "confidence": 0.75
+    },
+    {
+      "name": "风水",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "背景提及",
+      "evidence": "风水肯定也不错",
+      "sentiment": "正向",
+      "confidence": 0.7
+    },
+    {
+      "name": "赏景",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "周末可以来这边赏景",
+      "sentiment": "正向",
+      "confidence": 0.85
+    }
+  ],
+  "llm_error": ""
+}

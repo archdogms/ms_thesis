@@ -1,0 +1,104 @@
+{
+  "place_id": "place:B0FFF4FNIM",
+  "poi_id": "B0FFF4FNIM",
+  "place_name": "孝德湖公园",
+  "town": "狮山镇",
+  "category": "公园绿地",
+  "lng": "113.059408",
+  "lat": "23.069717",
+  "review_count": 6,
+  "selected_review_count": 6,
+  "reviews": [
+    {
+      "review_id": "R01022",
+      "platform": "携程",
+      "text": "交通：个公园系北湖二路边上，公交车可以坐孝德湖站，或者坐车到北湖二路站都得。 游玩介绍：呢个公园2013年先建成，属于新建公园，面积都大，系一个主题公园——孝德文化宣传。主要景点有孝德广场、文化馆、湖边栈道、孝德桥、孝爱长廊、叶问广场、湿地栈道、孝德长廊、白孝石壁、孔子广场、登山大道、尚德阁、儿童天地、颂德瀑布、孝德文化苑、烧番塔。孝德石刻。系文化馆个度有一面生蚝壳墙，墙面嵌左唔少蚝壳。孝德桥用左南方镬耳屋风格。呢个时候公园主要有睡莲同美人蕉两种花。 整体体验：公园人唔多，多数系附近居民，公园附近有个菜市场，唔少居民穿过公园去市场。宜家个公园属一期，计划仲有8公顷二期要搞啊。"
+    },
+    {
+      "review_id": "R01027",
+      "platform": "携程",
+      "text": "孝德湖简直是对“孝”字的侮辱，每晚都一帮人带着音响大声滋扰唱歌，最可笑的是旁边就是敬老院，试问老人家在这么吵的环境下如何获得安宁，每晚打12345投诉都无人管理，笑得湖吧改名😆😆😆"
+    },
+    {
+      "review_id": "R01023",
+      "platform": "携程",
+      "text": "#孝德湖打卡 很美的一个地方 每一处都有它的特色 留心身边的每一处 也许就是你寻找 的最美的风景 漫步小路 林间鸟啼 尘世喧嚣 微风拂去"
+    },
+    {
+      "review_id": "R01026",
+      "platform": "携程",
+      "text": "夏天的荷花很好看，四季常绿，有不同的时花，管理得很好，是休闲的好去处！"
+    },
+    {
+      "review_id": "R01024",
+      "platform": "携程",
+      "text": "好好好好好好好好好好好好好好好的，，。，。，。"
+    },
+    {
+      "review_id": "R01025",
+      "platform": "携程",
+      "text": "罗村附近最好的公园了，强推～～"
+    }
+  ],
+  "place_cultural_recognition": "中识别",
+  "integration_judgement": "评论明确识别到以'孝德'为核心的主题文化空间及叶问人物元素，但部分游客仅关注自然景观或噪音问题，文化体验深度不一。",
+  "entities": [
+    {
+      "name": "孝德文化",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "核心识别",
+      "evidence": "系一个主题公园——孝德文化宣传",
+      "sentiment": "中性",
+      "confidence": 0.95
+    },
+    {
+      "name": "叶问",
+      "entity_type": "人物谱系",
+      "comment_role": "伴随识别",
+      "evidence": "主要景点有...叶问广场",
+      "sentiment": "中性",
+      "confidence": 0.92
+    },
+    {
+      "name": "孔子",
+      "entity_type": "人物谱系",
+      "comment_role": "伴随识别",
+      "evidence": "主要景点有...孔子广场",
+      "sentiment": "中性",
+      "confidence": 0.92
+    },
+    {
+      "name": "镬耳屋",
+      "entity_type": "岭南地方性谱系",
+      "comment_role": "伴随识别",
+      "evidence": "孝德桥用左南方镬耳屋风格",
+      "sentiment": "中性",
+      "confidence": 0.88
+    },
+    {
+      "name": "烧番塔",
+      "entity_type": "非遗民俗谱系",
+      "comment_role": "背景提及",
+      "evidence": "主要景点有...烧番塔",
+      "sentiment": "中性",
+      "confidence": 0.85
+    },
+    {
+      "name": "空间景观",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "夏天的荷花很好看，四季常绿，有不同的时花",
+      "sentiment": "正向",
+      "confidence": 0.9
+    },
+    {
+      "name": "摄影打卡",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "#孝德湖打卡 很美的一个地方",
+      "sentiment": "正向",
+      "confidence": 0.88
+    }
+  ],
+  "llm_error": ""
+}

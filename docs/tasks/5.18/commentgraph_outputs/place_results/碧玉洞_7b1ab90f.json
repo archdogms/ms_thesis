@@ -1,0 +1,228 @@
+{
+  "place_id": "place:B0FFF365DR",
+  "poi_id": "B0FFF365DR",
+  "place_name": "碧玉洞",
+  "town": "西樵镇",
+  "category": "自然景观",
+  "lng": "112.979454",
+  "lat": "22.938499",
+  "review_count": 10,
+  "selected_review_count": 10,
+  "reviews": [
+    {
+      "review_id": "R01145",
+      "platform": "携程",
+      "text": "20240120全天： 1、碧玉洞位于5A景区西樵山。西樵山是佛山市市区内的名山，是广东四大名山之一、珠江文明的发源地，占地约13平方公里，最高峰大科峰海拔344米，风光秀丽，拥有72峰、42洞、28瀑，是集观景摄影、登山健身、赏花游湖、拜佛祈福于一体的登山类景区，历史上留有康有为、詹天佑、黄飞鸿、董必武、郭沫若、霍韬、湛若水等名人足迹。景区分宝峰寺、九龙岩、翠岩、桃花园、茶花园、白云洞（西门）、天湖、碧玉洞（北门）、东天湖9大区域。 ①地址：广东省佛山市海西区西樵镇 ②交通：公交直达，开车很好停 ③旺季：无 ④用时：1天 ⑤票价：55元 2、碧玉洞是珠峰和玉峰之间的山谷登山道，通向东湖，山路崎岖，被誉为“山东绝境”，但此山路经常被封闭。沿途有： ①翠微石室：“玉岩”题刻下的石洞，由晚唐诗人、校书郎曹松开辟，他在此教当地人种茶，成为岭南第一个产茶区，北归后被当地奉为茶仙 ②砥柱石：地质现象，岩石崩塌后形成宽1米的小山洞 ③遇仙桥：长4米的简易平板桥，一端是山崖，不通，相传是明代中期礼部尚书霍韬的重孙霍尚守所建，以纪念他年轻时在此遇到仙妇点拨，后于此隐居著书 ④玉岩珠瀑：横3米、落差50米，目前枯水季没有水 ⑤飞玉台：山崖边的"
+    },
+    {
+      "review_id": "R01146",
+      "platform": "携程",
+      "text": "碧玉洞为峰间峡谷，两边怪石嶙峋、谷底狭径崎岖、洞中有玉岩珠瀑，听玉石室、遇仙桥，垂云石、东天湖等景点。其中，玉岩珠瀑为西樵山最大瀑布。官山城区商旅业历史悠久，明清两代有“百步梯”石路直通山。"
+    },
+    {
+      "review_id": "R01147",
+      "platform": "携程",
+      "text": "这里不需要坐电瓶车，进门后往左边走就是，会先看见一处象小公园的地方，往里走就是峡谷了。可惜我去的那天因前几日大雨，引起里面道路出险情被关闭了。"
+    },
+    {
+      "review_id": "R01148",
+      "platform": "携程",
+      "text": "碧玉洞夏天是很凉快的，而且有条瀑布，可惜夏季雨水多，怕水土流失，石头滚下来，上瀑布的路封了"
+    },
+    {
+      "review_id": "R01149",
+      "platform": "携程",
+      "text": "碧玉洞风景区的景色是特别漂亮的，湖水碧波荡漾，洞府之内，更是别有一番洞天。"
+    },
+    {
+      "review_id": "R01151",
+      "platform": "携程",
+      "text": "这里环境清幽，夏天很凉快，很多人晚上吃了饭过来散步，乘凉"
+    },
+    {
+      "review_id": "R01152",
+      "platform": "携程",
+      "text": "景色不错，曲径通幽，沿着山和山之间的缝隙而上，水声潺潺"
+    },
+    {
+      "review_id": "R01153",
+      "platform": "携程",
+      "text": "西樵山自然景观之一，空气清新，不能开车上山"
+    },
+    {
+      "review_id": "R01154",
+      "platform": "携程",
+      "text": "夏天记得来这里纳凉啊，特别是晚上，很舒服"
+    },
+    {
+      "review_id": "R01150",
+      "platform": "携程",
+      "text": "西樵山最喜欢的一个点，有水更好"
+    }
+  ],
+  "place_cultural_recognition": "中识别",
+  "integration_judgement": "评论中存在对历史人物、典故及地方产业起源的明确文本提及，但多为背景介绍或碎片化引用，大部分游客体验仍集中在自然景观与避暑功能，文化内容尚未完全转化为深度体验核心。",
+  "entities": [
+    {
+      "name": "康有为",
+      "entity_type": "人物谱系",
+      "comment_role": "背景提及",
+      "evidence": "历史上留有康有为、詹天佑、黄飞鸿、董必武、郭沫若、霍韬、湛若水等名人足迹",
+      "sentiment": "中性",
+      "confidence": 0.95
+    },
+    {
+      "name": "詹天佑",
+      "entity_type": "人物谱系",
+      "comment_role": "背景提及",
+      "evidence": "历史上留有康有为、詹天佑、黄飞鸿、董必武、郭沫若、霍韬、湛若水等名人足迹",
+      "sentiment": "中性",
+      "confidence": 0.95
+    },
+    {
+      "name": "黄飞鸿",
+      "entity_type": "人物谱系",
+      "comment_role": "背景提及",
+      "evidence": "历史上留有康有为、詹天佑、黄飞鸿、董必武、郭沫若、霍韬、湛若水等名人足迹",
+      "sentiment": "中性",
+      "confidence": 0.95
+    },
+    {
+      "name": "霍韬",
+      "entity_type": "人物谱系",
+      "comment_role": "核心识别",
+      "evidence": "相传是明代中期礼部尚书霍韬的重孙霍尚守所建",
+      "sentiment": "中性",
+      "confidence": 0.92
+    },
+    {
+      "name": "曹松",
+      "entity_type": "人物谱系",
+      "comment_role": "核心识别",
+      "evidence": "由晚唐诗人、校书郎曹松开辟，他在此教当地人种茶",
+      "sentiment": "正向",
+      "confidence": 0.93
+    },
+    {
+      "name": "珠江文明",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "背景提及",
+      "evidence": "是广东四大名山之一、珠江文明的发源地",
+      "sentiment": "中性",
+      "confidence": 0.88
+    },
+    {
+      "name": "岭南第一个产茶区",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "核心识别",
+      "evidence": "成为岭南第一个产茶区",
+      "sentiment": "正向",
+      "confidence": 0.91
+    },
+    {
+      "name": "茶仙",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "核心识别",
+      "evidence": "北归后被当地奉为茶仙",
+      "sentiment": "中性",
+      "confidence": 0.89
+    },
+    {
+      "name": "遇仙桥典故",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "核心识别",
+      "evidence": "以纪念他年轻时在此遇到仙妇点拨，后于此隐居著书",
+      "sentiment": "中性",
+      "confidence": 0.9
+    },
+    {
+      "name": "明清",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "背景提及",
+      "evidence": "明清两代有“百步梯”石路直通山",
+      "sentiment": "中性",
+      "confidence": 0.85
+    },
+    {
+      "name": "玉岩题刻",
+      "entity_type": "文化空间谱系",
+      "comment_role": "伴随识别",
+      "evidence": "“玉岩”题刻下的石洞",
+      "sentiment": "中性",
+      "confidence": 0.87
+    },
+    {
+      "name": "翠微石室",
+      "entity_type": "文化空间谱系",
+      "comment_role": "伴随识别",
+      "evidence": "沿途有：①翠微石室",
+      "sentiment": "中性",
+      "confidence": 0.86
+    },
+    {
+      "name": "遇仙桥",
+      "entity_type": "文化空间谱系",
+      "comment_role": "伴随识别",
+      "evidence": "③遇仙桥：长 4 米的简易平板桥",
+      "sentiment": "中性",
+      "confidence": 0.86
+    },
+    {
+      "name": "飞玉台",
+      "entity_type": "文化空间谱系",
+      "comment_role": "伴随识别",
+      "evidence": "⑤飞玉台：山崖边的",
+      "sentiment": "中性",
+      "confidence": 0.84
+    },
+    {
+      "name": "百步梯",
+      "entity_type": "文化空间谱系",
+      "comment_role": "背景提及",
+      "evidence": "明清两代有“百步梯”石路直通山",
+      "sentiment": "中性",
+      "confidence": 0.85
+    },
+    {
+      "name": "岭南",
+      "entity_type": "岭南地方性谱系",
+      "comment_role": "背景提及",
+      "evidence": "成为岭南第一个产茶区",
+      "sentiment": "中性",
+      "confidence": 0.88
+    },
+    {
+      "name": "观景摄影",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "是集观景摄影、登山健身、赏花游湖、拜佛祈福于一体的登山类景区",
+      "sentiment": "正向",
+      "confidence": 0.94
+    },
+    {
+      "name": "登山健身",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "是集观景摄影、登山健身、赏花游湖、拜佛祈福于一体的登山类景区",
+      "sentiment": "正向",
+      "confidence": 0.94
+    },
+    {
+      "name": "拜佛祈福",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "是集观景摄影、登山健身、赏花游湖、拜佛祈福于一体的登山类景区",
+      "sentiment": "正向",
+      "confidence": 0.93
+    },
+    {
+      "name": "纳凉散步",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "很多人晚上吃了饭过来散步，乘凉",
+      "sentiment": "正向",
+      "confidence": 0.96
+    }
+  ],
+  "llm_error": ""
+}

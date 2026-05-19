@@ -1,0 +1,132 @@
+{
+  "place_id": "place:B02F50UTH5",
+  "poi_id": "B02F50UTH5",
+  "place_name": "叶问宗师馆",
+  "town": "狮山镇",
+  "category": "人文古迹",
+  "lng": "113.092699",
+  "lat": "23.063952",
+  "review_count": 10,
+  "selected_review_count": 10,
+  "reviews": [
+    {
+      "review_id": "R00794",
+      "platform": "携程",
+      "text": "因为叶问，咏春拳走向了全世界。而起初对佛山 的全面印象，则来之于黄飞鸿。逛完叶问馆和黄 飞鸿纪念馆对我最大的意义是，第一次在真实世 界里走进了两位大侠的生平事迹，意味着叶问和 黄飞鸿从一个虽熟悉但遥远的影视形象变成了一 个个近在迟尺的活生生的人，值得一来。"
+    },
+    {
+      "review_id": "R00796",
+      "platform": "携程",
+      "text": "佛山叶问纪念馆有很多和叶问有关的纪念品，想了解叶问生平的伙伴快点来吧！"
+    },
+    {
+      "review_id": "R00797",
+      "platform": "携程",
+      "text": "历史沉淀，叶问纪念馆，中国功夫"
+    },
+    {
+      "review_id": "R00801",
+      "platform": "携程",
+      "text": "叶问，祖屋，交通还便利，但停车困难，很有意思，传统粤式民居，值得去一看。"
+    },
+    {
+      "review_id": "R00798",
+      "platform": "携程",
+      "text": "非常具有岭南特色的功夫大师建筑物，特别特别有气息。"
+    },
+    {
+      "review_id": "R00799",
+      "platform": "携程",
+      "text": "被电影带过去的，了解咏春的文化，不错"
+    },
+    {
+      "review_id": "R00795",
+      "platform": "携程",
+      "text": "佛山咏春拳创始人，是个功夫名人。"
+    },
+    {
+      "review_id": "R00803",
+      "platform": "携程",
+      "text": "支持本土文化，叶问佛山人的骄傲"
+    },
+    {
+      "review_id": "R00800",
+      "platform": "携程",
+      "text": "很有趣 那里的人和景色都不错还可以买车"
+    },
+    {
+      "review_id": "R00802",
+      "platform": "携程",
+      "text": "佛山市历史名人，武术界一代宗师"
+    }
+  ],
+  "place_cultural_recognition": "高识别",
+  "integration_judgement": "游客评论高度聚焦于叶问人物生平与咏春拳文化，通过影视记忆转化为实地文化认知，并有效关联了祖屋建筑空间与岭南地域特色，显示出较强的人物 - 非遗 - 空间融合特征。",
+  "entities": [
+    {
+      "name": "叶问",
+      "entity_type": "人物谱系",
+      "comment_role": "核心识别",
+      "evidence": "因为叶问，咏春拳走向了全世界",
+      "sentiment": "正向",
+      "confidence": 0.98
+    },
+    {
+      "name": "黄飞鸿",
+      "entity_type": "人物谱系",
+      "comment_role": "伴随识别",
+      "evidence": "起初对佛山的全面印象，则来之于黄飞鸿",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "咏春拳",
+      "entity_type": "非遗民俗谱系",
+      "comment_role": "核心识别",
+      "evidence": "了解咏春的文化",
+      "sentiment": "正向",
+      "confidence": 0.96
+    },
+    {
+      "name": "祖屋",
+      "entity_type": "文化空间谱系",
+      "comment_role": "核心识别",
+      "evidence": "叶问，祖屋",
+      "sentiment": "正向",
+      "confidence": 0.92
+    },
+    {
+      "name": "传统粤式民居",
+      "entity_type": "文化空间谱系",
+      "comment_role": "伴随识别",
+      "evidence": "很有意思，传统粤式民居",
+      "sentiment": "正向",
+      "confidence": 0.91
+    },
+    {
+      "name": "岭南",
+      "entity_type": "岭南地方性谱系",
+      "comment_role": "背景提及",
+      "evidence": "非常具有岭南特色的功夫大师建筑物",
+      "sentiment": "正向",
+      "confidence": 0.89
+    },
+    {
+      "name": "中国功夫",
+      "entity_type": "非遗民俗谱系",
+      "comment_role": "背景提及",
+      "evidence": "历史沉淀，叶问纪念馆，中国功夫",
+      "sentiment": "正向",
+      "confidence": 0.85
+    },
+    {
+      "name": "文化认知",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "第一次在真实世界里走进了两位大侠的生平事迹",
+      "sentiment": "正向",
+      "confidence": 0.93
+    }
+  ],
+  "llm_error": ""
+}

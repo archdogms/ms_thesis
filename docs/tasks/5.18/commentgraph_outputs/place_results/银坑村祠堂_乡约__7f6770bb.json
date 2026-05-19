@@ -1,0 +1,31 @@
+{
+  "place_id": "place:B0FFGA58BQ",
+  "poi_id": "B0FFGA58BQ",
+  "place_name": "银坑村祠堂(乡约)",
+  "town": "西樵镇",
+  "category": "人文古迹",
+  "lng": "112.883841",
+  "lat": "22.858808",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R00034",
+      "platform": "去哪儿",
+      "text": "民宿里面拍的日落 民宿附近的南海湾"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅提及民宿摄影与周边自然景观，完全未涉及祠堂本体或任何地方文化内容，文旅融合在评论层面未发生。",
+  "entities": [
+    {
+      "name": "摄影打卡",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "民宿里面拍的日落",
+      "sentiment": "正向",
+      "confidence": 0.95
+    }
+  ],
+  "llm_error": ""
+}

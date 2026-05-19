@@ -1,0 +1,55 @@
+{
+  "place_id": "place:B0FFGB50JA",
+  "poi_id": "B0FFGB50JA",
+  "place_name": "盐步老龙",
+  "town": "大沥镇",
+  "category": "自然景观",
+  "lng": "113.163582",
+  "lat": "23.092553",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R00973",
+      "platform": "携程",
+      "text": "岭南水乡，龙舟有特色，每年一到端午就有赛龙舟。"
+    }
+  ],
+  "place_cultural_recognition": "高识别",
+  "integration_judgement": "评论明确将地点识别为岭南水乡文化空间，并高度关联龙舟非遗民俗与端午节庆活动，体现了自然景观向文化体验的有效转化。",
+  "entities": [
+    {
+      "name": "岭南水乡",
+      "entity_type": "岭南地方性谱系",
+      "comment_role": "核心识别",
+      "evidence": "岭南水乡",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "龙舟",
+      "entity_type": "非遗民俗谱系",
+      "comment_role": "核心识别",
+      "evidence": "龙舟有特色",
+      "sentiment": "正向",
+      "confidence": 0.96
+    },
+    {
+      "name": "端午",
+      "entity_type": "非遗民俗谱系",
+      "comment_role": "伴随识别",
+      "evidence": "每年一到端午就有赛龙舟",
+      "sentiment": "中性",
+      "confidence": 0.93
+    },
+    {
+      "name": "赛龙舟",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "每年一到端午就有赛龙舟",
+      "sentiment": "正向",
+      "confidence": 0.91
+    }
+  ],
+  "llm_error": ""
+}

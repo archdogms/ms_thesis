@@ -1,0 +1,47 @@
+{
+  "place_id": "place:B0LD3SFR5N",
+  "poi_id": "B0LD3SFR5N",
+  "place_name": "敦根水上龙舟乐园",
+  "town": "丹灶镇",
+  "category": "非遗体验",
+  "lng": "113.000148",
+  "lat": "22.869621",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01199",
+      "platform": "携程",
+      "text": "体验一次划龙舟还是挺好玩的，很有意义。景区里有非遗项目，大门票还是免费参观的"
+    }
+  ],
+  "place_cultural_recognition": "中识别",
+  "integration_judgement": "评论明确提及非遗项目概念并体验了划龙舟活动，但缺乏对具体民俗细节、历史背景或文化空间的深度描述，停留在浅层体验与标签化认知阶段。",
+  "entities": [
+    {
+      "name": "龙舟",
+      "entity_type": "非遗民俗谱系",
+      "comment_role": "核心识别",
+      "evidence": "体验一次划龙舟还是挺好玩的",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "非遗项目",
+      "entity_type": "非遗民俗谱系",
+      "comment_role": "背景提及",
+      "evidence": "景区里有非遗项目",
+      "sentiment": "中性",
+      "confidence": 0.88
+    },
+    {
+      "name": "划龙舟体验",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "体验一次划龙舟还是挺好玩的，很有意义",
+      "sentiment": "正向",
+      "confidence": 0.92
+    }
+  ],
+  "llm_error": ""
+}

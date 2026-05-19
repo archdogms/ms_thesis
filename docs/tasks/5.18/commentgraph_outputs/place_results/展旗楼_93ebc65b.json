@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0G3HL6JFL",
+  "poi_id": "B0G3HL6JFL",
+  "place_name": "展旗楼",
+  "town": "里水镇",
+  "category": "人文古迹",
+  "lng": "113.14225",
+  "lat": "23.153776",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01029",
+      "platform": "携程",
+      "text": "展旗楼"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅提及地点名称，缺乏对人物、非遗、历史或地方性文化的具体描述与体验反馈，无法体现文旅融合内容。",
+  "entities": [],
+  "llm_error": ""
+}

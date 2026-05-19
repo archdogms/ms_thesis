@@ -1,0 +1,144 @@
+{
+  "place_id": "place:B0FFHJ45NL",
+  "poi_id": "B0FFHJ45NL",
+  "place_name": "天湖公园",
+  "town": "西樵镇",
+  "category": "公园绿地",
+  "lng": "112.96723",
+  "lat": "22.929192",
+  "review_count": 14,
+  "selected_review_count": 14,
+  "reviews": [
+    {
+      "review_id": "R00256",
+      "platform": "马蜂窝",
+      "text": "国庆节，到处人山人海，一行3人出游，南海西樵山，意外收获：“2010年‘黄飞鸿杯’华人醒狮邀请赛——水上擂台”正在上演。从小看舞狮，第一次看见在水上打擂，有点小刺激。"
+    },
+    {
+      "review_id": "R00255",
+      "platform": "马蜂窝",
+      "text": "天湖公园，我曾去过一次，很大的湖啊，那边还有一个黄飞鸿醒狮的看台，每年都有比赛看的。"
+    },
+    {
+      "review_id": "R00254",
+      "platform": "马蜂窝",
+      "text": "在西樵山上，天湖的周围很好，国庆在这里还有舞狮竞赛，很多本地居民很喜欢的。每次到西樵山，都把车停在公园那里的停车场，先逛逛公园，沿着天湖边走的，很舒服。"
+    },
+    {
+      "review_id": "R00252",
+      "platform": "马蜂窝",
+      "text": "西樵山太美了，春节看桃花、茶花，三月看杜鹃花，一年四季山上都是有豆腐花。一张票就可以游遍整座山，建议开车游，走路你的脚会受不了的，山大景点多，观音，宝峰寺，天湖，桃花源，四方竹，翠岩，石燕岩，九龙洞，白云洞，碧玉洞。。。有排你游！"
+    },
+    {
+      "review_id": "R00251",
+      "platform": "马蜂窝",
+      "text": "山水相依，湖水碧绿，确实是个假日周游的好地方，湖景很漂亮，很适合情侣去，公园很大，也适合一家人去骑单车。"
+    },
+    {
+      "review_id": "R00244",
+      "platform": "马蜂窝",
+      "text": "非常不错的一个公园，环境非常清新优雅。11月份去的时候气候非常凉爽。主要卫生保持也很清洁。"
+    },
+    {
+      "review_id": "R00247",
+      "platform": "马蜂窝",
+      "text": "湖很大，很美，最喜欢就是沿着湖边走边聊，边欣赏湖面的风景，享受着湖风，很舒服。"
+    },
+    {
+      "review_id": "R00246",
+      "platform": "马蜂窝",
+      "text": "这里的风景很棒 水面总是很平静 非常适合拍照！"
+    },
+    {
+      "review_id": "R00253",
+      "platform": "马蜂窝",
+      "text": "风景不错，可惜这里太小，又有很多游客在拍照"
+    },
+    {
+      "review_id": "R00249",
+      "platform": "马蜂窝",
+      "text": "风景一般般 还是不错的 休闲散步的好地方"
+    },
+    {
+      "review_id": "R00250",
+      "platform": "马蜂窝",
+      "text": "公园比较小，适合平时休闲，环境还可以。"
+    },
+    {
+      "review_id": "R00245",
+      "platform": "马蜂窝",
+      "text": "天湖森林公园空气非常好！环境不错！"
+    },
+    {
+      "review_id": "R00243",
+      "platform": "马蜂窝",
+      "text": "天湖公园位于西樵山上，风景优美。"
+    },
+    {
+      "review_id": "R00248",
+      "platform": "马蜂窝",
+      "text": "在西樵山上面的，感觉湖不是很大"
+    }
+  ],
+  "place_cultural_recognition": "中识别",
+  "integration_judgement": "评论显示该地通过举办黄飞鸿杯醒狮赛事形成了特定的文化体验节点，但大部分游客认知仍停留在自然景观和休闲功能层面，文化内容呈现活动化、节点化特征，尚未完全融入日常游览的核心叙事。",
+  "entities": [
+    {
+      "name": "黄飞鸿",
+      "entity_type": "人物谱系",
+      "comment_role": "核心识别",
+      "evidence": "意外收获：'2010 年‘黄飞鸿杯’华人醒狮邀请赛——水上擂台’正在上演",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "醒狮",
+      "entity_type": "非遗民俗谱系",
+      "comment_role": "核心识别",
+      "evidence": "从小看舞狮，第一次看见在水上打擂",
+      "sentiment": "正向",
+      "confidence": 0.96
+    },
+    {
+      "name": "舞狮",
+      "entity_type": "非遗民俗谱系",
+      "comment_role": "伴随识别",
+      "evidence": "国庆在这里还有舞狮竞赛",
+      "sentiment": "正向",
+      "confidence": 0.93
+    },
+    {
+      "name": "黄飞鸿醒狮的看台",
+      "entity_type": "文化空间谱系",
+      "comment_role": "背景提及",
+      "evidence": "那边还有一个黄飞鸿醒狮的看台，每年都有比赛看的",
+      "sentiment": "中性",
+      "confidence": 0.88
+    },
+    {
+      "name": "水上擂台",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "第一次看见在水上打擂，有点小刺激",
+      "sentiment": "正向",
+      "confidence": 0.91
+    },
+    {
+      "name": "摄影打卡",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "非常适合拍照",
+      "sentiment": "正向",
+      "confidence": 0.85
+    },
+    {
+      "name": "空间景观",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "沿着天湖边走的，很舒服",
+      "sentiment": "正向",
+      "confidence": 0.82
+    }
+  ],
+  "llm_error": ""
+}

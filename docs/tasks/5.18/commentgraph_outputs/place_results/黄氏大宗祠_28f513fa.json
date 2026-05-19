@@ -1,0 +1,124 @@
+{
+  "place_id": "place:B0FFG3QKJB",
+  "poi_id": "B0FFG3QKJB",
+  "place_name": "黄氏大宗祠",
+  "town": "狮山镇",
+  "category": "人文古迹",
+  "lng": "113.021404",
+  "lat": "23.062956",
+  "review_count": 10,
+  "selected_review_count": 10,
+  "reviews": [
+    {
+      "review_id": "R01228",
+      "platform": "携程",
+      "text": "黄氏大宗祠，位于中山市，始建于明万历年间，清代和民国都进行过修缮，至今保护完好。坐西北向东南，三间三进，中轴线左右对称，建筑面积1600平方米。抬梁与穿斗混合结构，硬山顶，博古脊，石脚青砖墙，石包台，绿釉瓦当滴水，祠前置石狮一对。祠内外饰石雕、木雕、灰塑、壁画等，属典型的晚清岭南建筑。该建筑对研究地方宗族源流具有较高的历史价值，1939年，中共一区区委曾在此举办抗日游击干部训练班。1990年被定为市级文物保护单位。免费参观，每天9点至17点。"
+    },
+    {
+      "review_id": "R01202",
+      "platform": "携程",
+      "text": "黄氏大宗祠很值得一逛！青砖灰瓦的岭南建筑古朴大气，木雕、砖雕、灰塑工艺精湛，细节处尽显匠人心思。祠堂内陈列着黄氏家族的历史资料，能感受到深厚的文化底蕴。虽面积不算宏大，但胜在幽静，游客不多，可以慢慢欣赏。周边居民友善，还能顺道品尝地道小吃，是探寻传统宗族文化与市井烟火的好去处。"
+    },
+    {
+      "review_id": "R01231",
+      "platform": "携程",
+      "text": "家旁边的宗祠，大黄氏家族威武～"
+    },
+    {
+      "review_id": "R01229",
+      "platform": "携程",
+      "text": "【景色】怡然自得其乐融融， 【趣味】文化遗产继承者们。"
+    },
+    {
+      "review_id": "R01230",
+      "platform": "携程",
+      "text": "很有民俗特色的地方，应该打卡的地方！"
+    },
+    {
+      "review_id": "R01232",
+      "platform": "携程",
+      "text": "好 【景色】 【趣味】 【性价比】"
+    },
+    {
+      "review_id": "R01233",
+      "platform": "携程",
+      "text": "古老典雅的景色，挺好的，值得推荐！"
+    },
+    {
+      "review_id": "R01234",
+      "platform": "携程",
+      "text": "来吧兄弟姐们们，带你领略不同的风光"
+    },
+    {
+      "review_id": "R01235",
+      "platform": "携程",
+      "text": "一个不是很大的地方，可以看看去"
+    },
+    {
+      "review_id": "R01236",
+      "platform": "携程",
+      "text": "小景点，就是周边人看看吧，一般"
+    }
+  ],
+  "place_cultural_recognition": "中识别",
+  "integration_judgement": "评论中对岭南建筑工艺、宗族历史及抗战记忆有具体文本支撑，但部分评论流于泛化打卡或仅提及家族姓氏，整体文化识别深度不均。",
+  "entities": [
+    {
+      "name": "黄氏家族",
+      "entity_type": "人物谱系",
+      "comment_role": "核心识别",
+      "evidence": "祠堂内陈列着黄氏家族的历史资料",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "岭南建筑",
+      "entity_type": "岭南地方性谱系",
+      "comment_role": "核心识别",
+      "evidence": "属典型的晚清岭南建筑",
+      "sentiment": "正向",
+      "confidence": 0.98
+    },
+    {
+      "name": "木雕",
+      "entity_type": "非遗民俗谱系",
+      "comment_role": "伴随识别",
+      "evidence": "祠内外饰石雕、木雕、灰塑、壁画等",
+      "sentiment": "正向",
+      "confidence": 0.92
+    },
+    {
+      "name": "灰塑",
+      "entity_type": "非遗民俗谱系",
+      "comment_role": "伴随识别",
+      "evidence": "木雕、砖雕、灰塑工艺精湛",
+      "sentiment": "正向",
+      "confidence": 0.92
+    },
+    {
+      "name": "抗日游击干部训练班",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "背景提及",
+      "evidence": "1939 年，中共一区区委曾在此举办抗日游击干部训练班",
+      "sentiment": "中性",
+      "confidence": 0.96
+    },
+    {
+      "name": "宗族文化",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "体验主题",
+      "evidence": "是探寻传统宗族文化与市井烟火的好去处",
+      "sentiment": "正向",
+      "confidence": 0.88
+    },
+    {
+      "name": "摄影打卡",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "应该打卡的地方",
+      "sentiment": "正向",
+      "confidence": 0.85
+    }
+  ],
+  "llm_error": ""
+}

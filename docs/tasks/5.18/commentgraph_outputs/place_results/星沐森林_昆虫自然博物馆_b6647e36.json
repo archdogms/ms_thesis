@@ -1,0 +1,49 @@
+{
+  "place_id": "place:B0JRRYOSNV",
+  "poi_id": "B0JRRYOSNV",
+  "place_name": "星沐森林·昆虫自然博物馆",
+  "town": "桂城街道",
+  "category": "文化场馆",
+  "lng": "113.159053",
+  "lat": "23.016404",
+  "review_count": 3,
+  "selected_review_count": 3,
+  "reviews": [
+    {
+      "review_id": "R01047",
+      "platform": "携程",
+      "text": "叫昆虫自然博物馆，我还以为只有昆虫呢，谁知道内部这么丰富，有很多小动物，比如羊驼、刺猬、鹦鹉等等。非常有趣。 昆虫部分最有意思的就是蚂蚁洞，可以从切面看蚂蚁洞穴的规律。"
+    },
+    {
+      "review_id": "R01048",
+      "platform": "携程",
+      "text": "这里值得去，让小朋友认识和亲近昆虫"
+    },
+    {
+      "review_id": "R01049",
+      "platform": "携程",
+      "text": "现场买票99两张🤣出来才看到"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论主要聚焦于亲子科普、动物互动体验及票价信息，未识别到任何地方文化实体或岭南地域特色，属于通用型自然教育场馆体验。",
+  "entities": [
+    {
+      "name": "认识和亲近昆虫",
+      "entity_type": "体验主题",
+      "comment_role": "核心识别",
+      "evidence": "让小朋友认识和亲近昆虫",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "观察蚂蚁洞穴规律",
+      "entity_type": "体验主题",
+      "comment_role": "核心识别",
+      "evidence": "可以从切面看蚂蚁洞穴的规律",
+      "sentiment": "正向",
+      "confidence": 0.92
+    }
+  ],
+  "llm_error": ""
+}

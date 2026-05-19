@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0L65SO443",
+  "poi_id": "B0L65SO443",
+  "place_name": "九龙Park欢乐世界",
+  "town": "大沥镇",
+  "category": "体育设施",
+  "lng": "113.147258",
+  "lat": "23.109479",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R00890",
+      "platform": "携程",
+      "text": "九龙Park欢乐世界"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅包含地点名称，缺乏任何文化实体描述或体验细节，无法体现文旅融合内容。",
+  "entities": [],
+  "llm_error": ""
+}

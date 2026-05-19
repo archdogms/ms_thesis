@@ -1,0 +1,73 @@
+{
+  "place_id": "place:B02F50WYWN",
+  "poi_id": "B02F50WYWN",
+  "place_name": "海寿岛",
+  "town": "九江镇",
+  "category": "自然景观",
+  "lng": "112.981474",
+  "lat": "22.813056",
+  "review_count": 3,
+  "selected_review_count": 3,
+  "reviews": [
+    {
+      "review_id": "R00891",
+      "platform": "携程",
+      "text": "海寿岛上自成一个村委会，叫海寿村，村民都是150多年前从南海西樵太平沙过来的渔民。海寿村民在鱼塘养鱼在江里捕虾，一半的村民在九江镇中心谋生，清早坐船到城里做工晚上再回小岛住宿，他们喜欢养狗也喜欢吃狗，与世无争的生活如田园诗一样悠闲、像田园画一样明快。"
+    },
+    {
+      "review_id": "R00893",
+      "platform": "携程",
+      "text": "海寿岛是一个自然生态村，岛上没有工厂，也就没有噪声与废气污染。村里人种菜、捕虾或是做工谋生，日子过得简单而快乐。海寿岛有两样东西是最出名的，一个是虾，一个是狗，当然这名气也是吃出来的。养生的好地方哦～～～"
+    },
+    {
+      "review_id": "R00892",
+      "platform": "携程",
+      "text": "整辆汽车过渡，之前在平沙岛试过一次，这是第2次，还是挺新鲜的，岛上没有平沙岛大。租了辆单车，遇到一些美丽的乡村小屋。附近还有其他景点可以一起游玩。"
+    }
+  ],
+  "place_cultural_recognition": "中识别",
+  "integration_judgement": "评论清晰识别了移民历史记忆与独特的渔农生活方式，但缺乏对具体非遗项目、历史人物或实体文化空间的深度体验描述，融合停留在生活风貌感知层面。",
+  "entities": [
+    {
+      "name": "南海西樵太平沙渔民",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "核心识别",
+      "evidence": "村民都是 150 多年前从南海西樵太平沙过来的渔民",
+      "sentiment": "中性",
+      "confidence": 0.95
+    },
+    {
+      "name": "水乡",
+      "entity_type": "岭南地方性谱系",
+      "comment_role": "伴随识别",
+      "evidence": "在鱼塘养鱼在江里捕虾",
+      "sentiment": "正向",
+      "confidence": 0.88
+    },
+    {
+      "name": "粤式生活",
+      "entity_type": "岭南地方性谱系",
+      "comment_role": "核心识别",
+      "evidence": "与世无争的生活如田园诗一样悠闲、像田园画一样明快",
+      "sentiment": "正向",
+      "confidence": 0.91
+    },
+    {
+      "name": "地方饮食",
+      "entity_type": "岭南地方性谱系",
+      "comment_role": "核心识别",
+      "evidence": "一个是虾，一个是狗，当然这名气也是吃出来的",
+      "sentiment": "中性",
+      "confidence": 0.85
+    },
+    {
+      "name": "空间景观",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "遇到一些美丽的乡村小屋",
+      "sentiment": "正向",
+      "confidence": 0.93
+    }
+  ],
+  "llm_error": ""
+}

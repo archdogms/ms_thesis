@@ -1,0 +1,59 @@
+{
+  "place_id": "place:B0H1KD15OJ",
+  "poi_id": "B0H1KD15OJ",
+  "place_name": "碰碰车",
+  "town": "丹灶镇",
+  "category": "休闲娱乐",
+  "lng": "112.961845",
+  "lat": "23.08438",
+  "review_count": 5,
+  "selected_review_count": 5,
+  "reviews": [
+    {
+      "review_id": "R01159",
+      "platform": "携程",
+      "text": "广州长隆欢乐世界里好玩的东西很多啊，带着小朋友还是来玩了很幼稚的碰碰车啊，虽然都是小朋友玩的东西但是大人也玩的非常的开心啊。"
+    },
+    {
+      "review_id": "R01158",
+      "platform": "携程",
+      "text": "广州长隆欢乐世界里的碰碰车也是很好玩的啊，虽然只很适合小朋友玩的但是大人感觉玩的更加的开心啊，排队的人也不多可以一直玩。"
+    },
+    {
+      "review_id": "R01161",
+      "platform": "携程",
+      "text": "紧张刺激，而又其乐无穷，深受别人的喜爱"
+    },
+    {
+      "review_id": "R01162",
+      "platform": "携程",
+      "text": "很好玩 建议亲子 情侣过来体验 很不错"
+    },
+    {
+      "review_id": "R01160",
+      "platform": "携程",
+      "text": "碰碰车是长隆里老少适宜的游乐项目"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅聚焦于游乐设施的趣味性和亲子体验，完全未涉及任何地方文化实体或岭南地域特征。",
+  "entities": [
+    {
+      "name": "亲子体验",
+      "entity_type": "体验主题",
+      "comment_role": "核心识别",
+      "evidence": "带着小朋友还是来玩了很幼稚的碰碰车啊",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "空间景观",
+      "entity_type": "体验主题",
+      "comment_role": "伴随识别",
+      "evidence": "紧张刺激，而又其乐无穷",
+      "sentiment": "正向",
+      "confidence": 0.88
+    }
+  ],
+  "llm_error": ""
+}

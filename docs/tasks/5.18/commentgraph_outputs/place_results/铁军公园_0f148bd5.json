@@ -1,0 +1,60 @@
+{
+  "place_id": "place:B0HG2U0KTA",
+  "poi_id": "B0HG2U0KTA",
+  "place_name": "铁军公园",
+  "town": "西樵镇",
+  "category": "公园绿地",
+  "lng": "112.907543",
+  "lat": "22.988147",
+  "review_count": 2,
+  "selected_review_count": 2,
+  "reviews": [
+    {
+      "review_id": "R01196",
+      "platform": "携程",
+      "text": "铁军公园位于广东佛山禅城区汾江西路上，是专门为纪念革命先烈陈铁军夫妇二人而设立的纪念公园，公园不大，有一尊塑像和陈铁军的一个纪念馆。"
+    },
+    {
+      "review_id": "R01197",
+      "platform": "携程",
+      "text": "景区不大，但是教育意义，非常里面的陈列和展览都非常有珍贵的历史意义。"
+    }
+  ],
+  "place_cultural_recognition": "中识别",
+  "integration_judgement": "评论明确识别了革命人物陈铁军及其纪念馆空间，并肯定了展陈的历史教育价值，但缺乏对具体历史事件细节或深层精神内涵的描述，文化体验主要停留在纪念性参观层面。",
+  "entities": [
+    {
+      "name": "陈铁军",
+      "entity_type": "人物谱系",
+      "comment_role": "核心识别",
+      "evidence": "是专门为纪念革命先烈陈铁军夫妇二人而设立的纪念公园",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "纪念馆",
+      "entity_type": "文化空间谱系",
+      "comment_role": "核心识别",
+      "evidence": "有一尊塑像和陈铁军的一个纪念馆",
+      "sentiment": "中性",
+      "confidence": 0.92
+    },
+    {
+      "name": "陈列和展览",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "里面的陈列和展览都非常有珍贵的历史意义",
+      "sentiment": "正向",
+      "confidence": 0.88
+    },
+    {
+      "name": "历史意义",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "背景提及",
+      "evidence": "非常有珍贵的历史意义",
+      "sentiment": "正向",
+      "confidence": 0.85
+    }
+  ],
+  "llm_error": ""
+}

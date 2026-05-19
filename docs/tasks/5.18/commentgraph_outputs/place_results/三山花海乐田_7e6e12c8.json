@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0FFIFHDRB",
+  "poi_id": "B0FFIFHDRB",
+  "place_name": "三山花海乐田",
+  "town": "桂城街道",
+  "category": "自然景观",
+  "lng": "113.234888",
+  "lat": "23.007979",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01179",
+      "platform": "携程",
+      "text": "三山花海乐田"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅包含地点名称，缺乏对人物、非遗、空间、历史或岭南地方性文化的具体描述与体验反馈，无法体现文旅融合内容。",
+  "entities": [],
+  "llm_error": ""
+}

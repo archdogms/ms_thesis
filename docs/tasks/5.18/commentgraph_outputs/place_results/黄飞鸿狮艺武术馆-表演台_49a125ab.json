@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0FFG1YR84",
+  "poi_id": "B0FFG1YR84",
+  "place_name": "黄飞鸿狮艺武术馆-表演台",
+  "town": "西樵镇",
+  "category": "非遗体验",
+  "lng": "112.939961",
+  "lat": "22.926852",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R00841",
+      "platform": "携程",
+      "text": "黄飞鸿狮艺武术馆-表演台"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅复述地点名称，未包含任何具体的文化实体描述、体验过程或情感评价，无法体现文旅融合状态。",
+  "entities": [],
+  "llm_error": ""
+}

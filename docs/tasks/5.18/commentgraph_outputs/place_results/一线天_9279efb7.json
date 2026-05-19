@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0FFG2CLW7",
+  "poi_id": "B0FFG2CLW7",
+  "place_name": "一线天",
+  "town": "西樵镇",
+  "category": "自然景观",
+  "lng": "112.959465",
+  "lat": "22.935093",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R00877",
+      "platform": "携程",
+      "text": "大家一起可以去旅游参观单身兄弟姐妹"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅表达社交游玩意图，未提及任何地方文化实体或具体体验内容。",
+  "entities": [],
+  "llm_error": ""
+}

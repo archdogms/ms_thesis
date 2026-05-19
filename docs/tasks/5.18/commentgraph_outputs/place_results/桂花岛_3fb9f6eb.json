@@ -1,0 +1,31 @@
+{
+  "place_id": "place:B0HKCS5YZI",
+  "poi_id": "B0HKCS5YZI",
+  "place_name": "桂花岛",
+  "town": "桂城街道",
+  "category": "自然景观",
+  "lng": "113.141839",
+  "lat": "23.046792",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R00968",
+      "platform": "携程",
+      "text": "就是来回船票有点贵，半天就可以玩完了，天气太热受不了"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅聚焦于票价、时长和天气等基础游览体验，未识别到任何地方文化实体或文旅融合内容。",
+  "entities": [
+    {
+      "name": "摄影打卡",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "半天就可以玩完了",
+      "sentiment": "中性",
+      "confidence": 0.65
+    }
+  ],
+  "llm_error": ""
+}

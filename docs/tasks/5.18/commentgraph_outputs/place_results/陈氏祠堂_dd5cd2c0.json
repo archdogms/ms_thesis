@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0FFMB0M81",
+  "poi_id": "B0FFMB0M81",
+  "place_name": "陈氏祠堂",
+  "town": "狮山镇",
+  "category": "人文古迹",
+  "lng": "113.064585",
+  "lat": "23.224563",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01200",
+      "platform": "携程",
+      "text": "陈氏祠堂"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅包含地点名称，缺乏对文化实体、历史内涵或体验活动的具体描述，无法体现文旅融合状态。",
+  "entities": [],
+  "llm_error": ""
+}

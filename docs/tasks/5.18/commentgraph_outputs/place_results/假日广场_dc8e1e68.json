@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0FFGLP8I8",
+  "poi_id": "B0FFGLP8I8",
+  "place_name": "假日广场",
+  "town": "里水镇",
+  "category": "公园绿地",
+  "lng": "113.181442",
+  "lat": "23.15507",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01011",
+      "platform": "携程",
+      "text": "假日广场"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅提及地点名称，未包含任何文化实体描述或体验细节，无法体现文旅融合特征。",
+  "entities": [],
+  "llm_error": ""
+}

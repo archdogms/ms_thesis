@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0HUVZ2GKT",
+  "poi_id": "B0HUVZ2GKT",
+  "place_name": "樵山文化中心C区",
+  "town": "西樵镇",
+  "category": "文化场馆",
+  "lng": "112.960698",
+  "lat": "22.934372",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01113",
+      "platform": "携程",
+      "text": "樵山文化中心-C区"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅包含地点名称复述，未涉及任何具体文化实体、体验内容或地方性认知，无法体现文旅融合状态。",
+  "entities": [],
+  "llm_error": ""
+}

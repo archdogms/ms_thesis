@@ -1,0 +1,60 @@
+{
+  "place_id": "place:B0FFJ2UYP8",
+  "poi_id": "B0FFJ2UYP8",
+  "place_name": "梦里水乡景区",
+  "town": "里水镇",
+  "category": "自然景观",
+  "lng": "113.157412",
+  "lat": "23.193834",
+  "review_count": 2,
+  "selected_review_count": 2,
+  "reviews": [
+    {
+      "review_id": "R00879",
+      "platform": "携程",
+      "text": "这里晚上也好热闹，有打铁花，千人篝火舞让大家玩的不亦乐乎，荡秋千，只要你胆子够大，有玩不完的项目！"
+    },
+    {
+      "review_id": "R00878",
+      "platform": "携程",
+      "text": "这里晚上风景很好 适合跟朋友出来"
+    }
+  ],
+  "place_cultural_recognition": "弱识别",
+  "integration_judgement": "评论主要聚焦于夜间娱乐活动和自然景观体验，未提及具体的地方文化实体或岭南地域特征，文旅融合停留在通用休闲层面。",
+  "entities": [
+    {
+      "name": "打铁花",
+      "entity_type": "非遗民俗谱系",
+      "comment_role": "核心识别",
+      "evidence": "有打铁花",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "篝火舞",
+      "entity_type": "非遗民俗谱系",
+      "comment_role": "核心识别",
+      "evidence": "千人篝火舞让大家玩的不亦乐乎",
+      "sentiment": "正向",
+      "confidence": 0.88
+    },
+    {
+      "name": "夜间游乐体验",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "晚上也好热闹...有玩不完的项目",
+      "sentiment": "正向",
+      "confidence": 0.92
+    },
+    {
+      "name": "夜景观赏",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "晚上风景很好",
+      "sentiment": "正向",
+      "confidence": 0.9
+    }
+  ],
+  "llm_error": ""
+}

@@ -1,0 +1,82 @@
+{
+  "place_id": "place:65433cbd5b5c",
+  "poi_id": "",
+  "place_name": "畅乐水上乐园",
+  "town": "狮山镇",
+  "category": "休闲娱乐",
+  "lng": "113.046436",
+  "lat": "23.052576",
+  "review_count": 8,
+  "selected_review_count": 8,
+  "reviews": [
+    {
+      "review_id": "R01104",
+      "platform": "携程",
+      "text": "看到别人发朋友圈就慕名而来的。两孩子，9岁娃、3岁娃都有可以玩的，孩子们很开心。 99元两大一小，性价比挺高的了，还有免费停车场，园区内小卖部的价钱也不过份，推荐亲子周边游。"
+    },
+    {
+      "review_id": "R01106",
+      "platform": "携程",
+      "text": "0.9米以下免票，我们4口买了张两大一小99元套票、再补一张单人票，挺好玩的。主要是性价比高，单是玩水的话，比同市的盈香*态园高出不少，推荐。"
+    },
+    {
+      "review_id": "R01107",
+      "platform": "携程",
+      "text": "场地不大，游乐设施比较少，去的当天最好玩的设施没开放，大喇叭小喇叭都不能玩，不知道为什么。不过小孩子还是玩得挺开心的。大人的话就不太建议了。"
+    },
+    {
+      "review_id": "R01105",
+      "platform": "携程",
+      "text": "小朋友特别喜欢玩，特别是大喇叭小朋友玩了很多次，1米2以下的小朋友也能玩，性价比还是很高的，离你很近，20分钟之前就到了，"
+    },
+    {
+      "review_id": "R01108",
+      "platform": "携程",
+      "text": "小朋友特别喜欢玩，特别是大喇叭小朋友玩了很多次，1米2以下的小朋友也能玩，性价比还是很高的，离你很近，20分钟之前就到了"
+    },
+    {
+      "review_id": "R01110",
+      "platform": "携程",
+      "text": "超级棒，非常好玩，去过龙江新世纪，去过西樵平沙岛，还是这畅乐最好玩"
+    },
+    {
+      "review_id": "R01111",
+      "platform": "携程",
+      "text": "小孩子玩得很开心"
+    },
+    {
+      "review_id": "R01109",
+      "platform": "携程",
+      "text": "去过好多次了"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论完全聚焦于亲子娱乐、票价性价比及设施体验，未涉及任何地方文化实体或岭南文化内容，属于纯商业休闲消费场景。",
+  "entities": [
+    {
+      "name": "亲子周边游",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "推荐亲子周边游",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "玩水",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "单是玩水的话",
+      "sentiment": "中性",
+      "confidence": 0.9
+    },
+    {
+      "name": "游乐设施",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "游乐设施比较少",
+      "sentiment": "负向",
+      "confidence": 0.88
+    }
+  ],
+  "llm_error": ""
+}

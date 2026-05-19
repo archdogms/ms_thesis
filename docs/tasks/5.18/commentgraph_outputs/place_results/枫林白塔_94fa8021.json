@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0FFHHJ5YR",
+  "poi_id": "B0FFHHJ5YR",
+  "place_name": "枫林白塔",
+  "town": "西樵镇",
+  "category": "自然景观",
+  "lng": "112.958687",
+  "lat": "22.936283",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R00010",
+      "platform": "去哪儿",
+      "text": "枫林白塔坐落于广东佛山的西樵山风景区的“白云洞景区”内。"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅陈述地理位置归属，未涉及任何人物、非遗、历史记忆或岭南地方性文化内容，缺乏文旅融合的文化识别要素。",
+  "entities": [],
+  "llm_error": ""
+}

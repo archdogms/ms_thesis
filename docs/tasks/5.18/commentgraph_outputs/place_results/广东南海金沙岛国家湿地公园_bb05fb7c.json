@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0FFG63FJW",
+  "poi_id": "B0FFG63FJW",
+  "place_name": "广东南海金沙岛国家湿地公园",
+  "town": "丹灶镇",
+  "category": "公园绿地",
+  "lng": "112.9608",
+  "lat": "23.076499",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01112",
+      "platform": "携程",
+      "text": "广东南海金沙岛国家湿地公园"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅复述地点名称，未包含任何人物、非遗、空间、历史或地方性文化实体的具体描述与体验。",
+  "entities": [],
+  "llm_error": ""
+}

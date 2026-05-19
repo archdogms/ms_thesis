@@ -1,0 +1,52 @@
+{
+  "place_id": "place:B02F50YSSQ",
+  "poi_id": "B02F50YSSQ",
+  "place_name": "西樵山宝峰寺",
+  "town": "西樵镇",
+  "category": "宗教场所",
+  "lng": "112.977185",
+  "lat": "22.929907",
+  "review_count": 2,
+  "selected_review_count": 2,
+  "reviews": [
+    {
+      "review_id": "R00829",
+      "platform": "携程",
+      "text": "广东佛山西樵山宝峰寺，占地面积二万一千六百平方米，为南粤四大名寺之一，始建于明朝，以61.9米高的南海观音铜像和明代建筑风格著称。"
+    },
+    {
+      "review_id": "R00830",
+      "platform": "携程",
+      "text": "景色优美，非常的合适。你是感受到那边的风情。"
+    }
+  ],
+  "place_cultural_recognition": "中识别",
+  "integration_judgement": "评论中存在对明代历史背景和南粤名寺地位的事实性陈述，但缺乏游客个人的深度文化体验或情感共鸣，另一条评论仅泛谈风情而无具体文化实体。",
+  "entities": [
+    {
+      "name": "明朝",
+      "entity_type": "历史记忆谱系",
+      "comment_role": "背景提及",
+      "evidence": "始建于明朝",
+      "sentiment": "中性",
+      "confidence": 0.95
+    },
+    {
+      "name": "南粤四大名寺",
+      "entity_type": "文化空间谱系",
+      "comment_role": "核心识别",
+      "evidence": "为南粤四大名寺之一",
+      "sentiment": "正向",
+      "confidence": 0.88
+    },
+    {
+      "name": "明代建筑风格",
+      "entity_type": "文化空间谱系",
+      "comment_role": "伴随识别",
+      "evidence": "以 61.9 米高的南海观音铜像和明代建筑风格著称",
+      "sentiment": "正向",
+      "confidence": 0.9
+    }
+  ],
+  "llm_error": ""
+}

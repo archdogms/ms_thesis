@@ -1,0 +1,39 @@
+{
+  "place_id": "place:B02F50XHK7",
+  "poi_id": "B02F50XHK7",
+  "place_name": "市民广场",
+  "town": "狮山镇",
+  "category": "公园绿地",
+  "lng": "113.002752",
+  "lat": "23.119338",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01237",
+      "platform": "携程",
+      "text": "环境真好。。。有花有水。。石桥小亭。。还有各种各样的运动器材。。。无论是溜达还是溜娃。。都是绝好的选择。旁边还有希尔顿酒店。。"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅聚焦于自然景观、休闲设施与周边商业配套，未识别到任何地方文化实体或岭南特色内容。",
+  "entities": [
+    {
+      "name": "空间景观",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "有花有水。。石桥小亭",
+      "sentiment": "正向",
+      "confidence": 0.95
+    },
+    {
+      "name": "商业消费",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "旁边还有希尔顿酒店",
+      "sentiment": "中性",
+      "confidence": 0.88
+    }
+  ],
+  "llm_error": ""
+}

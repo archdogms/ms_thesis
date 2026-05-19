@@ -1,0 +1,37 @@
+{
+  "place_id": "place:B02F507JSS",
+  "poi_id": "B02F507JSS",
+  "place_name": "大沥公园",
+  "town": "大沥镇",
+  "category": "公园绿地",
+  "lng": "113.12273",
+  "lat": "23.111971",
+  "review_count": 4,
+  "selected_review_count": 4,
+  "reviews": [
+    {
+      "review_id": "R01182",
+      "platform": "携程",
+      "text": "大沥公园位于繁华的佛山南海区大沥城区。交通方便，公园内设大沥文化中心，含图书馆、文化广场等基础设施，园内立有大沥“二.七”革命纪念碑。值得推荐！"
+    },
+    {
+      "review_id": "R01183",
+      "platform": "携程",
+      "text": "大沥公园人流量越来越大了，尤其小朋友们玩得特别开心"
+    },
+    {
+      "review_id": "R01184",
+      "platform": "携程",
+      "text": "点赞棒棒的哦，点赞棒棒的哦，点赞棒棒的哦"
+    },
+    {
+      "review_id": "R01185",
+      "platform": "携程",
+      "text": "点赞棒棒的哦，点赞棒棒的哦，点赞棒棒的"
+    }
+  ],
+  "place_cultural_recognition": "中识别",
+  "integration_judgement": "评论明确提及革命纪念碑与文化中心设施，显示历史记忆与公共文化空间被游客识别，但缺乏对文化内涵的深度体验描述。",
+  "entities": [],
+  "llm_error": ""
+}

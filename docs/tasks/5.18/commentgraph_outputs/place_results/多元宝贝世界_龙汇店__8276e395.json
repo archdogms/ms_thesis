@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0IRYUBYVX",
+  "poi_id": "B0IRYUBYVX",
+  "place_name": "多元宝贝世界(龙汇店)",
+  "town": "大沥镇",
+  "category": "休闲娱乐",
+  "lng": "113.144766",
+  "lat": "23.110977",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R00828",
+      "platform": "携程",
+      "text": "多元宝贝世界(龙汇店)"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅包含地点名称，缺乏任何关于地方文化实体、非遗民俗或历史记忆的实质性描述，无法体现文旅融合特征。",
+  "entities": [],
+  "llm_error": ""
+}

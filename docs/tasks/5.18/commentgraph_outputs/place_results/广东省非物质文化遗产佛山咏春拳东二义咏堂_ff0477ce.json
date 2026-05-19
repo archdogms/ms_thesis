@@ -1,0 +1,22 @@
+{
+  "place_id": "place:B0JRKMVGXF",
+  "poi_id": "B0JRKMVGXF",
+  "place_name": "广东省非物质文化遗产佛山咏春拳东二义咏堂",
+  "town": "桂城街道",
+  "category": "非遗体验",
+  "lng": "113.160155",
+  "lat": "23.022605",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01028",
+      "platform": "携程",
+      "text": "广东省非物质文化遗产佛山咏春拳东二义咏堂"
+    }
+  ],
+  "place_cultural_recognition": "未形成",
+  "integration_judgement": "评论仅复述地点名称作为标题或标签，缺乏游客对文化内容、体验过程或历史背景的实际描述，无法构成有效的文旅融合语义识别。",
+  "entities": [],
+  "llm_error": ""
+}

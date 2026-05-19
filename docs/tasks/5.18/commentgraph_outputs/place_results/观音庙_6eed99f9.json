@@ -1,0 +1,31 @@
+{
+  "place_id": "place:B0FFHRPUYH",
+  "poi_id": "B0FFHRPUYH",
+  "place_name": "观音庙",
+  "town": "桂城街道",
+  "category": "宗教场所",
+  "lng": "113.191867",
+  "lat": "23.026327",
+  "review_count": 1,
+  "selected_review_count": 1,
+  "reviews": [
+    {
+      "review_id": "R01217",
+      "platform": "携程",
+      "text": "有求必应，打卡好去处，非常好."
+    }
+  ],
+  "place_cultural_recognition": "弱识别",
+  "integration_judgement": "评论仅体现宗教场所的祈福功能与打卡行为，未涉及具体的岭南民俗、建筑历史或地方文化叙事，文旅融合停留在浅层观光阶段。",
+  "entities": [
+    {
+      "name": "打卡",
+      "entity_type": "体验主题",
+      "comment_role": "体验主题",
+      "evidence": "打卡好去处",
+      "sentiment": "正向",
+      "confidence": 0.95
+    }
+  ],
+  "llm_error": ""
+}
