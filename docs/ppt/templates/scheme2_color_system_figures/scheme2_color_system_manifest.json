@@ -1,0 +1,36 @@
+{
+  "palette": {
+    "primary_purple": "#500070",
+    "tsinghua_purple": "#600070",
+    "deep_purple": "#2F0A42",
+    "lavender": "#E8D8EC",
+    "paper": "#FAF8F4",
+    "blue_gray": "#E0E8F0",
+    "pale_blue": "#E8F0F8",
+    "map_blue": "#6F89AA",
+    "sage": "#688878",
+    "ink": "#2B2A2F",
+    "muted": "#707070",
+    "line": "#C8C8D0",
+    "gold": "#B88A3B",
+    "rose": "#8F4E67"
+  },
+  "deck_figure_dir": "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_color_system_figures\\deck",
+  "all_source_figure_dir": "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_color_system_figures\\all_source_figures",
+  "deck_figures": [
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_color_system_figures\\deck\\comment-recognition.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_color_system_figures\\deck\\correlation-heatmap.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_color_system_figures\\deck\\data-pipeline.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_color_system_figures\\deck\\density-overlay.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_color_system_figures\\deck\\image2-style-reference.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_color_system_figures\\deck\\jiujiang-zoom.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_color_system_figures\\deck\\kg-examples.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_color_system_figures\\deck\\mismatch-compare.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_color_system_figures\\deck\\poi-structure.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_color_system_figures\\deck\\sensitivity.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_color_system_figures\\deck\\town-bar.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_color_system_figures\\deck\\tsinghua-logo.png"
+  ],
+  "source_figures_count": 41,
+  "note": "Original images are untouched. These are recolored copies for the scheme 2 visual system."
+}

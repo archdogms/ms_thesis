@@ -1,0 +1,36 @@
+{
+  "palette": {
+    "tsinghua_purple": "#5A0A6A",
+    "paper": "#FAFCFC",
+    "blue_gray": "#DCEAF0",
+    "pale_blue": "#EAF2F5",
+    "mist_gray": "#EEF1F2",
+    "map_blue": "#6F9AAA",
+    "deep_blue": "#4F7280",
+    "sage": "#7C9A88",
+    "deep_sage": "#5E7E6A",
+    "light_sage": "#DDE8E1",
+    "slate_blue": "#7895A1",
+    "ink": "#2B2F33",
+    "muted": "#6F777C",
+    "line": "#CBD6DA"
+  },
+  "deck_figure_dir": "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_bluegreen_system_figures\\deck",
+  "all_source_figure_dir": "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_bluegreen_system_figures\\all_source_figures",
+  "deck_figures": [
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_bluegreen_system_figures\\deck\\comment-recognition.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_bluegreen_system_figures\\deck\\correlation-heatmap.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_bluegreen_system_figures\\deck\\data-pipeline.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_bluegreen_system_figures\\deck\\density-overlay.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_bluegreen_system_figures\\deck\\image2-style-reference.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_bluegreen_system_figures\\deck\\jiujiang-zoom.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_bluegreen_system_figures\\deck\\kg-examples.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_bluegreen_system_figures\\deck\\mismatch-compare.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_bluegreen_system_figures\\deck\\poi-structure.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_bluegreen_system_figures\\deck\\sensitivity.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_bluegreen_system_figures\\deck\\town-bar.png",
+    "C:\\Users\\31484\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\templates\\scheme2_bluegreen_system_figures\\deck\\tsinghua-logo.png"
+  ],
+  "source_figures_count": 41,
+  "note": "Original images are untouched. Content figures avoid purple; purple is reserved for the Tsinghua template accent only."
+}
