@@ -1,0 +1,23 @@
+{
+  "sourcePptx": "C:\\Users\\ms\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\总ppt分页设计\\孟帅_最终答辩.pptx",
+  "mapPath": "C:\\Users\\ms\\Desktop\\thesis\\outputs\\manual-20260602-ppt-redesign\\presentations\\ms-defense-redesign\\split-maps\\map-slide-13.json",
+  "output": "C:\\Users\\ms\\Desktop\\thesis\\ms_thesis\\docs\\ppt\\总ppt分页设计\\逐页编号\\第13页.pptx",
+  "outputBytes": 1889683,
+  "sourceSlideCount": 18,
+  "slideCount": 1,
+  "previewDir": "C:\\Users\\ms\\Desktop\\thesis\\outputs\\manual-20260602-ppt-redesign\\presentations\\ms-defense-redesign\\split-preview\\第13页",
+  "layoutDir": "C:\\Users\\ms\\Desktop\\thesis\\outputs\\manual-20260602-ppt-redesign\\presentations\\ms-defense-redesign\\split-layout\\第13页",
+  "slides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 13,
+      "narrativeRole": "source slide 13",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 0,
+      "previewPath": "C:\\Users\\ms\\Desktop\\thesis\\outputs\\manual-20260602-ppt-redesign\\presentations\\ms-defense-redesign\\split-preview\\第13页\\starter-slide-01.png",
+      "previewRelativePath": "split-preview/第13页/starter-slide-01.png",
+      "layoutPath": "C:\\Users\\ms\\Desktop\\thesis\\outputs\\manual-20260602-ppt-redesign\\presentations\\ms-defense-redesign\\split-layout\\第13页\\starter-slide-01.layout.json",
+      "layoutRelativePath": "split-layout/第13页/starter-slide-01.layout.json"
+    }
+  ]
+}
